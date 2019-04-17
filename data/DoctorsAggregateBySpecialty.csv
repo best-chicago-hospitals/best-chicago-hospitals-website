@@ -1,286 +1,255 @@
 ﻿Hospital,Specialty,Doctor
-LOYOLA UNIVERSITY MEDICAL CENTER,"Endocrinology, Diabetes & Metabolism",1
-LOYOLA UNIVERSITY MEDICAL CENTER,Adolescent Medicine,1
-RUSH UNIVERSITY MEDICAL CENTER,Psychiatry,1
-NORTHWESTERN MEMORIAL HOSPITAL,Neurological Surgery,2
-UNIVERSITY OF ILLINOIS HOSPITAL,Psychiatry,1
-University of Illinois at Chicago Eye & Ear Infirmary,Ophthalmology,6
-NORTHSHORE EVANSTON HOSPITAL,Hand Surgery,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Pulmonology,2
-RUSH UNIVERSITY MEDICAL CENTER,Urology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Maternal & Fetal Medicine,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Clinical Genetics,1
-NORTHWESTERN MEMORIAL HOSPITAL,Ophthalmology,2
-UNIVERSITY OF ILLINOIS HOSPITAL,Urology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Physical Medicine & Rehabilitation,1
-RUSH OAK PARK HOSPITAL,Cardiovascular Disease,2
-NORTHSHORE HIGHLAND PARK HOSPITAL,Gynecologic Oncology,1
-"AMITA Health St. Alexius Medical Center, Hoffman Estates",Neurological Surgery,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Cardiovascular Disease,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Psychiatry,1
-MERCY HOSPITAL AND MEDICAL CENTER,Child Neurology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Medical Oncology,12
+Loyola University Medical Center,"Endocrinology, Diabetes & Metabolism",1
+Loyola University Medical Center,Adolescent Medicine,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Clinical Genetics,1
+Rush University Medical Center,Psychiatry,1
+Northwestern Memorial Hospital,Neurological Surgery,2
+University of Illinois Hospital,Psychiatry,1
+NorthShore University Health System,Diagnostic Radiology,1
+Fox Ridge Medical Associates,Internal Medicine,1
+Rush University Medical Center,Urology,1
+Northwestern Memorial Hospital,Maternal & Fetal Medicine,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Rheumatology,1
+Northwestern Memorial Hospital,Ophthalmology,2
+University of Illinois Hospital,Urology,1
+Loyola University Medical Center,Cardiovascular Disease,1
+University of Chicago Medical Center,Psychiatry,1
+"Edward Hines, Jr. VA Hospital",Pulmonary Disease,1
+University of Chicago Medical Center,Medical Oncology,12
 University of Chicago-Comer Children's Hospital,Pediatric Allergy & Immunology,1
-NORTHSHORE EVANSTON HOSPITAL,Gastroenterology,1
-NORTHSHORE EVANSTON HOSPITAL,Reproductive Endocrinology/Infertility,1
-ADVOCATE ILLINOIS MASONIC MEDICAL CENTER,Otolaryngology,2
-NORTHWESTERN CENTRAL DUPAGE HOSPITAL,Maternal & Fetal Medicine,1
-NORTHSHORE EVANSTON HOSPITAL,Medical Oncology,1
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Urology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Surgery,1
-NORTHWESTERN CENTRAL DUPAGE HOSPITAL,Pulmonary Disease,1
-Memorial Medical Center-Springfield,Surgery,1
+NorthShore University Health System,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
+Advocate Illinois Masonic Medical Center,Otolaryngology,2
+Advocate Lutheran General Hospital,Urology,1
+Northwestern Central DuPage Hospital,Maternal & Fetal Medicine,1
+Silver Cross Hospital,Family Medicine,1
+University of Illinois Hospital,Otolaryngology/Facial Plastic Surgery,1
 St. John's Hospital - Springfield,Plastic Surgery,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Otolaryngology/Facial Plastic Surgery,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Surgery,1
 University of Chicago-Comer Children's Hospital,Pediatric Otolaryngology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Surgery,2
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pain Medicine,1
-NORTHWESTERN MEMORIAL HOSPITAL,Cardiovascular Disease,3
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Neurology,1
-MIDWESTERN REGION MED CENTER,Surgery,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Vascular & Interventional Radiology,1
-HINES VA MEDICAL CENTER,Pulmonary Disease,1
-Shirley Ryan AbilityLab,Allergy & Immunology,1
-RUSH UNIVERSITY MEDICAL CENTER,Nephrology,1
-MERCY HOSPITAL AND MEDICAL CENTER,Pediatric Surgery,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Otolaryngology,2
-LOYOLA UNIVERSITY MEDICAL CENTER,Interventional Cardiology,2
-NORTHSHORE EVANSTON HOSPITAL,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Medical Oncology,2
-ADVOCATE LUTHERAN GENERAL HOSPITAL,"Endocrinology, Diabetes & Metabolism",1
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Orthopaedic Surgery,1
-SWEDISH COVENANT HOSPITAL,Gastroenterology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Reproductive Endocrinology/Infertility,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Gynecologic Oncology,2
-NORTHSHORE HIGHLAND PARK HOSPITAL,Gastroenterology,1
-JESSE BROWN VA MEDICAL CENTER - VA CHICAGO HEALTHCARE SYSTEM,Vascular & Interventional Radiology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Otolaryngology,1
-ELMHURST MEMORIAL HOSPITAL,Thoracic & Cardiac Surgery,1
-RUSH UNIVERSITY MEDICAL CENTER,Colon & Rectal Surgery,1
-NORTHSHORE EVANSTON HOSPITAL,Neurological Surgery,1
-NORTHWESTERN MEMORIAL HOSPITAL,Allergy & Immunology,2
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Infectious Disease,1
-Prentice Women's Hospital,Neonatal-Perinatal Medicine,1
+AMITA Saint Joseph Hospital - Elgin,Internal Medicine,1
+Loyola University Medical Center,Neurology,1
+University of Chicago Medical Center,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Endocrinology,1
+Northwestern Memorial Hospital,Cardiovascular Disease,3
+University of Chicago Medical Center,Vascular & Interventional Radiology,1
+NorthShore University Health System,Maternal & Fetal Medicine,2
+"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",Family Medicine,1
+Rush University Medical Center,Nephrology,1
+University of Illinois Hospital,Internal Medicine,2
+Loyola University Medical Center,Interventional Cardiology,2
+Ann & Robert H Lurie Children's Hospital of Chicago,Pain Medicine,1
+Loyola University Medical Center,Medical Oncology,2
+Advocate Lutheran General Hospital,Orthopaedic Surgery,1
+Advocate Lutheran General Hospital,"Endocrinology, Diabetes & Metabolism",1
+Swedish Covenant Hospital,Gastroenterology,1
+University of Chicago Medical Center,Gynecologic Oncology,2
+Rush University Medical Center,Colon & Rectal Surgery,1
+Northwestern Memorial Hospital,Allergy & Immunology,2
 Ronald McDonald Children's Hospital-Loyola,Neonatal-Perinatal Medicine,1
-NORTHWESTERN MEMORIAL HOSPITAL,Internal Medicine,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Neurology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Radiation Oncology,3
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Rheumatology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Neurology,6
-Mendota Community Hospital,Urology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Orthopaedic Surgery,2
-RUSH UNIVERSITY MEDICAL CENTER,Cardiovascular Disease,2
-NORTHWESTERN MEMORIAL HOSPITAL,Surgery,5
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Pulmonary Disease,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Thoracic & Cardiac Surgery,4
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Thoracic & Cardiac Surgery,2
-NORTHWESTERN MEMORIAL HOSPITAL,Neuroradiology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Pediatric Infectious Disease,1
-ADVOCATE SOUTH SUBURBAN HOSPITAL,Ophthalmology,1
-RUSH UNIVERSITY MEDICAL CENTER,Rheumatology,1
-RUSH UNIVERSITY MEDICAL CENTER,Surgery,1
-RUSH OAK PARK HOSPITAL,Medical Oncology,1
-PRESENCE ST MARYS HOSPITAL,Otolaryngology,1
-NORTHSHORE EVANSTON HOSPITAL,Maternal & Fetal Medicine,2
+Northwestern Memorial Hospital,Internal Medicine,4
+University of Illinois Hospital,Neurology,1
+University of Chicago Medical Center,Radiation Oncology,3
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatrics,1
+Loyola University Medical Center,Internal Medicine,4
+University of Chicago Medical Center,Rheumatology,1
+NorthShore University Health System,Reproductive Endocrinology/Infertility,1
+Northwestern Memorial Hospital,Neurology,6
+NorthShore University Health System,Neurology,1
+Rush University Medical Center,Cardiovascular Disease,2
+Northwestern Memorial Hospital,Orthopaedic Surgery,2
+Northwestern Lake Forest Hospital,Internal Medicine,1
+University of Chicago Medical Center,Pulmonary Disease,1
+Advocate Good Shepherd Hospital,Obstetrics and Gynecology,1
+University of Chicago Medical Center,Thoracic & Cardiac Surgery,4
+Northwestern Memorial Hospital,Pediatric Infectious Disease,1
+Northwestern Memorial Hospital,Neuroradiology,1
+Advocate Lutheran General Hospital,Pediatrics,1
+Advocate South Suburban Hospital,Ophthalmology,1
+Rush University Medical Center,Rheumatology,1
+Memorial Medical Center-Springfield,General Surgery,1
+"AMITA Health Adventist Medical Center, Hinsdale",Obstetrics and Gynecology,1
 University of Illinois at Chicago Eye & Ear Infirmary,Neurology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Cardiac Electrophysiology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Hematology,3
-NORTHWEST COMMUNITY HOSPITAL,Cardiac Electrophysiology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Cardiac Electrophysiology,1
-PRESENCE SAINT JOSEPH HOSPITAL - CHICAGO,Ophthalmology,1
-ADVOCATE SHERMAN HOSPITAL,Surgery,1
-NORTHWESTERN MEMORIAL HOSPITAL,Otolaryngology,3
-Ronald McDonald Children's Hospital-Loyola,Ophthalmology,1
-RUSH UNIVERSITY MEDICAL CENTER,Infectious Disease,2
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Adolescent Medicine,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Otolaryngology,2
-NORTHWESTERN MEMORIAL HOSPITAL,Gynecologic Oncology,2
-NORTHSHORE GLENBROOK HOSPITAL,Otolaryngology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Dermatology,2
-SHRINERS HOSPITAL FOR CHILDREN,Hand Surgery,1
-AMITA HEALTH ALEXIAN BROTHERS MEDICAL CENTER,Urology,1
-Santa Monica - UCLA Medical Center and Orthopaedic Hospital,Cardiac Electrophysiology,1
-AMITA HEALTH ADVENTIST HINSDALE HOSPITAL,Vascular & Interventional Radiology,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Pediatric Otolaryngology,1
-ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,Thoracic & Cardiac Surgery,1
-RUSH OAK PARK HOSPITAL,Orthopaedic Surgery,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Nuclear Medicine,1
-NORTHSHORE HIGHLAND PARK HOSPITAL,Reproductive Endocrinology/Infertility,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Otolaryngology,1
+Northwestern Memorial Hospital,Cardiac Electrophysiology,1
+University of Chicago Medical Center,Cardiac Electrophysiology,1
+Northwest Community Hospital,Cardiac Electrophysiology,1
+Northwestern Memorial Hospital,Hematology,3
+Presence Saint Joseph Hospital - Chicago,Ophthalmology,1
+Northwestern Memorial Hospital,Otolaryngology,3
+Rush University Medical Center,Infectious Disease,2
+"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",Neurological Surgery,2
+"AMITA Health Adventist Medical Center, Hinsdale",Pediatrics,2
+Loyola University Medical Center,Otolaryngology,2
+Northwestern Memorial Hospital,Gynecologic Oncology,2
+Advocate Sherman Hospital,General Surgery,1
+Loyola University Medical Center,Pediatric Otolaryngology,1
+Northwestern Medicine Woodstock Hospital,Obstetrics and Gynecology,1
+University of Chicago Medical Center,Nuclear Medicine,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Allergy & Immunology,1
+University of Chicago Medical Center,Otolaryngology,1
 Robbins Headache Clinic,Neurology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Reproductive Endocrinology/Infertility,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Hematology,3
-NORTHWESTERN MEMORIAL HOSPITAL,Dermatology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Urology,4
-ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,Pediatric Hematology-Oncology,1
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Reproductive Endocrinology/Infertility,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Endocrinology,1
-NORTHWESTERN CENTRAL DUPAGE HOSPITAL,Pediatric Urology,2
+University of Chicago Medical Center,Reproductive Endocrinology/Infertility,1
+Northwestern Medicine Marianjoy Rehabilitation Hospital,Physical Medicine & Rehabilitation,1
+University of Chicago Medical Center,Hematology,3
+Northwestern Memorial Hospital,Dermatology,1
+University of Illinois Hospital,Pediatrics,3
+University of Chicago Medical Center,Urology,4
 University of Chicago-Comer Children's Hospital,Pediatric Urology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Pathology,1
-JESSE BROWN VA MEDICAL CENTER - VA CHICAGO HEALTHCARE SYSTEM,Surgery,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Radiation Oncology,2
-LOYOLA UNIVERSITY MEDICAL CENTER,Hand Surgery,1
-RUSH UNIVERSITY MEDICAL CENTER,Otolaryngology,1
-RUSH UNIVERSITY MEDICAL CENTER,Reproductive Endocrinology/Infertility,2
-NORTHSHORE SKOKIE HOSPITAL,Medical Oncology,2
-RUSH UNIVERSITY MEDICAL CENTER,Neurological Surgery,1
-ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,Reproductive Endocrinology/Infertility,2
+University of Chicago Medical Center,Pathology,1
+Advocate Lutheran General Hospital,Family Medicine,1
+Loyola University Medical Center,Radiation Oncology,2
+University of Chicago Medical Center,General Surgery,7
+Loyola University Medical Center,Hand Surgery,1
+Rush University Medical Center,Otolaryngology,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Pulmonology,2
+Rush University Medical Center,Reproductive Endocrinology/Infertility,1
+University of Chicago-Comer Children's Hospital,General Surgery,1
+Rush University Medical Center,Neurological Surgery,1
+Rush University Medical Center,Pain Medicine,1
 NorthShore University Health System,Hand Surgery,1
-RUSH UNIVERSITY MEDICAL CENTER,Pain Medicine,1
-HINES VA MEDICAL CENTER,Radiation Oncology,2
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Pediatric Otolaryngology,1
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Medical Oncology,2
-NORTHWESTERN CENTRAL DUPAGE HOSPITAL,Pediatric Hematology-Oncology,3
-NORTHWESTERN MEMORIAL HOSPITAL,Diagnostic Radiology,1
-RUSH UNIVERSITY MEDICAL CENTER,Orthopaedic Surgery,2
-RUSH UNIVERSITY MEDICAL CENTER,Dermatology,2
-NORTHSHORE GLENBROOK HOSPITAL,Interventional Cardiology,1
-RUSH UNIVERSITY MEDICAL CENTER,Maternal & Fetal Medicine,1
-Marianjoy Rehabilitation Hospital,Physical Medicine & Rehabilitation,1
-NORTHWESTERN MEMORIAL HOSPITAL,Reproductive Endocrinology/Infertility,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Neuroradiology,2
-MERCY HOSPITAL AND MEDICAL CENTER,Pediatric Cardiology,1
-LOUIS A WEISS MEMORIAL HOSPITAL,Ophthalmology,1
-LOYOLA GOTTLIEB MEMORIAL HOSPITAL,Surgery,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Surgery,7
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Physical Medicine & Rehabilitation,1
+University of Chicago Medical Center,Pediatric Otolaryngology,1
+Northwestern Memorial Hospital,Diagnostic Radiology,1
+Presence Mercy Medical Center,Pediatrics,1
+Advocate Lutheran General Hospital,Medical Oncology,2
+Northwestern Central DuPage Hospital,Pediatric Hematology-Oncology,2
+Rush University Medical Center,Orthopaedic Surgery,2
+Rush University Medical Center,Dermatology,2
+Rush University Medical Center,Maternal & Fetal Medicine,1
+Northwestern Memorial Hospital,Reproductive Endocrinology/Infertility,1
+University of Chicago Medical Center,Neuroradiology,2
+Ann & Robert H Lurie Children's Hospital of Chicago,Ophthalmology,1
+"AMITA Health Adventist Medical Center, La Grange",Vascular & Interventional Radiology,1
+Rush University Medical Center,Family Medicine,1
+Loyola University Medical Center,General Surgery,1
+University of Chicago Medical Center,Physical Medicine & Rehabilitation,1
 OSF Saint Francis Medical Center,Pediatric Gastroenterology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Vascular & Interventional Radiology,2
-NORTHWESTERN MEMORIAL HOSPITAL,Urology,1
-Prentice Women's Hospital,Surgery,1
-ADVOCATE GOOD SAMARITAN HOSPITAL,Otolaryngology,1
+Northwestern Memorial Hospital,Vascular & Interventional Radiology,2
+Northwestern Memorial Hospital,Urology,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Child Neurology,1
+Presence Saint Francis Hospital - Evanston,General Surgery,2
+Rush University Medical Center,Obstetrics and Gynecology,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Neurological Surgery,1
+Advocate Good Samaritan Hospital,Otolaryngology,1
 Shirley Ryan AbilityLab,Rheumatology,1
-NORTHSHORE HIGHLAND PARK HOSPITAL,Plastic Surgery,2
-EDWARD HOSPITAL,Gynecologic Oncology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Physical Medicine & Rehabilitation,4
-NORTHWESTERN MEMORIAL HOSPITAL,Rheumatology,4
+Northshore University Health System,Pediatrics,1
+Northwestern Memorial Hospital,Physical Medicine & Rehabilitation,4
+Northwestern Memorial Hospital,Rheumatology,3
+"AMITA Health Adventist Medical Center, Hinsdale",Internal Medicine,2
+University of Chicago Medical Center,"Endocrinology, Diabetes & Metabolism",2
 Private practice,Child & Adolescent Psychiatry,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,"Endocrinology, Diabetes & Metabolism",2
-NORTHSHORE EVANSTON HOSPITAL,Surgery,2
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Rheumatology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Child Neurology,1
-RUSH OAK PARK HOSPITAL,Pulmonary Disease,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Allergy & Immunology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Infectious Disease,2
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Infectious Disease,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Neurology,3
-LOYOLA UNIVERSITY MEDICAL CENTER,Gynecologic Oncology,1
-NORTHSHORE HIGHLAND PARK HOSPITAL,Neurological Surgery,1
-NORTHSHORE HIGHLAND PARK HOSPITAL,Physical Medicine & Rehabilitation,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Plastic Surgery,2
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Colon & Rectal Surgery,1
-St. John's Hospital - Springfield,Surgery,1
-NORTHWESTERN MEMORIAL HOSPITAL,Thoracic & Cardiac Surgery,3
-LOYOLA UNIVERSITY MEDICAL CENTER,Maternal & Fetal Medicine,1
-RUSH OAK PARK HOSPITAL,Sports Medicine,1
-NORTHSHORE SKOKIE HOSPITAL,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Pediatric Gastroenterology,1
-AMITA HEALTH ALEXIAN BROTHERS MEDICAL CENTER,Neurological Surgery,2
+Advocate Christ Medical Center,Thoracic & Cardiac Surgery,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Neonatal-Perinatal Medicine,1
+NorthShore University Health System,Neurological Surgery,1
+NorthShore University Health System,Gastroenterology,1
+Northwestern Memorial Hospital,Infectious Disease,2
+University of Chicago Medical Center,Infectious Disease,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Infectious Disease,1
+University of Chicago Medical Center,Neurology,3
+Loyola University Medical Center,Gynecologic Oncology,1
+"AMITA Health Adventist Medical Center, Hinsdale",Family Medicine,2
+University of Chicago Medical Center,Colon & Rectal Surgery,1
+Loyola University Medical Center,Maternal & Fetal Medicine,1
+Northwestern Memorial Hospital,Thoracic & Cardiac Surgery,3
+West Suburban Medical Center,Pediatrics,1
 University of Chicago-Comer Children's Hospital,Otolaryngology,1
-ADVOCATE ILLINOIS MASONIC MEDICAL CENTER,Dermatology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Nephrology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Nuclear Medicine,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Orthopaedic Surgery,1
-MACNEAL  HOSPITAL,Ophthalmology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Colon & Rectal Surgery,2
-HINES VA MEDICAL CENTER,Medical Oncology,1
-RUSH UNIVERSITY MEDICAL CENTER,Hand Surgery,1
-University of Chicago-Comer Children's Hospital,Surgery,1
-NORTHWESTERN LAKE FOREST HOSPITAL,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
-NORTHSHORE SKOKIE HOSPITAL,Orthopaedic Surgery,1
-RUSH UNIVERSITY MEDICAL CENTER,Medical Oncology,3
-NORTHWEST COMMUNITY HOSPITAL,Reproductive Endocrinology/Infertility,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Hematology,3
-RUSH UNIVERSITY MEDICAL CENTER,Neurology,2
-NORTHSHORE EVANSTON HOSPITAL,Gynecologic Oncology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Clinical Genetics,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Nephrology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatrics,1
-SAINT ANTHONY HOSPITAL,Cardiovascular Disease,1
-NORTHWESTERN MEMORIAL HOSPITAL,Pediatric Pulmonology,1
-MERCY HOSPITAL AND MEDICAL CENTER,Pediatric Urology,1
-LARABIDA CHILDRENS HOSPITAL,Pediatric Rheumatology,1
+Advocate Illinois Masonic Medical Center,Dermatology,1
+"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",Internal Medicine,1
+Northwestern Memorial Hospital,Nuclear Medicine,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Hematology-Oncology,3
+Northwestern Memorial Hospital,Colon & Rectal Surgery,2
+Rush University Medical Center,General Surgery,1
+Rush University Medical Center,Hand Surgery,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Thoracic & Cardiac Surgery,2
+NorthShore University Health System,Gynecologic Oncology,1
+Palos Hospital,Obstetrics and Gynecology,1
+Rush University Medical Center,Medical Oncology,3
+Loyola University Medical Center,Hematology,2
+Rush University Medical Center,Neurology,2
+Northwestern Memorial Hospital,Clinical Genetics,1
+University of Chicago Medical Center,Nephrology,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Surgery,2
+University of Illinois Hospital & Health Sciences System,Radiation Oncology,1
+Northwestern Memorial Hospital,Pediatric Pulmonology,1
+Fertility Centers of Illinois,Reproductive Endocrinology/Infertility,1
+Northwestern Memorial Hospital,Obstetrics and Gynecology,1
 St. John's Hospital - Springfield,Vascular Surgery,1
-LOYOLA GOTTLIEB MEMORIAL HOSPITAL,Hematology,1
 University of Chicago-Comer Children's Hospital,Pediatric Surgery,1
-NORTHWESTERN MEMORIAL HOSPITAL,Plastic Surgery,5
-RUSH UNIVERSITY MEDICAL CENTER,Allergy & Immunology,1
-ADVOCATE ILLINOIS MASONIC MEDICAL CENTER,Gastroenterology,1
+Advocate Christ Medical Center,Pediatric Hematology-Oncology,1
+Northwestern Memorial Hospital,Plastic Surgery,5
+Rush University Medical Center,Allergy & Immunology,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Otolaryngology,1
+Advocate Illinois Masonic Medical Center,Gastroenterology,1
 University of Chicago-Comer Children's Hospital,Plastic Surgery,3
-LOYOLA UNIVERSITY MEDICAL CENTER,Thoracic & Cardiac Surgery,2
+Loyola University Medical Center,Thoracic & Cardiac Surgery,2
 University of Chicago-Comer Children's Hospital,Pediatric Hematology-Oncology,3
 The Chicago Lighthouse,Ophthalmology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Dermatology,1
-NORTHSHORE GLENBROOK HOSPITAL,Surgery,2
-ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,Neuroradiology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Reproductive Endocrinology/Infertility,2
-NORTHSHORE EVANSTON HOSPITAL,Diagnostic Radiology,1
+University of Chicago Medical Center,Dermatology,1
+Advocate Good Samaritan Hospital,Obstetrics and Gynecology,2
+University of Illinois Hospital,Reproductive Endocrinology/Infertility,2
 Shirley Ryan AbilityLab,Physical Medicine & Rehabilitation,4
-PRESENCE SAINT FRANCIS HOSPITAL - EVANSTON,Surgery,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Plastic Surgery,4
-LOYOLA UNIVERSITY MEDICAL CENTER,Surgery,1
-NORTHWESTERN DELNOR COMMUNITY HOSPITAL,Maternal & Fetal Medicine,1
-RUSH UNIVERSITY MEDICAL CENTER,Sports Medicine,2
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Neuroradiology,1
+University of Chicago Medical Center,Plastic Surgery,4
+NorthShore University Health System,Physical Medicine & Rehabilitation,1
+Rush University Medical Center,Sports Medicine,2
+Advocate Lutheran General Hospital,Neuroradiology,1
 University of Chicago-Comer Children's Hospital,Pediatric Gastroenterology,1
-NORTHSHORE HIGHLAND PARK HOSPITAL,Medical Oncology,1
+Presence Saint Joseph Medical Center - Joliet,Internal Medicine,1
+University of Illinois Hospital,General Surgery,1
 University of Chicago-Comer Children's Hospital,Pediatric Cardiology,1
 Memorial Medical Center-Springfield,Plastic Surgery,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Pediatric Hematology-Oncology,1
+"AMITA Health Adventist Medical Center, Hinsdale",Vascular & Interventional Radiology,1
+University of Illinois Hospital,Pediatric Hematology-Oncology,1
+Advocate Christ Medical Center,Neuroradiology,1
+Loyola University Medical Center,Urology,1
 University of Chicago-Comer Children's Hospital,Child Neurology,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Urology,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Orthopaedic Surgery,3
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Urology,2
-RUSH UNIVERSITY MEDICAL CENTER,Ophthalmology,1
+University of Chicago Medical Center,Orthopaedic Surgery,3
+NorthShore University Health System,General Surgery,2
 NorthShore University Health System,"Endocrinology, Diabetes & Metabolism",1
-LOYOLA UNIVERSITY MEDICAL CENTER,Ophthalmology,2
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Cardiovascular Disease,4
-RUSH OAK PARK HOSPITAL,Pain Medicine,1
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Neurological Surgery,1
-LITTLE COMPANY OF MARY HOSPITAL,Medical Oncology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Medical Oncology,5
-RUSH UNIVERSITY MEDICAL CENTER,Plastic Surgery,1
-AMITA HEALTH ADVENTIST LA GRANGE MEMORIAL HOSPITAL,Vascular & Interventional Radiology,1
+Rush University Medical Center,Ophthalmology,1
+Loyola University Medical Center,Ophthalmology,2
+University of Chicago Medical Center,Cardiovascular Disease,4
+Advocate Lutheran General Hospital,Neurological Surgery,1
+Northwestern Memorial Hospital,Medical Oncology,5
+Northwestern Memorial Hospital,General Surgery,5
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Cardiology,1
+Rush University Medical Center,Plastic Surgery,1
+NorthShore University Health System,Internal Medicine,3
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Urology,2
 Schwab Rehabilitation Hospital,Physical Medicine & Rehabilitation,2
-NORTHSHORE EVANSTON HOSPITAL,Physical Medicine & Rehabilitation,1
-SWEDISH COVENANT HOSPITAL,Dermatology,1
-PRESENCE SAINT JOSEPH HOSPITAL - CHICAGO,Maternal & Fetal Medicine,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Pediatric Hematology-Oncology,3
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Hand Surgery,1
-RUSH UNIVERSITY MEDICAL CENTER,Pulmonary Disease,2
-PRESENCE SAINT JOSEPH HOSPITAL - CHICAGO,Plastic Surgery,2
-NORTHSHORE EVANSTON HOSPITAL,Neurology,1
-PRESENCE SAINT JOSEPH HOSPITAL - CHICAGO,Otolaryngology,1
-NORTHSHORE EVANSTON HOSPITAL,Interventional Cardiology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Neurological Surgery,2
+Swedish Covenant Hospital,Dermatology,1
+University of Chicago Medical Center,Pediatric Hematology-Oncology,3
+Cancer Treatment Centers of America,General Surgery,1
+NorthShore University Health System,Medical Oncology,1
+University of Chicago Medical Center,Hand Surgery,1
+Rush University Medical Center,Pulmonary Disease,2
+Ann & Robert H Lurie Children's Hospital of Chicago,Adolescent Medicine,1
+Presence Saint Joseph Hospital - Chicago,Plastic Surgery,2
+Advocate Good Samaritan Hospital,Pediatrics,1
+NorthShore University Health System,Plastic Surgery,1
+Presence Saint Joseph Hospital - Chicago,Otolaryngology,1
+University of Illinois Hospital,Neurological Surgery,2
 Memorial Medical Center-Springfield,Vascular Surgery,1
-LOYOLA UNIVERSITY MEDICAL CENTER,Pulmonary Disease,1
 Memorial Medical Center-Springfield,Urology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Radiation Oncology,1
+Northwestern Memorial Hospital,Radiation Oncology,1
 St. John's Hospital - Springfield,Urology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Radiation Oncology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Hematology,2
-NORTHWESTERN MEMORIAL HOSPITAL,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Diagnostic Radiology,2
-NORTHWESTERN MEMORIAL HOSPITAL,Gastroenterology,3
-MERCY HOSPITAL AND MEDICAL CENTER,Pediatric Allergy & Immunology,1
+University of Illinois Hospital,Hematology,2
+Northwestern Memorial Hospital,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
+University of Chicago Medical Center,Diagnostic Radiology,2
+Northwestern Memorial Hospital,Gastroenterology,3
+Ann & Robert H Lurie Children's Hospital of Chicago,Dermatology,1
+"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",Urology,1
+NorthShore University Health System,Interventional Cardiology,1
 University of Chicago-Comer Children's Hospital,Pediatric Rheumatology,1
-ADVOCATE LUTHERAN GENERAL HOSPITAL,Pediatric Gastroenterology,2
-LOYOLA UNIVERSITY MEDICAL CENTER,Cardiac Electrophysiology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Thoracic & Cardiac Surgery,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Infectious Disease,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Ophthalmology,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Plastic Surgery,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Neuroradiology,1
-NORTHSHORE GLENBROOK HOSPITAL,Neurology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Ophthalmology,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Neurological Surgery,1
-UNIVERSITY OF CHICAGO MEDICAL CENTER,Gastroenterology,3
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Hematology-Oncology,4
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Pediatric Cardiology,1
-NORTHWESTERN MEMORIAL HOSPITAL,Hand Surgery,1
-ANN & ROBERT H LURIE CHILDRENS HOSPITAL OF CHICAGO,Neonatal-Perinatal Medicine,1
-UNIVERSITY OF ILLINOIS HOSPITAL,Pulmonary Disease,2
+Advocate Lutheran General Hospital,Pediatric Gastroenterology,2
+Loyola University Medical Center,Cardiac Electrophysiology,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Nephrology,1
+University of Illinois Hospital,Infectious Disease,1
+University of Chicago Medical Center,Ophthalmology,1
+Advocate Good Shepherd Hospital,Pediatrics,1
+University of Illinois Hospital,Plastic Surgery,1
+University of Illinois Hospital,Neuroradiology,1
+Northwestern Lake Forest Hospital,Pediatrics,1
+Ann & Robert H Lurie Children's Hospital of Chicago,Otolaryngology,1
+Advocate Condell Medical Center,Obstetrics and Gynecology,1
+St. John's Hospital - Springfield,General Surgery,1
+University of Chicago Medical Center,Gastroenterology,3
+University of Illinois Hospital,Ophthalmology,5
+Northwestern Memorial Hospital,Hand Surgery,1
+University of Illinois Hospital,Pulmonary Disease,2
