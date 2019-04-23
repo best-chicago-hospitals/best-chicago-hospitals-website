@@ -1,0 +1,365 @@
+﻿Doctor,Specialty,Hospital1,Hospital2,CityState,Phone,Board Certified
+Thomas J. Grobelny,Neuroradiology,Advocate Christ Hospital & Medical Center,Advocate Lutheran General Hospital,"Oak Lawn, IL 60453",847-430-6108, Diagnostic Radiology
+Ricarchito B. Manera,Pediatric Hematology-Oncology,Advocate Christ Hospital & Medical Center,,"Oak Lawn, IL 60453",708-684-4094, Pediatrics
+Akemi Nakanishi,Obstetrics and Gynecology,Advocate Condell Medical Center,,"Libertyville, IL, 60048",847-680-3400,Obstetrics and Gynecology
+Robert W. Bastian,Otolaryngology,Advocate Good Samaritan Hospital,,"Downers Grove, IL 60515",630-724-1100, Otolaryngology
+James Jenks,Obstetrics and Gynecology,Advocate Good Samaritan Hospital,,"Downers Grove, IL 60515",630-968-2144,Obstetrics and Gynecology
+Virginia Kelly,Obstetrics and Gynecology,Advocate Good Samaritan Hospital,,"Downers Grove, IL 60515",630-968-2144,Obstetrics and Gynecology
+Heidi Swanson,Pediatrics,Advocate Good Samaritan Hospital,,"Downers Grove, IL 60515",630-852-4551, Pediatrics
+David Crandall,Obstetrics and Gynecology,Advocate Good Shepherd Hospital,,"Barrington, IL, 60010",847-382-7330,Obstetrics and Gynecology
+Jonathan Kaufman,Pediatrics,Advocate Good Shepherd Hospital,,"Barrington, IL, 60010",847-381-6700, Pediatrics
+Jacquelynne P. Corey,Otolaryngology,Advocate Illinois Masonic Medical Center,Presence Saint Joseph Hospital - Chicago,"Chicago, IL 60657",312-372-9355, Otolaryngology
+Aleksandar L. Krunic,Dermatology,Advocate Illinois Masonic Medical Center,Swedish Covenant Hospital,"Chicago, IL 60657",773-871-7000, Dermatology
+Frank J. Konicek Jr,Gastroenterology,Advocate Illinois Masonic Medical Center,Swedish Covenant Hospital,"Chicago, IL 60657",773-871-4600, Internal Medicine
+Michael Friedman,Otolaryngology,Advocate Illinois Masonic Medical Center,,"Chicago, IL 60602",312-236-3642, Otolaryngology
+Phillip L. Werner,"Endocrinology, Diabetes & Metabolism",Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-318-2400, Internal Medicine
+Wayne M. Goldstein,Orthopaedic Surgery,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-375-3000, Orthopaedic Surgery
+James Berman,Pediatric Gastroenterology,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-723-7700, Pediatrics
+T S Gunasekaran,Pediatric Gastroenterology,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-723-7700, Pediatric Gastroenterology
+Jacob David Bitran,Medical Oncology,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-268-8200, Internal Medicine
+Jon Morgan Richards,Medical Oncology,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-268-8200, Medical Oncology
+Erin Dominiak,Family Medicine,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-318-2303,Family Medicine
+Marilyn Zwirn,Pediatrics,Advocate Lutheran General Hospital,,"Park Ridge, IL 60068",847-680-8066, Pediatrics
+John Joseph Brems,General Surgery,Advocate Sherman Hospital,,"Elgin, IL 60123",224-359-0100, Surgery
+Thomas John,Ophthalmology,Advocate South Suburban Hospital,,"Tinley Park, IL 60477",708-429-2223, Ophthalmology
+Steven J. Smith,Vascular & Interventional Radiology,"AMITA Health Adventist Medical Center, Hinsdale","AMITA Health Adventist Medical Center, La Grange","Hinsdale, IL 60521",630-655-9943, Diagnostic Radiology
+Stephanie Mauch,Family Medicine,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-323-1558,Family Medicine
+Margaret Wade,Family Medicine,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-323-1558,Family Medicine
+Thomas Gallagher,Internal Medicine,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-323-3540, Internal Medicine
+Jason Griffin,Internal Medicine,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-323-3540, Internal Medicine
+Gayle Simmons,Obstetrics and Gynecology,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-969-7706,Obstetrics and Gynecology
+Daniel Campbell,Pediatrics,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-323-0890, Pediatrics
+Lisa Franco,Pediatrics,"AMITA Health Adventist Medical Center, Hinsdale",,"Hinsdale, IL 60521",630-323-0890, Pediatrics
+John R. Ruge,Neurological Surgery,"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",Advocate Lutheran General Hospital,"Elk Grove Village, IL 60007",847-698-1088, Neurological Surgery
+Gordon R. Gluckman,Urology,"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",Advocate Lutheran General Hospital,"Elk Grove Village, IL 60007",847-823-3185, Urology
+Szymon S. Rosenblatt,Neurological Surgery,"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",,"Elk Grove Village, IL 60007",847-981-3630, Neurological Surgery
+Najma Lokhandwala,Family Medicine,"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",,"Elk Grove Village, IL 60007",847-364-6724,Family Medicine
+Ha Jeong Lee,Internal Medicine,"AMITA Health Alexian Brothers Medical Center, Elk Grove Village",,"Elk Grove Village, IL 60007",847-364-6724, Internal Medicine
+Richard Baley,Internal Medicine,AMITA Health Saint Joseph Hospital - Elgin,,"Elgin, IL, 60123",847-742-3525, Internal Medicine
+Robert Garofalo,Adolescent Medicine,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6800 x3, Adolescent Medicine
+Leon G. Epstein,Child Neurology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-3550, Child Neurology
+Jacqueline Pongracic,Pediatric Allergy & Immunology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6010, Internal Medicine
+Donald Zimmerman,Pediatric Endocrinology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6090, Internal Medicine
+Marilyn B. Mets,Ophthalmology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6718, Ophthalmology
+Dana M. Thompson,Pediatric Otolaryngology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6230, Otolaryngology
+Santhanam Suresh,Pain Medicine,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-5120, Pediatric Anesthesiology
+Susanna A. McColley,Pediatric Pulmonology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6260, Pediatric Pulmonology
+Marleta Reynolds,Pediatric Surgery,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-4210, Pediatric Surgery
+Joel Charrow,Clinical Genetics,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6120, Pediatrics
+Marisa Klein-Gitelman,Pediatric Rheumatology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",800-543-7362, Pediatrics
+Craig Langman,Pediatric Nephrology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6160, Pediatrics
+Elaine R. Morgan,Pediatric Hematology-Oncology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-4000, Pediatrics
+Elfriede Pahl,Pediatric Cardiology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-4100, Pediatrics
+Amy S. Paller,Dermatology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6060, Pediatrics
+Stephen Howard Sheldon,Pediatrics,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6740, Pediatrics
+David Walterhouse,Pediatric Hematology-Oncology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-4000, Pediatrics
+Riccardo Superina,Pediatric Surgery,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",800-543-7362,Pediatric Surgery
+Stewart Goldman,Pediatric Hematology-Oncology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-4000, Pediatric Hematology-Oncology
+Earl Y. Cheng,Pediatric Urology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6340, Urology
+Max Maizels,Pediatric Urology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6340, Urology
+Nancy Young,Otolaryngology,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-6230, Otolaryngology
+Aaron Hamvas,Neonatal-Perinatal Medicine,Ann & Robert H Lurie Children's Hospital of Chicago,,"Chicago, IL 60611",312-227-4190, Neonatal-Perinatal Medicine
+Charles Komen Brown,General Surgery,Cancer Treatment Centers of America,,"Zion, IL, 60099",847-872-4561, Surgery
+Martin J. Tobin,Pulmonary Disease,"Edward Hines, Jr. VA Hospital",,"Hines, IL 60141",708-202-2705, Internal Medicine
+Laurence Alan Jacobs,Reproductive Endocrinology/Infertility,Fertility Centers of Illinois,,"Buffalo Grove, IL 60089",847-215-8899, Obstetrics & Gynecology
+Jeffrey Tomlin,Internal Medicine,Fox Ridge Medical Associates,,"McHenry, IL, 60050",779-244-3072, Internal Medicine
+Joseph Ignatius Clark,Medical Oncology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Medical Oncology
+William Small Jr,Radiation Oncology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Radiation Oncology
+Bahman Emami,Radiation Oncology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Therapeutic Radiology
+Ronald K. Potkul,Gynecologic Oncology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Obstetrics & Gynecology
+Wickii Thambiah Vigneswaran,Thoracic & Cardiac Surgery,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Thoracic & Cardiac Surgery
+Patrick Joseph Stiff,Hematology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Internal Medicine
+Bipan Chand,General Surgery,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Surgery
+John J. Lopez,Interventional Cardiology,Loyola University Medical Center,,"Maywood, IL 60153",708-216-4720, Cardiovascular Disease
+Kathy Sue Albain,Medical Oncology,Loyola University Medical Center,,"Maywood, IL 60153",708-327-3102, Internal Medicine
+Fred S. Leya,Interventional Cardiology,Loyola University Medical Center,,"Maywood, IL 60153",708-216-4225, Internal Medicine
+Sucha Nand,Hematology,Loyola University Medical Center,,"Maywood, IL 60153",708-327-2232, Internal Medicine
+David J. Wilber,Cardiac Electrophysiology,Loyola University Medical Center,,"Maywood, IL 60153",708-216-2653, Internal Medicine
+Jean Ricci Goodman,Maternal & Fetal Medicine,Loyola University Medical Center,,"Maywood, IL 60153",708-216-4033, Obstetrics & Gynecology
+Charles S. Bouchard,Ophthalmology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Ophthalmology
+Andrew J. Hotaling,Pediatric Otolaryngology,Loyola University Medical Center,,"Maywood, IL 60153",708-216-9183, Otolaryngology
+John P. Leonetti,Otolaryngology,Loyola University Medical Center,,"Maywood, IL 60153",708-216-9183, Otolaryngology
+James Stankiewicz,Otolaryngology,Loyola University Medical Center,,"Maywood, IL 60153",708-216-9183, Otolaryngology
+Garry S. Sigman,Adolescent Medicine,Loyola University Medical Center,,"Maywood, IL 60153",708-327-9119, Pediatrics
+Mamdouh Bakhos,Thoracic & Cardiac Surgery,Loyola University Medical Center,,"Maywood, IL 60153",708-327-2503, Thoracic & Cardiac Surgery
+Robert C. Flanigan,Urology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Urology
+Mary Ann Emanuele,"Endocrinology, Diabetes & Metabolism",Loyola University Medical Center,,"Maywood, IL 60153",708-216-0160 x2,Board Cert: Internal Medicine
+Jose Biller,Neurology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Neurology
+James F. McDonnell,Ophthalmology,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Ophthalmology
+Terry R. Light,Hand Surgery,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Orthopaedic Surgery
+Alain L. Heroux,Cardiovascular Disease,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Internal Medicine
+Maureen Fearon,Internal Medicine,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Internal Medicine
+Gregory Ozark,Internal Medicine,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Internal Medicine
+Linda Tayeh,Internal Medicine,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Internal Medicine
+Keith Veselik,Internal Medicine,Loyola University Medical Center,,"Maywood, IL 60153",888-584-7888, Internal Medicine
+Kevin T. McVary,Urology,Memorial Medical Center-Springfield,St. John's Hospital - Springfield,"Sprngfield, IL 62794",217-545-7123, Urology
+Robert R. Edelman,Diagnostic Radiology,NorthShore University Health System,,"Evanston, IL 60201",847-595-0425, Diagnostic Radiology
+Scott N. MacGregor,Maternal & Fetal Medicine,NorthShore University Health System,,"Evanston, IL 60201",847-616-5081, Obstetrics & Gynecology
+Richard K. Silver,Maternal & Fetal Medicine,NorthShore University Health System,,"Evanston, IL 60201",847-616-5016, Obstetrics & Gynecology
+Ted Eliot Feldman,Interventional Cardiology,NorthShore University Health System,,"Evanston, IL 60201",847-663-8410, Internal Medicine
+Mark S. Talamonti,General Surgery,NorthShore University Health System,,"Evanston, IL 60201",847-570-1700, Surgery
+David J. Winchester,General Surgery,NorthShore University Health System,,"Evanston, IL 60201",847-570-2807, Surgery
+Bruce E. Brockstein,Medical Oncology,NorthShore University Health System,,"Evanston, IL 60201",847-570-2112, Internal Medicine
+Michael J. Goldberg,Gastroenterology,NorthShore University Health System,,"Evanston, IL 60201",847-748-0258, Internal Medicine
+Julian E. Bailes Jr,Neurological Surgery,NorthShore University Health System,,"Evanston, IL 60201",847-350-7468, Neurological Surgery
+Gustavo C. Rodriguez,Gynecologic Oncology,NorthShore University Health System,,"Evanston, IL 60201",847-595-1740, Obstetrics & Gynecology
+Joseph Larry Feldman,Physical Medicine & Rehabilitation,NorthShore University Health System,,"Evanston, IL 60201",847-318-3010, Physical Medicine & Rehabilitation
+Peter K. Sand,Urogynecology/Female Pelvic Med & Reconstruct Surg,NorthShore University Health System,,"Evanston, IL 60201",224-203-2902, Obstetrics & Gynecology
+John Kiriklakis,Internal Medicine,NorthShore University Health System,,"Evanston, IL 60201",847-941-7600, Internal Medicine
+Susan M. Rubin,Neurology,NorthShore University Health System,,"Evanston, IL 60201",847-570-2570, Neurology
+Edward L. Marut,Reproductive Endocrinology/Infertility,NorthShore University Health System,,"Evanston, IL 60201",847-250-2699, Obstetrics & Gynecology
+Bruce Samuel Bauer,Plastic Surgery,NorthShore University Health System,,"Evanston, IL 60201",847-504-2300, Plastic Surgery
+Charles Carroll IV,Hand Surgery,NorthShore University Health System,,"Evanston, IL 60201",312-664-6848, Orthopaedic Surgery
+Theodore Mazzone,"Endocrinology, Diabetes & Metabolism",NorthShore University Health System,,"Evanston, IL 60201",847-748-0458, Internal Medicine
+Kim Grahl,Internal Medicine,Northshore University Health System,,"Evanston, IL 60201",847-570-1410, Internal Medicine
+John Revis,Internal Medicine,Northshore University Health System,,"Evanston, IL 60201",847-832-6500, Internal Medicine
+Jason Canel,Pediatrics,Northshore University Health System,,"Evanston, IL 60201",847-832-6500, Pediatrics
+John R. Onufer,Cardiac Electrophysiology,Northwest Community Hospital,,"Arlington Heights, IL 60005-2355",847-618-2500, Internal Medicine
+Sharad N. Salvi,Pediatric Hematology-Oncology,Northwestern Central DuPage Hospital,,"Winfield, IL 60190",630-933-4291, Pediatrics
+Ammar Hayani,Pediatric Hematology-Oncology,Northwestern Central DuPage Hospital,,"Winfield, IL 60190",630-933-4291, Pediatric Hematology-Oncology
+Michael J. Hussey,Maternal & Fetal Medicine,Northwestern Central DuPage Hospital,,"Winfield, IL 60190",630-933-6091, Obstetrics & Gynecology
+Larry Kaskel,Internal Medicine,Northwestern Lake Forest Hospital,,"Lake Forest, IL, 60045",847-535-7157, Internal Medicine
+Susan Sheinkop,Pediatrics,Northwestern Lake Forest Hospital,,"Lake Forest, IL, 60045",847-615-0700, Pediatrics
+Mary Elizabeth Keen,Physical Medicine & Rehabilitation,Northwestern Medicine Marianjoy Rehabilitation Hospital,,"Wheaton, IL 60187",630-909-7058, Physical Medicine & Rehabilitation
+Ricca Zaino,Obstetrics and Gynecology,Northwestern Medicine Woodstock Hospital ,,"Woodstock, IL, 60098",815-337-7100,Obstetrics and Gynecology
+Jerome M. Garden,Dermatology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-280-0890, Dermatology
+Magdy Peter Milad,Reproductive Endocrinology/Infertility,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-694-6447, Obstetrics & Gynecology
+Terrance D. Peabody,Orthopaedic Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-6800, Orthopaedic Surgery
+Gordon J. Siegel,Otolaryngology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-988-7777, Otolaryngology
+Nathaniel Jolas Soper,General Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8918, Surgery
+Riad Salem,Vascular & Interventional Radiology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-1791, Diagnostic Radiology
+David Jason Bentrem,General Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Surgery
+Allan M. Burke,Neurology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-944-0063, Neurology
+S. David Stulberg,Orthopaedic Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-702-1628, Orthopaedic Surgery
+Kimberly S. Kenton,Urogynecology/Female Pelvic Med & Reconstruct Surg,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-926-4747, Obstetrics & Gynecology
+Tadanori Tomita,Neurological Surgery,Northwestern Memorial Hospital,Ann & Robert H Lurie Children's Hospital of Chicago,"Chicago, IL 60611",312-227-4220, Neurological Surgery
+Thomas P. Green,Pediatric Pulmonology,Northwestern Memorial Hospital,Ann & Robert H Lurie Children's Hospital of Chicago,"Chicago, IL 60611",312-227-6260, Pediatrics
+Stanford T. Shulman,Pediatric Infectious Disease,Northwestern Memorial Hospital,Ann & Robert H Lurie Children's Hospital of Chicago,"Chicago, IL 60611",312-227-4080, Pediatrics
+Joseph M. Forbess,Thoracic & Cardiac Surgery,Northwestern Memorial Hospital,Ann & Robert H Lurie Children's Hospital of Chicago,"Chicago, IL 60611",312-227-4240, Thoracic & Cardiac Surgery
+Carl L. Backer,Thoracic & Cardiac Surgery,Northwestern Memorial Hospital,Ann & Robert H Lurie Children's Hospital of Chicago,"Chicago, IL 60611",312-227-4240, Thoracic Surgery
+Thomas Anthony Mustoe,Plastic Surgery,Northwestern Memorial Hospital,Northwestern Memorial Hospital,"Chicago, IL 60611",312-788-2560, Otolaryngology
+Robert Lee Walton Jr,Plastic Surgery,Northwestern Memorial Hospital,Presence Saint Joseph Hospital - Chicago,"Chicago, IL 60611",312-337-7795, Plastic Surgery
+Rowland Waton Chang,Rheumatology,Northwestern Memorial Hospital,Shirley Ryan AbilityLab,"Chicago, IL 60611-2654",312-238-1000, Internal Medicine
+Charles Edward Sisung,Physical Medicine & Rehabilitation,Northwestern Memorial Hospital,Shirley Ryan AbilityLab,"Chicago, IL 60611",312-238-1000, Pediatric Rehabilitation Medicine
+David Chen,Physical Medicine & Rehabilitation,Northwestern Memorial Hospital,Shirley Ryan AbilityLab,"Chicago, IL 60611",312-238-1000, Physical Medicine & Rehabilitation
+Elliot Jay Roth,Physical Medicine & Rehabilitation,Northwestern Memorial Hospital,Shirley Ryan AbilityLab,"Chicago, IL 60611",312-238-1000, Physical Medicine & Rehabilitation
+James Anthony Sliwa,Physical Medicine & Rehabilitation,Northwestern Memorial Hospital,Shirley Ryan AbilityLab,"Chicago, IL 60611",312-238-1000, Physical Medicine & Rehabilitation
+Julius Few,Plastic Surgery,Northwestern Memorial Hospital,University of Chicago Medical Center,"Chicago, IL 60611",312-757-5937, Plastic Surgery
+Jeffrey A. Sosman,Medical Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Anatomic Pathology
+Bradley P. Knight,Cardiac Electrophysiology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-4965, Cardiovascular Disease
+Lee P. Shulman,Clinical Genetics,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-472-4151, Clinical Genetics
+Steven J. Stryker,Colon & Rectal Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-9393, Colon & Rectal Surgery
+Frank H. Miller,Diagnostic Radiology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-3755, Diagnostic Radiology
+Eric J. Russell,Neuroradiology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-5103, Diagnostic Radiology
+Robert L. Vogelzang,Vascular & Interventional Radiology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0030, Diagnostic Radiology
+Steven L. Flamm,Gastroenterology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-4837, Gastroenterology
+Al Bowen Benson III,Medical Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Internal Medicine
+Richard Kleven Burt,Internal Medicine,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-4960, Internal Medicine
+Susan Ellen Cohn,Infectious Disease,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-926-8358, Internal Medicine
+Dan Fintel,Cardiovascular Disease,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-664-3278, Internal Medicine
+John P. Flaherty,Infectious Disease,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-926-8358, Internal Medicine
+Leo I. Gordon,Hematology,Northwestern Memorial Hospital,,"Chicago, IL 60611-3124",312-695-0990, Internal Medicine
+William J. Gradishar,Medical Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Internal Medicine
+Paul A. Greenberger,Allergy & Immunology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8624, Internal Medicine
+Stephen B. Hanauer,Gastroenterology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-5620, Internal Medicine
+Maha H. Hussain,Medical Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Internal Medicine
+Peter J. Kahrilas,Gastroenterology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-5620, Internal Medicine
+David J. Mehlman,Cardiovascular Disease,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-4965, Internal Medicine
+Richard M. Pope,Rheumatology,Northwestern Memorial Hospital,,"Chicago, IL 60611-5966",312-695-8628, Internal Medicine
+Stuart Rich,Cardiovascular Disease,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-4965, Internal Medicine
+Seema Singhal,Hematology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Internal Medicine
+John Varga,Rheumatology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8628, Internal Medicine
+Jane Norma Winter,Hematology,Northwestern Memorial Hospital,,"Chicago, IL 60611-2927",312-695-0990, Internal Medicine
+Massimo Cristofanilli,Medical Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Medical Oncology
+James P. Chandler,Neurological Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8143, Neurological Surgery
+Bruce A. Cohen,Neurology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-7950, Internal Medicine
+Gary L. Dillehay,Nuclear Medicine,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-926-5119, Nuclear Medicine
+John R. Lurain III,Gynecologic Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611-3056",312-695-0990, Obstetrics & Gynecology
+Shohreh Shahabi,Gynecologic Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Obstetrics & Gynecology
+Michael L. Socol,Maternal & Fetal Medicine,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-7542, Obstetrics & Gynecology
+Robert S. Feder,Ophthalmology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8150, Ophthalmology
+Nicholas J. Volpe,Ophthalmology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8150, Ophthalmology
+Daniel J. Nagle,Hand Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-337-6960, Orthopaedic Surgery
+Robert C. Kern,Otolaryngology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8182, Otolaryngology
+Sandeep Samant,Otolaryngology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8182, Otolaryngology
+Michael Messod Abecassis,General Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8900, Surgery
+Gregory Ara Dumanian,Plastic Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-6022, Surgery
+Scott A. Strong,Colon & Rectal Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-5620, Surgery
+Jeffrey D. Wayne,General Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Surgery
+Bharat Bhushan Mittal,Radiation Oncology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-926-2520, Therapeutic Radiology
+Patrick M. McCarthy,Thoracic & Cardiac Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-4965, Thoracic & Cardiac Surgery
+William J. Catalona,Urology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8146, Urology
+Nora Marie Hansen,General Surgery,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-0990, Surgery
+Marsel Mesulam,Neurology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-908-9339, Neurology
+Leslie C. Grammer,Allergy & Immunology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8624, Internal Medicine
+Richard A. Bernstein,Neurology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-7950, Neurology
+Teepu Siddique,Neurology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-7950, Neurology
+Timothy C. Hain,Neurology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-274-0197, Neurology
+Ronald Ackermann,Internal Medicine,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8630, Internal Medicine
+Jennifer Beirman,Internal Medicine,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8630, Internal Medicine
+Toshiko Uchida,Internal Medicine,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-695-8630, Internal Medicine
+Parul Gupta,Obstetrics and Gynecology,Northwestern Memorial Hospital,,"Chicago, IL 60611",312-943-3300,Obstetrics and Gynecology
+Sandeep K. Gupta,Pediatric Gastroenterology,OSF Saint Francis Medical Center,,"Peoria, IL 61637",309-624-9844, Pediatric Gastroenterology
+Micheal Brusca,Obstetrics and Gynecology,Palos Community Hospital,,"Palos Heights, IL, 60463",708-873-7775,Obstetrics and Gynecology
+Louis Camras,Pediatrics,Presence Mercy Medical Center,,"Aurora, IL",630-896-7788, Pediatrics
+Constantine T. Frantzides,General Surgery,Presence Saint Francis Hospital - Evanston,Presence Saint Francis Hospital - Evanston,"Evanston, IL 60201",847-676-2200, Surgery
+McKay McKinnon,Plastic Surgery,Presence Saint Joseph Hospital - Chicago,,"Chicago, IL 60657",312-335-9566, Plastic Surgery
+Steven Cataldo,Internal Medicine,Presence Saint Joseph Medical Center - Joliet,,"Joliet, IL, 60435",815-725-2121, Internal Medicine
+Marcia Slomowitz,Child & Adolescent Psychiatry,Private practice,,"Chicago, IL 60601",312-726-1083, Psychiatry
+Lawrence D. Robbins,Neurology,Robbins Headache Clinic,,"Riverwoods, IL 60015",847-374-9399, Anesthesiology
+Jonathan Muraskas,Neonatal-Perinatal Medicine,Ronald McDonald Children's Hospital-Loyola,,"Maywood, IL 60153",888-584-7888, Pediatrics
+Thomas R. Mizen,Ophthalmology,Rush University Medical Center,,"Chicago, IL 60612",773-581-2000, Ophthalmology
+Gordon Harris Derman,Plastic Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-563-4488, Plastic Surgery
+Christopher G. Goetz,Neurology,Rush University Medical Center,,"Chicago, IL 60612",312-942-5936, Neurology
+Howard T. Strassner,Maternal & Fetal Medicine,Rush University Medical Center,,"Chicago, IL 60612",312-997-2229, Obstetrics & Gynecology
+Timothy R. Lubenow,Pain Medicine,Rush University Medical Center,,"Chicago, IL 60612",312-942-6631, Anesthesiology
+Annabelle Santos Volgman,Cardiovascular Disease,Rush University Medical Center,,"Chicago, IL 60612",312-942-5020, Cardiovascular Disease
+Melody Ann Cobleigh,Medical Oncology,Rush University Medical Center,,"Chicago, IL 60612",312-942-5904, Internal Medicine
+Michael Richard Silver,Pulmonary Disease,Rush University Medical Center,,"Chicago, IL 60612",312-942-6744, Internal Medicine
+Kim A. Williams Sr,Cardiovascular Disease,Rush University Medical Center,,"Chicago, IL 60612",312-942-5020, Internal Medicine
+Charles A. Bush-Joseph,Sports Medicine,Rush University Medical Center,,"Chicago, IL 60612",312-243-4244, Orthopaedic Surgery
+Steven Gitelis,Orthopaedic Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-243-4244, Orthopaedic Surgery
+Robert S. Katz,Rheumatology,Rush University Medical Center,,"Chicago, IL 60612",312-226-8228, Internal Medicine
+Mary Wood Molo,Reproductive Endocrinology/Infertility,Rush University Medical Center,,"Chicago, IL 60612",312-942-3824, Obstetrics & Gynecology
+Victoria H. Barbosa,Dermatology,Rush University Medical Center,,"Chicago, IL 60602",312-407-0000, Dermatology
+Robert Allen Balk,Pulmonary Disease,Rush University Medical Center,,"Chicago, IL 60612",312-942-6744, Internal Medicine
+Philip David Bonomi,Medical Oncology,Rush University Medical Center,,"Chicago, IL 60612",312-942-5904, Internal Medicine
+Timothy M. Kuzel,Medical Oncology,Rush University Medical Center,,"Chicago, IL 60612",312-942-5904, Internal Medicine
+Arthur R. Rhodes,Dermatology,Rush University Medical Center,,"Chicago, IL 60612",312-942-2195, Internal Medicine
+Beverly E. Sha,Infectious Disease,Rush University Medical Center,,"Chicago, IL 60612",312-942-5865, Internal Medicine
+Mary Tobin,Allergy & Immunology,Rush University Medical Center,,"Chicago, IL 60612",312-942-6296, Internal Medicine
+Gordon M. Trenholme,Infectious Disease,Rush University Medical Center,,"Chicago, IL 60612",312-942-5865, Internal Medicine
+Roger A. Rodby,Nephrology,Rush University Medical Center,,"Chicago, IL 60607",312-829-1424, Internal Medicine
+Vincent C. Traynelis,Neurological Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-942-6644, Neurological Surgery
+Bernard Raymond Bach Jr,Sports Medicine,Rush University Medical Center,,"Chicago, IL 60612",708-236-2701, Orthopaedic Surgery
+Mark S. Cohen,Hand Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-243-4244, Orthopaedic Surgery
+Joshua J. Jacobs,Orthopaedic Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-432-2344, Orthopaedic Surgery
+Kerstin M. Stenson,Otolaryngology,Rush University Medical Center,,"Chicago, IL 60612",312-942-6100, Otolaryngology
+Mark Harris Pollack,Psychiatry,Rush University Medical Center,,"Chicago, IL 60612",312-942-5372, Psychiatry
+Daniel John Deziel,General Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-942-6500, Surgery
+Theodore J. Saclarides,Colon & Rectal Surgery,Rush University Medical Center,,"Chicago, IL 60612",312-942-5500, Surgery
+Laurence A. Levine,Urology,Rush University Medical Center,,"Chicago, IL 60612",312-563-5000, Urology
+Robert B. Wright,Neurology,Rush University Medical Center,,"Chicago, IL 60612",312-942-5936, Neurology
+Max Pitlosh,Family Medicine,Rush University Medical Center,,"Chicago, IL 60612",773-472-3704,Family Medicine
+Murali Vinta,Obstetrics and Gynecology,Rush University Medical Center,,"Chicago, IL 60612",312-549-4400,Obstetrics and Gynecology
+Delaney Koehler,Family Medicine,Silver Cross Hospital,,"New Lenox, IL, 60451",815-463-3700,Family Medicine
+Michael W. Neumeister,Plastic Surgery,St. John's Hospital - Springfield,Memorial Medical Center-Springfield,"Springfield, IL 62702",217-545-6314, Plastic Surgery
+John D. Mellinger,General Surgery,St. John's Hospital - Springfield,Memorial Medical Center-Springfield,"Springfield, IL 62702",217-545-8000, Surgery
+Kim John Hodgson,Vascular Surgery,St. John's Hospital - Springfield,Memorial Medical Center-Springfield,"Springfield, IL 62702",217-545-8000, Vascular Surgery
+Gerald Fishman,Ophthalmology,The Chicago Lighthouse,,"Chicago, IL 60608",312-997-3666, Ophthalmology
+Philip C. Hoffman,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637-1447",773-702-8222, Internal Medicine
+Seenu M. Hariprasad,Ophthalmology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-3937, Ophthalmology
+Gregory T. Bales,Urology,University of Chicago Medical Center,,"Chicago, IL 60637-6038",773-702-1860, Urology
+Anthony T. Reder,Neurology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6222, Neurology
+Barry G W Arnason,Neurology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6222, Neurology
+Raymond Roos,Neurology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6222, Neurology
+Roderick H. Tung,Cardiac Electrophysiology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-9461, Cardiovascular Disease
+Michelle S. Gittler,Physical Medicine & Rehabilitation,University of Chicago Medical Center,Schwab Rehabilitation Hospital,"Chicago, IL 60608",773-565-3250, Physical Medicine & Rehabilitation
+Fuad M. Baroody,Pediatric Otolaryngology,University of Chicago Medical Center,University of Chicago-Comer Children's Hospital,"Chicago, IL 60637",773-702-1865, Otolaryngology
+Eric C. Beyer,Pediatric Hematology-Oncology,University of Chicago Medical Center,University of Chicago-Comer Children's Hospital,"Chicago, IL 60637",773-702-6808, Pediatrics
+Susan L. Cohn,Pediatric Hematology-Oncology,University of Chicago Medical Center,University of Chicago-Comer Children's Hospital,"Chicago, IL 60637",773-702-6808, Pediatrics
+John M. Cunningham,Pediatric Hematology-Oncology,University of Chicago Medical Center,University of Chicago-Comer Children's Hospital,"Chicago, IL 60637",773-702-6808, Pediatrics
+Howard J. Halpern,Radiation Oncology,University of Chicago Medical Center,University of Illinois Hospital,"Chicago, IL 60612",312-996-3631, Therapeutic Radiology
+Daniel A. Arber,Pathology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-0647, Anatomic & Clinical Pathology
+Christopher Richard Shea,Dermatology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1611, Dermatology
+Daniel Appelbaum,Nuclear Medicine,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1000, Diagnostic Radiology
+Gregory A. Christoforidis,Neuroradiology,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-0521, Diagnostic Radiology
+Abraham H. Dachman,Diagnostic Radiology,University of Chicago Medical Center,,"Chicago, IL 60637-1470",773-834-0521, Diagnostic Radiology
+Brian Funaki,Vascular & Interventional Radiology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1000, Diagnostic Radiology
+Seon-Kyu Lee,Neuroradiology,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-0521, Diagnostic Radiology
+Heber MacMahon,Diagnostic Radiology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1604, Diagnostic Radiology
+Michael Davidson,Cardiovascular Disease,University of Chicago Medical Center,,"Chicago, IL 60611",773-702-9461, Internal Medicine
+Joseph Mandel Baron,Hematology,University of Chicago Medical Center,,"Chicago, IL 60637-1463",773-702-8222, Internal Medicine
+Michael R. Bishop,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Internal Medicine
+Fredric Coe,Nephrology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1475, Internal Medicine
+James Joseph Curran,Rheumatology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6119, Internal Medicine
+David A. Ehrmann,"Endocrinology, Diabetes & Metabolism",University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6138, Internal Medicine
+Gini F. Fleming,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637-1470",773-702-8222, Internal Medicine
+Edward Raymond Garrity Jr,Pulmonary Disease,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-4500, Internal Medicine
+Daniel James Haraf,Radiation Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6870, Internal Medicine
+Andrzej Jakubowiak,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-2077, Internal Medicine
+Richard A. Larson,Hematology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Internal Medicine
+James Liao,Cardiovascular Disease,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-9461, Internal Medicine
+Olufunmilayo I. Olopade,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637-1470",773-702-8222, Internal Medicine
+Louis H. Philipson,"Endocrinology, Diabetes & Metabolism",University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6138, Internal Medicine
+Kenneth Pursell,Infectious Disease,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-1443, Internal Medicine
+Mark J. Ratain,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Internal Medicine
+Carol E. Semrad,Gastroenterology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6140, Internal Medicine
+Matthew Sorrentino,Cardiovascular Disease,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-9461, Internal Medicine
+Walter M. Stadler,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Internal Medicine
+Wendy Stock,Hematology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Internal Medicine
+Helen S. Te,Gastroenterology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6140, Internal Medicine
+Everett E. Vokes,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Internal Medicine
+Irving Waxman,Gastroenterology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1459, Internal Medicine
+Suzanne D. Conzen,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Medical Oncology
+Hedy Lee Kindler,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637-1470",773-702-8222, Medical Oncology
+Jyoti Dinker Patel,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-2822, Medical Oncology
+Sonali M. Smith,Medical Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-8222, Medical Oncology
+Arthur F. Haney,Reproductive Endocrinology/Infertility,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6118, Obstetrics & Gynecology
+Ernst R. Lengyel,Gynecologic Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6118, Obstetrics & Gynecology
+Sandra Valaitis,Urogynecology/Female Pelvic Med & Reconstruct Surg,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6118, Obstetrics & Gynecology
+S. Diane Yamada,Gynecologic Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6118, Obstetrics & Gynecology
+Douglas R. Dirschl,Orthopaedic Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-3531, Orthopaedic Surgery
+Sherwin S W Ho,Orthopaedic Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-3531, Orthopaedic Surgery
+Daniel P. Mass,Hand Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-3531, Orthopaedic Surgery
+Jon Edgar Grant,Psychiatry,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-3858, Psychiatry
+Philip Paul Connell,Radiation Oncology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6870, Radiation Oncology
+Peter Angelos,General Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-834-3524, Surgery
+Yolanda T. Becker,General Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-4500, Surgery
+John J. Fung,General Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-4500, Surgery
+Roger D. Hurst,General Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6692, Surgery
+Neil H. Hyman,Colon & Rectal Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-6142, Surgery
+Jeffrey B. Matthews,General Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-0881, Surgery
+Mitchell C. Posner,General Surgery,University of Chicago Medical Center,,"Chicago, IL 60637-1447",773-834-3524, Surgery
+Husam Balkhy,Thoracic & Cardiac Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-2500, Thoracic & Cardiac Surgery
+Jessica S. Donington,Thoracic & Cardiac Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-2500, Thoracic & Cardiac Surgery
+Mark K. Ferguson,Thoracic & Cardiac Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-2500, Thoracic & Cardiac Surgery
+Scott Eggener,Urology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1860, Urology
+Gary D. Steinberg,Urology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1860, Urology
+Maria Z. Siemionow,Orthopaedic Surgery,University of Chicago Medical Center,,"Chicago, IL 60607",312-996-1300, Orthopaedic Surgery
+Arieh L. Shalhav,Urology,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-1860, Urology
+Nir Uriel,Cardiovascular Disease,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-9461,Cardiovascular disease
+Gerhard Ziemer,Thoracic & Cardiac Surgery,University of Chicago Medical Center,,"Chicago, IL 60637",773-702-2500, Thoracic & Cardiac Surgery
+Linda Wagner-Weiner,Pediatric Rheumatology,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6169, Pediatrics
+Brojendra Agarwala,Pediatric Cardiology,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6169, Pediatrics
+James Tonsgard,Child Neurology,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6169, Pediatrics
+Raoul Wolf,Pediatric Allergy & Immunology,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6169, Pediatrics
+Jessica J. Kandel,Pediatric Surgery,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6169, Surgery
+Mohan S. Gundeti,Pediatric Urology,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6169, Urology
+Elizabeth Astin Blair,Otolaryngology,University of Chicago-Comer Children's Hospital,University of Chicago Medical Center,"Chicago, IL 60637",773-702-1865, Otolaryngology
+David Woosuk Chang,Plastic Surgery,University of Chicago-Comer Children's Hospital,University of Chicago Medical Center,"Chicago, IL 60637",773-702-6302, Plastic Surgery
+Lawrence Jay Gottlieb,Plastic Surgery,University of Chicago-Comer Children's Hospital,University of Chicago Medical Center,"Chicago, IL 60637",773-702-6302, Plastic Surgery
+Raphael Carl Lee,Plastic Surgery,University of Chicago-Comer Children's Hospital,University of Chicago Medical Center,"Chicago, IL 60637",773-702-6302, Plastic Surgery
+James Michael Millis,General Surgery,University of Chicago-Comer Children's Hospital,University of Chicago Medical Center,"Chicago, IL 60637",773-702-6319, Surgery
+Stefano Guandalini,Pediatric Gastroenterology,University of Chicago-Comer Children's Hospital,,"Chicago, IL 60637",773-702-6418,Pediatric Surgery
+Allen M. Putterman,Ophthalmology,Presence Saint Joseph Hospital - Chicago,,"Chicago, IL 60602",312-372-2256, Ophthalmology
+Nathalie F. Azar,Ophthalmology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-6599, Ophthalmology
+Jennifer Lim,Ophthalmology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-6660, Ophthalmology
+William F. Mieler,Ophthalmology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-6660, Ophthalmology
+Pete Setabutr,Ophthalmology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-9120, Ophthalmology
+Thasarat S. Vajaranant,Ophthalmology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-7030, Ophthalmology
+Humberto Scoccia,Reproductive Endocrinology/Infertility,University of Illinois Hospital,,"Chicago, IL 60612",312-355-2634, Obstetrics & Gynecology
+Mary D. Stephenson,Reproductive Endocrinology/Infertility,University of Illinois Hospital,,"Chicago, IL 60612",312-355-2634, Obstetrics & Gynecology
+Pravin Kumar Patel,Plastic Surgery,University of Illinois Hospital,,"Chicago, IL 60612",312-996-7546, Plastic Surgery
+Kevin L. Kovitz,Pulmonary Disease,University of Illinois Hospital,,"Chicago, IL 60612",847-981-3660, Internal Medicine
+David J. Peace,Hematology,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1625, Internal Medicine
+James Goodwin,Neurology,University of Illinois Hospital,University of Illinois at Chicago Eye & Ear Infirmary,"Chicago, IL 60612",312-996-9120, Neurology
+Michel N. Ilbawi,Thoracic & Cardiac Surgery,Advocate Christ Hospital & Medical Center,,"Oak Lawn, IL 60453",708-684-3029, Thoracic Surgery
+Kristi L. Kirschner,Physical Medicine & Rehabilitation,Schwab Rehabilitation Hospital,,"Chicago, IL 60608",773-565-3250, Physical Medicine & Rehabilitation
+Keith R. Thulborn,Neuroradiology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-0011, Diagnostic Radiology
+Richard M. Novak,Infectious Disease,University of Illinois Hospital,,"Chicago, IL 60612",312-996-8337, Internal Medicine
+Dean Ernest Schraufnagel,Pulmonary Disease,University of Illinois Hospital,,"Chicago, IL 60612",312-996-3300, Internal Medicine
+Fady T. Charbel,Neurological Surgery,University of Illinois Hospital,,"Chicago, IL 60612",312-355-0510, Neurological Surgery
+Herbert H. Engelhard III,Neurological Surgery,University of Illinois Hospital,,"Chicago, IL 60612",312-355-0510, Neurological Surgery
+Dean Toriumi,Otolaryngology/Facial Plastic Surgery,University of Illinois Hospital,,"Chicago, IL 60612",312-255-8812, Otolaryngology
+Lewis Hsu,Pediatric Hematology-Oncology,University of Illinois Hospital,,"Chicago, IL 60612",312-996-7416, Pediatrics
+Geraldine Susan Fox,Psychiatry,University of Illinois Hospital,,"Chicago, IL 60612",708-406-9772, Psychiatry
+Enrico Benedetti,General Surgery,University of Illinois Hospital,,"Chicago, IL 60612",312-996-6771, Surgery
+Lawrence S. Ross,Urology,University of Illinois Hospital,,"Chicago, IL 60612",312-440-5127, Urology
+Damiano Rondelli,Hematology,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1625, Internal Medicine
+Asra Khan,Internal Medicine,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1700, Internal Medicine
+Jonathan Radosta,Internal Medicine,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1700, Internal Medicine
+Rachel Caskey,Pediatrics,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1700, Pediatrics
+Mark Miner,Pediatrics,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1700, Pediatrics
+Amanda Osta,Pediatrics,University of Illinois Hospital,,"Chicago, IL 60612",312-355-1700, Pediatrics
+Jeffrey Cabotaje,Pediatrics,West Suburban Medical Center,,"Oak Park, IL",708-383-3010, Pediatrics

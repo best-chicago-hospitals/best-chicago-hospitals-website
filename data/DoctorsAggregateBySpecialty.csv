@@ -1,4 +1,4 @@
-﻿Hospital,Specialty,Doctor
+﻿Hospital_Name,Specialty,TopDoctors
 Loyola University Medical Center,"Endocrinology, Diabetes & Metabolism",1
 Loyola University Medical Center,Adolescent Medicine,1
 Ann & Robert H Lurie Children's Hospital of Chicago,Clinical Genetics,1
@@ -25,7 +25,7 @@ Silver Cross Hospital,Family Medicine,1
 University of Illinois Hospital,Otolaryngology/Facial Plastic Surgery,1
 St. John's Hospital - Springfield,Plastic Surgery,1
 University of Chicago-Comer Children's Hospital,Pediatric Otolaryngology,1
-AMITA Saint Joseph Hospital - Elgin,Internal Medicine,1
+AMITA Health Saint Joseph Hospital - Elgin,Internal Medicine,1
 Loyola University Medical Center,Neurology,1
 University of Chicago Medical Center,Urogynecology/Female Pelvic Med & Reconstruct Surg,1
 Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Endocrinology,1
@@ -135,7 +135,7 @@ Northwestern Memorial Hospital,Rheumatology,3
 "AMITA Health Adventist Medical Center, Hinsdale",Internal Medicine,2
 University of Chicago Medical Center,"Endocrinology, Diabetes & Metabolism",2
 Private practice,Child & Adolescent Psychiatry,1
-Advocate Christ Medical Center,Thoracic & Cardiac Surgery,1
+Advocate Christ Hospital & Medical Center,Thoracic & Cardiac Surgery,1
 Ann & Robert H Lurie Children's Hospital of Chicago,Neonatal-Perinatal Medicine,1
 NorthShore University Health System,Neurological Surgery,1
 NorthShore University Health System,Gastroenterology,1
@@ -159,20 +159,20 @@ Rush University Medical Center,General Surgery,1
 Rush University Medical Center,Hand Surgery,1
 Ann & Robert H Lurie Children's Hospital of Chicago,Thoracic & Cardiac Surgery,2
 NorthShore University Health System,Gynecologic Oncology,1
-Palos Hospital,Obstetrics and Gynecology,1
+Palos Community Hospital,Obstetrics and Gynecology,1
 Rush University Medical Center,Medical Oncology,3
 Loyola University Medical Center,Hematology,2
 Rush University Medical Center,Neurology,2
 Northwestern Memorial Hospital,Clinical Genetics,1
 University of Chicago Medical Center,Nephrology,1
 Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Surgery,2
-University of Illinois Hospital & Health Sciences System,Radiation Oncology,1
+University of Illinois Hospital,Radiation Oncology,1
 Northwestern Memorial Hospital,Pediatric Pulmonology,1
 Fertility Centers of Illinois,Reproductive Endocrinology/Infertility,1
 Northwestern Memorial Hospital,Obstetrics and Gynecology,1
 St. John's Hospital - Springfield,Vascular Surgery,1
 University of Chicago-Comer Children's Hospital,Pediatric Surgery,1
-Advocate Christ Medical Center,Pediatric Hematology-Oncology,1
+Advocate Christ Hospital & Medical Center,Pediatric Hematology-Oncology,1
 Northwestern Memorial Hospital,Plastic Surgery,5
 Rush University Medical Center,Allergy & Immunology,1
 Ann & Robert H Lurie Children's Hospital of Chicago,Pediatric Otolaryngology,1
@@ -196,7 +196,7 @@ University of Chicago-Comer Children's Hospital,Pediatric Cardiology,1
 Memorial Medical Center-Springfield,Plastic Surgery,1
 "AMITA Health Adventist Medical Center, Hinsdale",Vascular & Interventional Radiology,1
 University of Illinois Hospital,Pediatric Hematology-Oncology,1
-Advocate Christ Medical Center,Neuroradiology,1
+Advocate Christ Hospital & Medical Center,Neuroradiology,1
 Loyola University Medical Center,Urology,1
 University of Chicago-Comer Children's Hospital,Child Neurology,1
 University of Chicago Medical Center,Orthopaedic Surgery,3

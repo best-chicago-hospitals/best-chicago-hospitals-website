@@ -1,4 +1,4 @@
-﻿Doctor,Specialty,Hospital1,Hospital2,"City, State",Phone,Board Certified
+﻿Doctor,Specialty,Hospital1,Hospital2,City_State,Phone,Board_Certified
 Thomas J. Grobelny,Neuroradiology,ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,ADVOCATE LUTHERAN GENERAL HOSPITAL,"Park Ridge, IL 60068",847-430-6108, Diagnostic Radiology
 Humberto Scoccia,Reproductive Endocrinology/Infertility,ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,UNIVERSITY OF ILLINOIS HOSPITAL,"Chicago, IL 60612",312-355-2634, Obstetrics & Gynecology
 Mary D. Stephenson,Reproductive Endocrinology/Infertility,ADVOCATE CHRIST HOSPITAL & MEDICAL CENTER,UNIVERSITY OF ILLINOIS HOSPITAL,"Chicago, IL 60612",312-355-2634, Obstetrics & Gynecology
