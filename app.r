@@ -15,7 +15,7 @@ server<- function(input,output){
    leaflet(hospitals) %>%
      addTiles() %>%
      addCircleMarkers(lat = ~Lat, lng = ~Long,
-                      popup = ~paste0("<b>",Hospital_Name, "</b><br>Amulet score: ", Total_composite_score, "</b><br>Hospital Compare Star Rating: ", Hospital_Compare_Star_Rating, "</b><br>Leapfrog Safety Grade: ", Leapfrog_Safety_Grade, "</b><br>US News and World Report Illinois Ranking: ", US_News_and_World_Report_State_Ranking, "</b><br>Magnet Nursing designation: ", Magnet_Designation),
+                      popup = ~paste0("<a href=\"",url, "\">","<b>",Hospital_Name, "</b><br>Amulet score: ", Total_composite_score, "</b><br>Hospital Compare Star Rating: ", Hospital_Compare_Star_Rating, "</b><br>Leapfrog Safety Grade: ", Leapfrog_Safety_Grade, "</b><br>US News and World Report Illinois Ranking: ", US_News_and_World_Report_State_Ranking, "</b><br>Magnet Nursing designation: ", Magnet_Designation),
                       color = ~pal(Total_composite_score),
                       opacity = 1) %>%
      addLegend("bottomright", pal = pal, values = ~Total_composite_score,
