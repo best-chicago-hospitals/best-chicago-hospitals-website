@@ -1,1 +1,64 @@
-Hello from Chi Hack Night
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="jquery.csv.min.js"></script>
+    <script type="text/javascript" src="csv_to_html_table.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap.min.css"/>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"/>
+    <style type="text/css">
+    body { 
+        padding: 50px 100px; 
+    }
+    i {color: gray;}
+    .question {
+        margin-left: 200px;
+    }
+    .question+.question {
+        margin-bottom: 50px;
+    }
+    .question div {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 20px;
+    }
+    #example {
+        text-align: left;
+    }
+    #location_status .btn {
+        margin-left: 10px;
+    }
+    </style>
+</head>
+<body>
+    <div class="question form-inline">
+        <h3>What type of cancer are you interested in?</h3>
+        <div>
+            <input type="text" class="form-control input-sm" id="cancer_type"/>
+            <button type="button" class="btn btn-default btn-sm">
+                <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+            </button>
+        </div>
+    </div>
+
+    <div class="question form-inline">
+        <h3>Which location are you interested in?</h3>
+        <div>
+            <input type="text" class="form-control input-sm" id="location"/><br/>
+            Search string like: PA <i>or</i> PA ad <i>or</i> Penn
+        </div>
+        <div id="location_status" style="display: none;">
+            Currently showing only: <b>CA</b> <a class="btn btn-default btn-xs" href="#" role="button">Reset</a>
+        </div>
+    </div>
+
+    <div id="example"></div>
+</body>
+</html>
