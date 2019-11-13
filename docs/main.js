@@ -13,7 +13,7 @@ $(document).ready(function() {
     };
 
     CsvToHtmlTable.init({
-        csv_path: '10.29.2019_Finalized_for_DataTables_Surgeries.csv',
+        csv_path: '2019-11-12_for_DataTables_Surgeries_Totals_Years_Combined.csv',
         element: 'example', 
         allow_download: false,
         csv_options: {separator: ',', delimiter: '"'},
