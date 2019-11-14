@@ -21,7 +21,7 @@ $(document).ready(function() {
             paging: false,
             initComplete: function() {
                 $("thead th").each(function(i, v) {
-                    if (i >= 3) { // first column of cancer
+                    if (i >= 4) { // first column of cancer
                         window.CANCER_TYPES.push([
                             $(v).html().toLowerCase(),
                             $(v).html(),
@@ -55,6 +55,7 @@ $(document).ready(function() {
                 null,
                 null,
                 null,
+                null,
                 null
             ],
             autoWidth: false
@@ -70,7 +71,8 @@ $(document).ready(function() {
             [12, default_zero],
             [13, default_zero],
             [14, default_zero],
-            [15, default_zero]
+            [15, default_zero],
+            [16, default_zero]
         ]
     });
     
