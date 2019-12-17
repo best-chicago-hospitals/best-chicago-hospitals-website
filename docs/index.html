@@ -1,41 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
-    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript" src="jquery.csv.min.js"></script>
-    <script type="text/javascript" src="csv_to_html_table.js"></script>
-    <script type="text/javascript" src="main.js"></script>
-    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap.min.css"/>
+    <link rel="stylesheet" href="//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" />
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"/>
     <style type="text/css">
-    body { 
-        padding: 50px 100px; 
-    }
-    i {color: gray;}
-    .question {
-        margin-left: 200px;
-    }
-    .question+.question {
-        margin-bottom: 50px;
-    }
-    .question div {
-        display: inline-block;
-        vertical-align: middle;
-        margin-right: 20px;
-    }
-    #example {
-        text-align: left;
-    }
-    #location_status .btn {
-        margin-left: 10px;
-    }
-    </style>
+        body { 
+            padding: 50px 100px; 
+        }
+        i {color: gray;}
+        .question {
+            margin-left: 200px;
+        }
+        .question+.question {
+            margin-bottom: 50px;
+        }
+        .question div {
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 20px;
+        }
+        #example {
+            text-align: left;
+        }
+        #location_status .btn {
+            margin-left: 10px;
+        }
+        .odd {
+            background-color: #ccc !important;
+        }
+        </style>
 </head>
 <body>
     <div class="question form-inline">
@@ -47,18 +46,189 @@
             </button>
         </div>
     </div>
-
     <div class="question form-inline">
-        <h3>In what location are you looking for hospitals?</h3>
+        <h3>In what state are you looking for hospitals?</h3>
         <div>
-            <input type="text" class="form-control input-sm" id="location"/><br/>
-            Your search will show all counties and states starting with the text you input.
-        </div>
-        <div id="location_status" style="display: none;">
-            Currently showing only: <b>CA</b> <a class="btn btn-default btn-xs" href="#" role="button">Reset</a>
+            <input type="text" class="form-control input-sm" id="state"/>
+            <button type="button" class="btn btn-default btn-sm">
+                <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+            </button>
         </div>
     </div>
+    <div class="question form-inline">
+        <h3>In what county are you looking for hospitals?</h3>
+        <div>
+            <input type="text" class="form-control input-sm" id="county"/>
+            <button type="button" class="btn btn-default btn-sm">
+                <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+            </button>
+        </div>
+    </div>
+    <table id="datatable" class="stripe">
+        <thead>
+            <tr>
+                <th>Hospital Name</th>
+                <th>State</th>
+                <th>County</th>
+                <th>Year</th>
+                <th>Bladder</th>
+                <th>Brain</th>
+                <th>Breast</th>
+                <th>Colon</th>
+                <th>Esophagus</th>
+                <th>Liver</th>
+                <th>Lung</th>
+                <th>Pancreas</th>
+                <th>Prostate</th>
+                <th>Rectum</th>
+                <th>Stomach</th>
+                <th>Total Surgeries For All Cancer Types</th>
+                <th>National Cancer Institute Designation?</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
 
-    <div id="example"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script src="//cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+    <script src="dataTables.colReorder.min.js"></script>
+    <script src="papaparse.min.js"></script>
+    <script>
+        fetch('2019-12-03_for_datatables_surgeries_disaggregated_with_nci.csv').then(res => res.blob()).then(blob=> {
+            let reader = new FileReader();
+            reader.onload = function(event) {
+                var contents = event.target.result;
+                const csvAsArray = Papa.parse(contents);
+                csvAsArray.data.pop(); //last entry is blank and the blank entry messes up datatables
+                $(document).ready( function () {
+                    window.CANCER_TYPES = [];
+                    window.STATES = [
+                        "California",
+                        "Pennsylvania"
+                    ];
+                    window.state = '';
+                    window.STATES_MAP = {
+                        California: "CA",
+                        Pennsylvania: "PA",
+                        '': ''
+                    };
+                    const test = [];
+                    window.COUNTIES = [];
+                    for (i = 4; i < 15; i++)
+                        window.CANCER_TYPES.push(csvAsArray.data[0][i]);
+                
+                    csvAsArray.data.forEach((entry, index) => {
+                        if (index > 0) {
+                            const found = window.COUNTIES.find(county => county.state===entry[1] && county.county === entry[2]);
+                            if (!found) {
+                                window.COUNTIES.push({state: entry[1], county: entry[2]});
+                            }
+                        }
+                    });
+                    const dataTable = $('#datatable').DataTable({
+                        data: csvAsArray.data,
+                        fixedHeader: true,
+                        responsive: true,
+                        colReorder: true,
+                        columnDefs: [
+                            { targets: [1, 2], searchable: true },    
+                            { targets: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16], className: 'dt-body-center'},
+                            { targets: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], render: function ( data, type, row ) {
+                                const value = parseInt(data);
+                                return isNaN (value) ? 0 : parseInt(data); //rather than display a blank, display zero.
+                            }}
+                        ],
+                        dom: 'lrtip' //leaving off the default "f" means the search filter box won't be there since we have our own filter boxes.
+
+                    });
+                    $("#cancer_type").autocomplete({
+                        source: window.CANCER_TYPES,
+                        select: function(event, ui) {
+                            let thisColumn = -1;
+                            for (var i = 0; i < window.CANCER_TYPES.length; i++) {
+                                if (window.CANCER_TYPES[i] === ui.item.value) {
+                                    thisColumn = i+4;
+                                    dataTable.column(i+4).visible(true);
+                                }
+                                else
+                                    dataTable.column(i+4).visible(false);
+                                dataTable.column(thisColumn).order('desc').draw();
+                            }
+                        },
+                        minLength: 0
+                    }).focus(function(){            
+                        $(this).data("uiAutocomplete").search("");
+                    }).on('keyup change', function() {
+                        let thisColumn = -1;
+                        for (var i = 0; i < window.CANCER_TYPES.length; i++) {
+                            if (!window.CANCER_TYPES.includes(this.value)) {
+                                thisColumn = i+4;
+                                dataTable.column(i+4).visible(true);
+                            }
+                            else if (window.CANCER_TYPES[i] === this.value || this.value === '')
+                                dataTable.column(i+4).visible(true);
+                            else
+                                dataTable.column(i+4).visible(false);
+                            dataTable.column(thisColumn).order('desc').draw();
+                        }
+                    });
+
+                    $("#cancer_type+.btn").click(function() {
+                        $("#cancer_type").focus();
+                    });
+
+                    $("#state").autocomplete({
+                        source: window.STATES,
+                        select: function(event, ui) {
+                            dataTable.column(1).search(window.STATES_MAP[ui.item.value]).draw();
+                            window.state = window.STATES_MAP[ui.item.value];
+                        },
+                        minLength: 0
+                    }).focus(function(){            
+                        $(this).data("uiAutocomplete").search("");
+                    }).on('keyup change', function() {
+                        dataTable.column(1).search(window.STATES_MAP[this.value]).draw();
+                        window.state = window.STATES_MAP[this.value];
+                    });
+
+                    $("#state+.btn").click(function() {
+                        $("#state").focus();
+                    });
+
+                    $("#county").autocomplete({
+                        source: function(req, res) {
+                            const results = [];
+                            window.COUNTIES.map(county => {
+                                if (window.state !== "" && county.state === window.state)
+                                    results.push(county.county);
+                                else if (window.state === "")
+                                results.push(county.county);
+                            })
+                            res(results);
+                        },
+                        select: function(event, ui) {
+                            dataTable.column(2).search(ui.item.value).draw();
+                        },
+                        minLength: 0
+                    }).focus(function(){            
+                        $(this).data("uiAutocomplete").search("");
+                    }).on('keyup change', function() {
+                        dataTable.column(2).search(this.value).draw();
+                    });
+                    $("#county+.btn").click(function() {
+                        $("#county").focus();
+                    });
+                } );
+            };
+            
+            reader.onerror = function(event) {
+                console.error("File could not be read! Code " + event.target.error.code);
+            };
+
+            reader.readAsText(blob);
+        }); 
+    </script>
+
 </body>
 </html>
