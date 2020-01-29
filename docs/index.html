@@ -141,11 +141,31 @@
                 csvAsArray.data.shift(); //First row is headers
                 csvAsArray.data.shift(); //Second row is totals
                 csvAsArray.data.pop(); //last entry is blank and the blank entry messes up datatables
-                let ranked = csvAsArray.data;
+                const cleanedCSVArray = csvAsArray.data.map(obj => {
+                    const curr = [];
+                    obj.forEach((entry, i) => {
+                        if (i >= 3 && i <= 15) {
+                            const parsed = parseInt(entry.replace(/,/g, '')); //parseInt fails to parse numbers properly if comma separated thousands. This replace fixes it.
+                            curr.push(parsed);
+                        } else {
+                            curr.push(entry);
+                        }
+                    });
+                    return curr;
+                });
+                let ranked = cleanedCSVArray;
                 for (let i = 4; i < 15; i++) {
                     ranked = getRanked(ranked, i);
                 }
-                console.log(ranked);
+                
+                let index;
+                ranked.find((obj, i) => {
+                    if (obj[0] === 'Hospital University PA') {
+                        index = i;
+                        return true;
+                    }
+                    return false;
+                });
 
                 $(document).ready( function () {
                     window.CANCER_TYPES = [];
@@ -166,7 +186,7 @@
                     for (i = 4; i < 15; i++)
                         window.CANCER_TYPES.push(headers[i]);
                 
-                    csvAsArray.data.forEach((entry, index) => {
+                        cleanedCSVArray.forEach((entry, index) => {
                         if (index > 0) {
                             const found = window.HOSPITALS.find(hosp => hosp===entry[0]);
                             if (!found) {
@@ -175,7 +195,7 @@
                         }
                     });
 
-                    csvAsArray.data.forEach((entry, index) => {
+                    cleanedCSVArray.forEach((entry, index) => {
                         if (index > 0) {
                             const found = window.COUNTIES.find(county => county.state===entry[1] && county.county === entry[2]);
                             if (!found) {
@@ -184,7 +204,7 @@
                         }
                     });
 
-                    csvAsArray.data.forEach((entry, index) => {
+                    cleanedCSVArray.forEach((entry, index) => {
                         if (index > 0) {
                             const found = window.YEARS.find(year => year === entry[3]);
                             if (!found) {
