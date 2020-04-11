@@ -1,0 +1,1 @@
+These are files from the first project done by Amulet Health, trying to rank Chicago hospitals by quality

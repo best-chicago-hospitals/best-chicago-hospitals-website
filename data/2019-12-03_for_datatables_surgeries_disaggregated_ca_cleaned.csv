@@ -1,0 +1,1529 @@
+Hospital,County,LATITUDE,LONGITUDE,Year,Total,bladder,brain,breast,colon,esophagus,liver,lung,pancreas,prostate,rectum,stomach
+AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248,2013,168,0,1,105,29,1,0,23,0,3,3,3
+AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248,2014,162,1,5,101,27,1,0,16,0,3,4,4
+AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248,2015,157,2,0,104,23,1,0,16,0,6,1,4
+AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248,2016,181,0,0,123,23,2,0,20,0,3,8,2
+AHMC Anaheim Regional Medical Center,Orange,33.84725,-117.93248,2017,157,1,3,97,35,0,0,11,0,8,1,1
+Adventist Medical Center,Kings,36.3256247,-119.6683912,2013,94,1,0,53,22,0,2,2,0,7,6,1
+Adventist Medical Center,Kings,36.3256247,-119.6683912,2014,115,0,0,72,21,0,1,1,0,10,7,3
+Adventist Medical Center,Kings,36.3256247,-119.6683912,2015,61,3,0,33,17,0,0,2,0,0,6,0
+Adventist Medical Center,Kings,36.3256247,-119.6683912,2016,58,0,0,16,20,3,0,2,1,4,12,0
+Adventist Medical Center,Kings,36.3256247,-119.6683912,2017,67,0,0,40,14,1,0,1,0,1,9,1
+Alameda Hospital,Alameda,37.762953,-122.25362,2013,6,0,0,2,3,0,0,0,0,0,0,1
+Alameda Hospital,Alameda,37.762953,-122.25362,2014,6,0,0,3,2,0,0,0,0,0,1,0
+Alameda Hospital,Alameda,37.762953,-122.25362,2015,8,0,0,3,4,0,0,0,0,0,1,0
+Alameda Hospital,Alameda,37.762953,-122.25362,2016,8,0,0,2,4,0,0,0,0,0,2,0
+Alameda Hospital,Alameda,37.762953,-122.25362,2017,5,0,0,2,1,0,0,0,0,0,2,0
+Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449,2013,84,0,0,25,39,1,2,1,0,0,6,10
+Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449,2014,89,0,0,13,40,0,1,19,0,0,11,5
+Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449,2015,78,0,0,14,32,0,0,16,0,0,5,11
+Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449,2016,91,0,0,5,51,1,1,18,0,0,10,5
+Alhambra Hospital Medical Center,Los Angeles,34.08988,-118.1449,2017,82,0,0,17,31,0,1,9,0,1,13,10
+Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257,2015,319,0,0,215,49,1,9,12,2,15,7,9
+Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257,2016,482,2,0,292,88,2,13,26,6,11,25,17
+Alta Bates Summit Medical Center,Alameda,37.82106,-122.26257,2017,482,0,0,303,69,6,7,23,6,25,28,15
+Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,37.85633,-122.25784,2013,128,0,8,95,12,1,0,6,0,4,2,0
+Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,37.85633,-122.25784,2014,111,0,7,80,12,0,0,4,1,3,2,2
+Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,37.85633,-122.25784,2015,94,0,3,73,8,0,1,3,1,3,0,2
+Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,37.85633,-122.25784,2016,106,0,10,74,15,0,0,0,1,3,2,1
+Alta Bates Summit Medical Center – Alta Bates Campus,Alameda,37.85633,-122.25784,2017,102,0,7,75,9,0,2,0,2,3,1,3
+Alta Bates Summit Medical Center – Summit Campus – Hawthorne,Alameda,37.82106,-122.26257,2013,336,0,0,208,43,2,7,22,10,19,14,11
+Alta Bates Summit Medical Center – Summit Campus – Hawthorne,Alameda,37.82106,-122.26257,2014,445,0,0,311,60,0,7,15,6,24,13,9
+Alvarado Hospital,San Diego,32.77708,-117.05683,2013,50,1,1,23,13,0,0,5,0,5,1,1
+Alvarado Hospital,San Diego,32.77708,-117.05683,2014,50,1,5,16,10,0,0,7,0,10,1,0
+Alvarado Hospital,San Diego,32.77708,-117.05683,2015,29,0,0,7,9,0,0,2,0,6,2,3
+Alvarado Hospital,San Diego,32.77708,-117.05683,2016,42,0,3,13,9,0,1,5,0,4,7,0
+Alvarado Hospital,San Diego,32.77708,-117.05683,2017,25,0,1,12,6,1,0,3,0,1,1,0
+Anaheim General Hospital,Orange,33.81716,-118.00706,2013,2,0,0,2,0,0,0,0,0,0,0,0
+Anaheim Global Medical Center,Orange,33.8209,-117.90921,2015,2,0,0,0,2,0,0,0,0,0,0,0
+Anaheim Global Medical Center,Orange,33.8209,-117.90921,2016,5,0,0,3,1,0,0,1,0,0,0,0
+Anaheim Global Medical Center,Orange,33.8209,-117.90921,2017,6,0,0,1,1,0,1,2,0,0,1,0
+Antelope Valley Hospital,Los Angeles,34.68928,-118.15767,2013,257,1,8,122,62,0,0,10,1,38,12,3
+Antelope Valley Hospital,Los Angeles,34.68928,-118.15767,2014,250,2,10,136,48,0,3,8,3,23,12,5
+Antelope Valley Hospital,Los Angeles,34.68928,-118.15767,2015,203,1,8,110,36,0,3,6,1,20,11,7
+Antelope Valley Hospital,Los Angeles,34.68928,-118.15767,2016,223,0,17,111,45,0,6,7,3,14,12,8
+Antelope Valley Hospital,Los Angeles,34.68928,-118.15767,2017,231,0,22,118,29,0,3,7,5,32,10,5
+Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761,2013,161,4,18,86,19,1,3,6,2,13,7,2
+Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761,2014,90,0,9,29,24,1,5,3,1,7,10,1
+Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761,2015,38,1,5,19,5,1,1,0,0,3,2,1
+Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761,2016,87,1,10,31,17,1,1,2,2,4,16,2
+Arrowhead Regional Medical Center,San Bernardino,34.07163215,-117.3527761,2017,105,2,28,30,15,0,2,4,2,7,11,4
+Bakersfield Heart Hospital,Kern,35.38619,-119.04314,2013,7,0,0,2,4,0,0,0,0,0,0,1
+Bakersfield Heart Hospital,Kern,35.38619,-119.04314,2014,11,0,0,3,7,0,0,1,0,0,0,0
+Bakersfield Heart Hospital,Kern,35.38619,-119.04314,2015,13,0,0,1,9,0,0,0,0,0,1,2
+Bakersfield Heart Hospital,Kern,35.38619,-119.04314,2016,9,0,0,2,6,0,0,0,0,1,0,0
+Bakersfield Heart Hospital,Kern,35.38619,-119.04314,2017,10,0,0,4,5,0,0,0,0,0,0,1
+Bakersfield Memorial Hospital,Kern,35.39051,-119.00658,2013,155,1,15,61,34,0,0,26,0,5,8,5
+Bakersfield Memorial Hospital,Kern,35.39051,-119.00658,2014,140,1,15,57,37,0,0,14,0,3,10,3
+Bakersfield Memorial Hospital,Kern,35.39051,-119.00658,2015,110,0,7,40,43,0,0,8,0,2,8,2
+Bakersfield Memorial Hospital,Kern,35.39051,-119.00658,2016,167,2,16,60,45,0,3,16,1,8,14,2
+Bakersfield Memorial Hospital,Kern,35.39051,-119.00658,2017,173,2,20,73,35,0,1,15,1,11,13,2
+Banner Lassen Medical Center,Lassen,40.42306,-120.64609,2014,1,0,0,0,0,0,0,0,0,0,1,0
+Banner Lassen Medical Center,Lassen,40.42306,-120.64609,2015,1,0,0,1,0,0,0,0,0,0,0,0
+Banner Lassen Medical Center,Lassen,40.42306,-120.64609,2016,1,0,0,0,1,0,0,0,0,0,0,0
+Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841,2013,7,0,0,4,3,0,0,0,0,0,0,0
+Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841,2014,6,0,0,3,2,0,0,0,0,0,1,0
+Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841,2015,7,0,0,6,1,0,0,0,0,0,0,0
+Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841,2016,11,0,0,5,3,0,2,0,0,0,1,0
+Barstow Community Hospital,San Bernardino,34.8935263,-117.0168841,2017,6,0,0,5,1,0,0,0,0,0,0,0
+Barton Memorial Hospital,El Dorado,38.91224,-119.99784,2013,15,0,0,11,4,0,0,0,0,0,0,0
+Barton Memorial Hospital,El Dorado,38.91224,-119.99784,2014,22,0,0,18,3,0,0,0,0,0,1,0
+Barton Memorial Hospital,El Dorado,38.91224,-119.99784,2015,23,0,0,11,8,0,0,0,0,4,0,0
+Barton Memorial Hospital,El Dorado,38.91224,-119.99784,2016,36,2,0,17,4,0,0,0,0,13,0,0
+Barton Memorial Hospital,El Dorado,38.91224,-119.99784,2017,28,1,0,12,4,0,0,0,0,8,3,0
+Bellflower Medical Center,Los Angeles,33.87466,-118.13052,2013,6,0,0,4,2,0,0,0,0,0,0,0
+Beverly Hospital,Los Angeles,34.01614,-118.10132,2013,49,0,2,25,16,0,0,1,0,2,2,1
+Beverly Hospital,Los Angeles,34.01614,-118.10132,2014,47,0,0,26,13,0,0,2,0,2,2,2
+Beverly Hospital,Los Angeles,34.01614,-118.10132,2015,47,0,1,27,10,0,0,3,0,0,2,4
+Beverly Hospital,Los Angeles,34.01614,-118.10132,2016,50,1,2,26,12,0,1,0,1,1,5,1
+Beverly Hospital,Los Angeles,34.01614,-118.10132,2017,58,1,0,38,5,0,0,1,0,5,5,3
+Biggs Gridley Memorial Hospital,Butte,39.36705,-121.69058,2013,2,0,0,0,2,0,0,0,0,0,0,0
+Biggs Gridley Memorial Hospital,Butte,39.36705,-121.69058,2014,3,0,0,1,2,0,0,0,0,0,0,0
+California Hospital Medical Center – Los Angeles,Los Angeles,34.03721,-118.26551,2013,103,0,4,71,10,0,0,1,2,3,8,4
+California Hospital Medical Center – Los Angeles,Los Angeles,34.03721,-118.26551,2014,140,0,3,107,12,0,1,2,1,4,6,4
+California Hospital Medical Center – Los Angeles,Los Angeles,34.03721,-118.26551,2015,114,0,1,89,17,0,0,2,0,0,4,1
+California Hospital Medical Center – Los Angeles,Los Angeles,34.03721,-118.26551,2016,166,0,4,113,15,0,4,5,1,4,10,10
+California Hospital Medical Center – Los Angeles,Los Angeles,34.03721,-118.26551,2017,115,1,7,66,19,1,3,1,3,1,8,5
+California Pacific Medical Center – Davies Campus,San Francisco,37.7691,-122.43465,2013,74,0,21,50,3,0,0,0,0,0,0,0
+California Pacific Medical Center – Davies Campus,San Francisco,37.7691,-122.43465,2014,69,0,16,51,2,0,0,0,0,0,0,0
+California Pacific Medical Center – Davies Campus,San Francisco,37.7691,-122.43465,2015,53,0,13,40,0,0,0,0,0,0,0,0
+California Pacific Medical Center – Davies Campus,San Francisco,37.7691,-122.43465,2016,86,0,24,59,1,0,0,0,0,2,0,0
+California Pacific Medical Center – Davies Campus,San Francisco,37.7691,-122.43465,2017,78,0,23,55,0,0,0,0,0,0,0,0
+California Pacific Medical Center – Pacific Campus,San Francisco,37.79149,-122.43102,2013,455,0,13,241,55,4,28,20,36,10,38,10
+California Pacific Medical Center – Pacific Campus,San Francisco,37.79149,-122.43102,2014,543,0,9,289,64,8,32,28,57,4,41,11
+California Pacific Medical Center – Pacific Campus,San Francisco,37.79149,-122.43102,2015,462,3,11,251,38,3,38,22,46,9,34,7
+California Pacific Medical Center – Pacific Campus,San Francisco,37.79149,-122.43102,2016,687,1,17,361,66,11,72,22,63,5,53,16
+California Pacific Medical Center – Pacific Campus,San Francisco,37.79149,-122.43102,2017,728,1,23,429,85,5,65,20,43,10,34,13
+California Pacific Medical Center – St. Luke’s Campus,San Francisco,37.74799,-122.42052,2013,22,0,0,6,12,0,0,0,1,0,3,0
+California Pacific Medical Center – St. Luke’s Campus,San Francisco,37.74799,-122.42052,2014,14,0,0,4,8,0,0,0,0,0,1,1
+California Pacific Medical Center – St. Luke’s Campus,San Francisco,37.74799,-122.42052,2015,16,0,0,6,9,0,0,0,0,0,1,0
+California Pacific Medical Center – St. Luke’s Campus,San Francisco,37.74799,-122.42052,2016,18,0,0,12,3,0,0,0,0,0,2,1
+California Pacific Medical Center – St. Luke’s Campus,San Francisco,37.74799,-122.42052,2017,19,0,0,9,7,0,0,0,0,1,2,0
+Casa Colina Hospital,Los Angeles,34.09633,-117.74561,2016,15,0,0,9,2,0,0,0,0,4,0,0
+Casa Colina Hospital,Los Angeles,34.09633,-117.74561,2017,27,0,2,18,3,0,0,0,0,2,2,0
+Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061,2013,1458,28,121,652,109,23,43,205,49,176,36,16
+Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061,2014,1475,21,119,662,131,11,58,198,34,152,59,30
+Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061,2015,1103,14,103,492,86,13,26,142,32,144,37,14
+Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061,2016,1492,22,157,706,132,12,53,79,56,197,55,23
+Cedars Sinai Medical Center,Los Angeles,34.07681,-118.38061,2017,1547,22,168,755,129,14,64,86,49,158,74,28
+Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788,2013,47,0,6,14,16,0,0,7,0,0,1,3
+Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788,2014,39,0,1,14,12,0,0,8,0,1,1,2
+Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788,2015,38,0,1,14,16,0,0,4,0,2,0,1
+Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788,2016,36,0,3,7,13,0,0,3,0,2,5,3
+Centinela Hospital Medical Center,Los Angeles,33.94917,-118.34788,2017,29,0,4,6,13,0,1,2,0,0,1,2
+Chapman Global Medical Center,Orange,33.78785,-117.82586,2015,1,0,0,0,0,0,0,0,0,0,0,1
+Chapman Global Medical Center,Orange,33.78785,-117.82586,2016,2,0,0,0,1,0,0,0,0,0,1,0
+Chapman Global Medical Center,Orange,33.78785,-117.82586,2017,1,0,0,0,0,0,0,0,0,0,1,0
+Chapman Medical Center,Orange,33.78785,-117.82586,2013,1,0,0,0,1,0,0,0,0,0,0,0
+Chapman Medical Center,Orange,33.78785,-117.82586,2014,4,0,0,1,1,0,0,0,0,0,2,0
+Chinese Hospital,San Francisco,37.79565,-122.40926,2013,63,2,0,35,16,0,0,0,0,0,7,3
+Chinese Hospital,San Francisco,37.79565,-122.40926,2014,66,1,0,23,24,0,2,0,1,1,6,8
+Chinese Hospital,San Francisco,37.79565,-122.40926,2015,34,0,0,11,15,0,0,0,0,0,3,5
+Chinese Hospital,San Francisco,37.79565,-122.40926,2016,39,0,0,4,18,0,1,0,1,0,9,6
+Chinese Hospital,San Francisco,37.79565,-122.40926,2017,22,0,0,0,15,0,0,0,0,1,2,4
+Chino Valley Medical Center,San Bernardino,34.02626,-117.687,2013,4,0,0,1,2,0,0,0,0,0,1,0
+Chino Valley Medical Center,San Bernardino,34.02626,-117.687,2014,12,0,0,4,7,0,0,0,0,1,0,0
+Chino Valley Medical Center,San Bernardino,34.02626,-117.687,2015,15,0,0,9,5,0,0,0,0,0,1,0
+Chino Valley Medical Center,San Bernardino,34.02626,-117.687,2016,32,0,0,21,8,0,0,0,0,1,1,1
+Chino Valley Medical Center,San Bernardino,34.02626,-117.687,2017,27,0,0,16,6,0,0,0,0,0,3,2
+Citrus Valley Medical Center – Inter Community Campus,Los Angeles,34.08993,-117.89264,2013,81,0,3,36,31,0,0,6,0,0,3,2
+Citrus Valley Medical Center – Inter Community Campus,Los Angeles,34.08993,-117.89264,2014,79,0,3,52,11,0,0,10,0,0,3,0
+Citrus Valley Medical Center – Inter Community Campus,Los Angeles,34.08993,-117.89264,2015,31,0,1,12,7,0,0,7,0,0,4,0
+Citrus Valley Medical Center – Inter Community Campus,Los Angeles,34.08993,-117.89264,2016,57,1,1,24,15,0,0,10,0,0,5,1
+Citrus Valley Medical Center – Inter Community Campus,Los Angeles,34.08993,-117.89264,2017,40,0,2,11,20,0,0,1,1,1,1,3
+Citrus Valley Medical Center – Queen of the Valley Campus,Los Angeles,34.06242,-117.94528,2013,146,3,8,45,16,0,0,1,0,67,4,2
+Citrus Valley Medical Center – Queen of the Valley Campus,Los Angeles,34.06242,-117.94528,2014,165,0,10,34,18,0,0,4,0,93,4,2
+Citrus Valley Medical Center – Queen of the Valley Campus,Los Angeles,34.06242,-117.94528,2015,139,2,9,41,18,0,1,1,0,57,3,7
+Citrus Valley Medical Center – Queen of the Valley Campus,Los Angeles,34.06242,-117.94528,2016,151,5,8,29,23,0,0,0,0,71,12,3
+Citrus Valley Medical Center – Queen of the Valley Campus,Los Angeles,34.06242,-117.94528,2017,184,5,8,37,26,0,1,4,2,96,4,1
+City of Hope Helford Clinical Research Hospital,Los Angeles,34.13216,-117.97152,2013,1145,40,45,437,56,9,56,40,9,398,26,29
+City of Hope Helford Clinical Research Hospital,Los Angeles,34.13216,-117.97152,2014,1108,38,49,431,55,9,58,52,16,336,30,34
+City of Hope Helford Clinical Research Hospital,Los Angeles,34.13216,-117.97152,2015,799,28,48,332,29,2,67,48,18,167,35,25
+City of Hope Helford Clinical Research Hospital,Los Angeles,34.13216,-117.97152,2016,1197,42,88,517,65,17,101,60,21,211,45,30
+City of Hope Helford Clinical Research Hospital,Los Angeles,34.13216,-117.97152,2017,1157,50,77,473,71,10,90,60,30,218,52,26
+Clovis Community Medical Center,Fresno,36.83745,-119.66072,2013,479,3,0,362,38,3,2,14,4,35,10,8
+Clovis Community Medical Center,Fresno,36.83745,-119.66072,2014,438,3,0,334,41,2,1,6,3,27,12,9
+Clovis Community Medical Center,Fresno,36.83745,-119.66072,2015,362,2,0,291,29,0,2,9,2,17,6,4
+Clovis Community Medical Center,Fresno,36.83745,-119.66072,2016,448,3,0,337,38,2,2,3,1,42,17,3
+Clovis Community Medical Center,Fresno,36.83745,-119.66072,2017,466,0,0,336,65,4,0,3,2,32,20,4
+Coast Plaza Hospital,Los Angeles,33.91264,-118.09906,2013,4,0,0,0,2,0,0,0,0,0,1,1
+Coast Plaza Hospital,Los Angeles,33.91264,-118.09906,2014,4,0,0,0,2,0,0,0,0,0,1,1
+Coast Plaza Hospital,Los Angeles,33.91264,-118.09906,2015,4,0,0,3,1,0,0,0,0,0,0,0
+Coast Plaza Hospital,Los Angeles,33.91264,-118.09906,2016,9,0,0,2,3,0,0,0,0,0,3,1
+Coast Plaza Hospital,Los Angeles,33.91264,-118.09906,2017,11,0,0,4,5,0,0,0,0,0,2,0
+Coastal Communities Hospital,Orange,33.71112,-117.88539,2013,47,0,0,40,4,0,0,0,0,0,2,1
+Coastal Communities Hospital,Orange,33.71112,-117.88539,2014,31,0,0,26,3,0,0,0,0,1,1,0
+College Medical Center,Los Angeles,33.80759,-118.19355,2013,9,0,0,3,5,0,0,1,0,0,0,0
+College Medical Center,Los Angeles,33.80759,-118.19355,2014,5,0,0,1,3,0,0,0,0,0,0,1
+College Medical Center,Los Angeles,33.80759,-118.19355,2015,4,0,0,2,0,0,0,1,0,0,1,0
+College Medical Center,Los Angeles,33.80759,-118.19355,2016,4,0,0,2,2,0,0,0,0,0,0,0
+College Medical Center,Los Angeles,33.80759,-118.19355,2017,8,1,0,0,5,0,0,0,0,1,1,0
+Colorado River Medical Center,San Bernardino,34.8325,-114.61818,2016,2,0,0,1,0,0,0,0,0,0,1,0
+Colusa Regional Medical Center,Colusa,39.20727,-122.00031,2013,1,0,0,0,1,0,0,0,0,0,0,0
+Community Hospital Long Beach,Los Angeles,33.78871,-118.14578,2013,4,0,0,0,2,0,0,0,0,0,1,1
+Community Hospital Long Beach,Los Angeles,33.78871,-118.14578,2014,2,0,0,1,1,0,0,0,0,0,0,0
+Community Hospital Long Beach,Los Angeles,33.78871,-118.14578,2015,5,0,0,2,3,0,0,0,0,0,0,0
+Community Hospital Long Beach,Los Angeles,33.78871,-118.14578,2016,6,0,0,0,3,0,0,0,1,1,0,1
+Community Hospital Long Beach,Los Angeles,33.78871,-118.14578,2017,5,0,0,1,2,0,1,0,0,0,1,0
+Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245,2013,38,0,0,29,6,0,0,0,0,0,2,1
+Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245,2014,43,0,0,30,7,0,1,0,0,0,5,0
+Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245,2015,29,0,0,19,8,0,0,0,0,0,1,1
+Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245,2016,33,0,0,23,5,0,0,0,0,0,4,1
+Community Hospital of San Bernardino,San Bernardino,34.13138,-117.32245,2017,25,0,0,15,5,0,1,0,0,0,3,1
+Community Hospital of The Monterey Peninsula,Monterey,36.59827,-121.92488,2013,168,0,14,68,39,0,1,20,3,1,15,7
+Community Hospital of The Monterey Peninsula,Monterey,36.59827,-121.92488,2014,171,0,9,84,22,2,0,28,7,1,14,4
+Community Hospital of The Monterey Peninsula,Monterey,36.59827,-121.92488,2015,141,0,9,66,27,0,3,18,4,1,7,6
+Community Hospital of The Monterey Peninsula,Monterey,36.59827,-121.92488,2016,174,1,11,70,34,1,8,12,3,9,19,6
+Community Hospital of The Monterey Peninsula,Monterey,36.59827,-121.92488,2017,179,1,19,55,47,2,3,13,4,6,24,5
+Community Memorial Hospital – San Buenaventura,Ventura,34.274589,-119.258124,2013,295,0,7,179,36,0,0,10,0,52,8,3
+Community Memorial Hospital – San Buenaventura,Ventura,34.274589,-119.258124,2014,263,3,7,149,43,0,4,8,0,40,8,1
+Community Memorial Hospital – San Buenaventura,Ventura,34.274589,-119.258124,2015,195,0,8,100,33,0,0,5,1,41,6,1
+Community Memorial Hospital – San Buenaventura,Ventura,34.274589,-119.258124,2016,274,2,10,142,31,0,2,8,0,59,18,2
+Community Memorial Hospital – San Buenaventura,Ventura,34.274589,-119.258124,2017,322,4,9,160,41,0,1,18,2,69,17,1
+Community Regional Medical Center – Fresno,Fresno,36.74253,-119.78324,2013,236,1,37,47,28,0,22,11,17,50,14,9
+Community Regional Medical Center – Fresno,Fresno,36.74253,-119.78324,2014,236,3,48,49,29,0,18,9,20,45,13,2
+Community Regional Medical Center – Fresno,Fresno,36.74253,-119.78324,2015,188,0,68,40,23,0,5,8,3,34,4,3
+Community Regional Medical Center – Fresno,Fresno,36.74253,-119.78324,2016,358,0,69,63,76,1,12,44,12,34,37,10
+Community Regional Medical Center – Fresno,Fresno,36.74253,-119.78324,2017,311,0,71,70,49,3,8,46,6,29,22,7
+Community and Mission Hospital of Huntington Park – Slauson,Los Angeles,33.98929,-118.22466,2013,8,0,0,3,3,0,0,0,0,0,0,2
+Community and Mission Hospital of Huntington Park – Slauson,Los Angeles,33.98929,-118.22466,2014,6,0,0,2,3,0,0,0,0,0,0,1
+Community and Mission Hospital of Huntington Park – Slauson,Los Angeles,33.98929,-118.22466,2015,2,0,0,2,0,0,0,0,0,0,0,0
+Community and Mission Hospital of Huntington Park – Slauson,Los Angeles,33.98929,-118.22466,2016,8,0,0,2,2,0,0,0,0,2,2,0
+Community and Mission Hospital of Huntington Park – Slauson,Los Angeles,33.98929,-118.22466,2017,4,0,0,2,1,0,0,0,0,0,1,0
+Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101,2013,99,0,0,77,18,0,0,0,0,0,3,1
+Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101,2014,96,0,0,68,18,0,0,0,0,0,10,0
+Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101,2015,55,0,0,34,15,0,0,0,0,0,4,2
+Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101,2016,81,0,0,52,14,0,0,0,0,1,9,5
+Contra Costa Regional Medical Center,Contra Costa,38.00646,-122.13101,2017,78,0,0,46,21,0,2,0,1,1,4,3
+Corona Regional Medical Center – Main,Riverside,33.8733354,-117.5668015,2013,52,0,0,38,6,0,1,0,0,1,5,1
+Corona Regional Medical Center – Main,Riverside,33.8733354,-117.5668015,2014,50,0,0,37,9,0,0,0,0,0,3,1
+Corona Regional Medical Center – Main,Riverside,33.8733354,-117.5668015,2015,48,0,1,37,7,0,0,1,1,0,0,1
+Corona Regional Medical Center – Main,Riverside,33.8733354,-117.5668015,2016,77,0,0,61,13,0,0,0,1,0,2,0
+Corona Regional Medical Center – Main,Riverside,33.8733354,-117.5668015,2017,97,0,0,67,20,0,2,0,0,0,7,1
+Dameron Hospital,San Joaquin,37.9613,-121.30061,2013,19,0,0,6,11,0,0,0,0,0,1,1
+Dameron Hospital,San Joaquin,37.9613,-121.30061,2014,20,0,0,6,8,0,0,3,0,0,2,1
+Dameron Hospital,San Joaquin,37.9613,-121.30061,2015,9,0,0,2,7,0,0,0,0,0,0,0
+Dameron Hospital,San Joaquin,37.9613,-121.30061,2016,12,0,0,4,5,0,0,2,1,0,0,0
+Dameron Hospital,San Joaquin,37.9613,-121.30061,2017,16,0,0,1,7,0,1,0,2,0,5,0
+Delano Regional Medical Center,Kern,35.76143,-119.23706,2013,15,0,0,7,4,0,0,0,0,0,3,1
+Delano Regional Medical Center,Kern,35.76143,-119.23706,2014,12,0,0,2,7,0,0,0,0,0,1,2
+Delano Regional Medical Center,Kern,35.76143,-119.23706,2015,10,0,0,7,2,0,0,0,0,0,1,0
+Delano Regional Medical Center,Kern,35.76143,-119.23706,2016,16,0,0,7,6,0,0,0,0,0,1,2
+Delano Regional Medical Center,Kern,35.76143,-119.23706,2017,16,0,0,10,5,0,0,0,0,1,0,0
+Desert Regional Medical Center,Riverside,33.83932,-116.54549,2013,180,0,24,87,23,1,4,28,2,0,8,3
+Desert Regional Medical Center,Riverside,33.83932,-116.54549,2014,231,0,23,105,30,2,0,39,2,0,22,8
+Desert Regional Medical Center,Riverside,33.83932,-116.54549,2015,202,0,16,92,40,1,2,26,0,3,16,6
+Desert Regional Medical Center,Riverside,33.83932,-116.54549,2016,304,0,27,149,36,2,4,31,1,23,25,6
+Desert Regional Medical Center,Riverside,33.83932,-116.54549,2017,300,0,30,178,35,3,3,21,0,11,17,2
+Desert Valley Hospital,San Bernardino,34.47093,-117.29778,2013,44,0,0,13,14,0,0,1,0,14,2,0
+Desert Valley Hospital,San Bernardino,34.47093,-117.29778,2014,47,0,0,6,11,0,0,3,0,26,1,0
+Desert Valley Hospital,San Bernardino,34.47093,-117.29778,2015,36,1,0,3,5,0,0,1,0,25,1,0
+Desert Valley Hospital,San Bernardino,34.47093,-117.29778,2016,53,2,0,10,5,0,1,2,0,30,2,1
+Desert Valley Hospital,San Bernardino,34.47093,-117.29778,2017,57,4,0,4,3,0,0,3,0,40,3,0
+Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818,2013,37,0,0,32,5,0,0,0,0,0,0,0
+Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818,2014,63,0,0,43,17,0,0,0,0,0,3,0
+Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818,2015,43,0,0,34,9,0,0,0,0,0,0,0
+Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818,2016,53,0,0,43,9,0,0,1,0,0,0,0
+Doctors Hospital of Manteca,San Joaquin,37.80118,-121.19818,2017,43,0,0,34,9,0,0,0,0,0,0,0
+Doctors Medical Center,Stanislaus,37.66439,-120.99631,2013,269,3,19,154,36,1,0,15,2,26,9,4
+Doctors Medical Center,Stanislaus,37.66439,-120.99631,2014,268,3,13,157,45,0,0,18,3,13,10,6
+Doctors Medical Center,Stanislaus,37.66439,-120.99631,2015,208,1,18,116,26,0,0,11,3,27,5,1
+Doctors Medical Center,Stanislaus,37.66439,-120.99631,2016,290,3,21,145,46,0,4,10,4,41,13,3
+Doctors Medical Center,Stanislaus,37.66439,-120.99631,2017,306,2,14,163,42,0,4,14,6,35,22,4
+Doctors Medical Center – San Pablo,Contra Costa,37.95279,-122.33866,2013,38,1,0,17,11,0,0,0,0,1,6,2
+Doctors Medical Center – San Pablo,Contra Costa,37.95279,-122.33866,2014,24,0,0,12,11,0,0,0,0,0,1,0
+Doctors Medical Center – San Pablo,Contra Costa,37.95279,-122.33866,2015,2,0,0,1,0,0,0,0,0,0,1,0
+Dominican Hospital,Santa Cruz,36.98806,-121.98489,2013,125,0,24,49,21,0,0,6,0,15,9,1
+Dominican Hospital,Santa Cruz,36.98806,-121.98489,2014,136,3,28,51,28,1,2,4,0,8,10,1
+Dominican Hospital,Santa Cruz,36.98806,-121.98489,2015,91,2,18,35,16,0,0,13,0,4,2,1
+Dominican Hospital,Santa Cruz,36.98806,-121.98489,2016,161,6,28,52,36,0,1,11,0,11,16,0
+Dominican Hospital,Santa Cruz,36.98806,-121.98489,2017,129,6,16,41,19,0,2,17,0,21,6,1
+East Los Angeles Doctors Hospital,Los Angeles,34.02383,-118.18377,2013,5,0,0,1,4,0,0,0,0,0,0,0
+East Los Angeles Doctors Hospital,Los Angeles,34.02383,-118.18377,2014,4,1,0,2,1,0,0,0,0,0,0,0
+East Los Angeles Doctors Hospital,Los Angeles,34.02383,-118.18377,2015,7,0,0,5,1,0,0,0,0,0,0,1
+East Los Angeles Doctors Hospital,Los Angeles,34.02383,-118.18377,2016,6,0,0,2,2,0,0,0,0,1,1,0
+East Los Angeles Doctors Hospital,Los Angeles,34.02383,-118.18377,2017,6,0,0,0,2,0,0,0,0,0,4,0
+Eden Medical Center,Alameda,37.6983769,-122.0874055,2013,114,1,27,54,13,0,1,10,1,3,3,1
+Eden Medical Center,Alameda,37.6983769,-122.0874055,2014,92,1,21,40,22,0,0,5,0,1,2,0
+Eden Medical Center,Alameda,37.6983769,-122.0874055,2015,76,3,13,40,14,2,0,1,0,0,2,1
+Eden Medical Center,Alameda,37.6983769,-122.0874055,2016,137,0,35,61,24,0,3,4,0,1,7,2
+Eden Medical Center,Alameda,37.6983769,-122.0874055,2017,148,3,36,67,22,0,2,3,1,2,10,2
+Eisenhower Medical Center,Riverside,33.76418,-116.40808,2013,398,4,15,138,79,0,4,36,5,80,32,5
+Eisenhower Medical Center,Riverside,33.76418,-116.40808,2014,388,0,16,132,85,1,0,59,0,62,30,3
+Eisenhower Medical Center,Riverside,33.76418,-116.40808,2015,284,2,13,105,56,0,1,38,0,45,18,6
+Eisenhower Medical Center,Riverside,33.76418,-116.40808,2016,438,6,15,159,86,1,4,46,1,75,42,3
+Eisenhower Medical Center,Riverside,33.76418,-116.40808,2017,422,5,12,161,84,0,3,45,1,74,32,5
+El Camino Hospital,Santa Clara,37.36779,-122.07801,2013,334,4,14,115,66,0,13,23,15,58,17,9
+El Camino Hospital,Santa Clara,37.36779,-122.07801,2014,304,5,12,119,67,0,6,25,4,43,18,5
+El Camino Hospital,Santa Clara,37.36779,-122.07801,2015,253,4,8,84,48,1,3,30,7,53,11,4
+El Camino Hospital,Santa Clara,37.36779,-122.07801,2016,347,9,11,115,65,1,7,27,6,83,14,9
+El Camino Hospital,Santa Clara,37.36779,-122.07801,2017,382,6,9,131,66,0,7,37,7,101,13,5
+El Centro Regional Medical Center,Imperial,32.78138,-115.49824,2013,56,1,1,18,14,0,0,4,0,18,0,0
+El Centro Regional Medical Center,Imperial,32.78138,-115.49824,2014,68,0,0,19,16,0,0,0,0,31,1,1
+El Centro Regional Medical Center,Imperial,32.78138,-115.49824,2015,45,1,0,8,7,0,0,0,0,27,1,1
+El Centro Regional Medical Center,Imperial,32.78138,-115.49824,2016,48,0,0,21,8,0,1,0,0,16,2,0
+El Centro Regional Medical Center,Imperial,32.78138,-115.49824,2017,30,0,0,14,6,0,0,0,0,6,3,1
+Emanuel Medical Center,Stanislaus,37.51052,-120.83966,2013,52,0,0,28,20,0,1,0,0,0,3,0
+Emanuel Medical Center,Stanislaus,37.51052,-120.83966,2014,30,0,0,10,14,0,1,1,0,0,3,1
+Emanuel Medical Center,Stanislaus,37.51052,-120.83966,2015,46,0,0,19,16,0,0,2,0,0,8,1
+Emanuel Medical Center,Stanislaus,37.51052,-120.83966,2016,72,1,0,34,25,0,1,0,1,0,10,0
+Emanuel Medical Center,Stanislaus,37.51052,-120.83966,2017,95,0,0,46,26,0,3,0,1,1,17,1
+Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662,2013,1,0,0,0,1,0,0,0,0,0,0,0
+Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662,2014,2,0,0,1,1,0,0,0,0,0,0,0
+Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662,2015,1,0,0,0,1,0,0,0,0,0,0,0
+Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662,2016,1,0,0,0,1,0,0,0,0,0,0,0
+Encino Hospital Medical Center,Los Angeles,34.15686,-118.48662,2017,2,0,0,1,0,0,0,0,0,0,0,1
+Enloe Medical Center – Esplanade,Butte,39.74224,-121.84922,2013,241,4,6,158,41,0,0,14,0,10,7,1
+Enloe Medical Center – Esplanade,Butte,39.74224,-121.84922,2014,263,1,9,163,36,0,0,22,0,9,23,0
+Enloe Medical Center – Esplanade,Butte,39.74224,-121.84922,2015,171,2,6,99,22,0,0,22,0,6,13,1
+Enloe Medical Center – Esplanade,Butte,39.74224,-121.84922,2016,333,3,9,221,41,0,1,18,1,12,25,2
+Enloe Medical Center – Esplanade,Butte,39.74224,-121.84922,2017,274,1,10,170,45,0,1,7,0,13,24,3
+Fairchild Medical Center,Siskiyou,41.71865,-122.64353,2013,27,0,0,19,8,0,0,0,0,0,0,0
+Fairchild Medical Center,Siskiyou,41.71865,-122.64353,2014,21,0,0,12,9,0,0,0,0,0,0,0
+Fairchild Medical Center,Siskiyou,41.71865,-122.64353,2015,16,0,0,8,8,0,0,0,0,0,0,0
+Fairchild Medical Center,Siskiyou,41.71865,-122.64353,2016,23,0,0,15,7,0,0,0,0,0,1,0
+Fairchild Medical Center,Siskiyou,41.71865,-122.64353,2017,18,0,0,13,5,0,0,0,0,0,0,0
+Fallbrook Hospital District,San Diego,33.38026,-117.24509,2013,18,0,0,16,2,0,0,0,0,0,0,0
+Fallbrook Hospital District,San Diego,33.38026,-117.24509,2014,11,0,0,10,1,0,0,0,0,0,0,0
+Feather River Hospital,Butte,39.75641,-121.57218,2013,69,0,0,48,14,0,0,4,0,0,3,0
+Feather River Hospital,Butte,39.75641,-121.57218,2014,81,0,0,59,17,0,0,2,0,0,3,0
+Feather River Hospital,Butte,39.75641,-121.57218,2015,75,0,0,58,9,0,0,4,0,0,4,0
+Feather River Hospital,Butte,39.75641,-121.57218,2016,81,0,0,62,13,0,0,2,0,1,3,0
+Feather River Hospital,Butte,39.75641,-121.57218,2017,91,1,0,63,13,0,1,7,1,0,5,0
+Foothill Presbyterian Hospital – Johnston Memorial,Los Angeles,34.13384,-117.87244,2013,76,0,3,54,14,0,0,2,0,0,2,1
+Foothill Presbyterian Hospital – Johnston Memorial,Los Angeles,34.13384,-117.87244,2014,56,0,2,32,17,0,0,3,0,0,2,0
+Foothill Presbyterian Hospital – Johnston Memorial,Los Angeles,34.13384,-117.87244,2015,29,0,3,16,9,0,0,1,0,0,0,0
+Foothill Presbyterian Hospital – Johnston Memorial,Los Angeles,34.13384,-117.87244,2016,49,0,3,23,15,0,0,0,0,3,5,0
+Foothill Presbyterian Hospital – Johnston Memorial,Los Angeles,34.13384,-117.87244,2017,101,1,3,28,20,0,3,1,0,39,6,0
+Foothill Regional Medical Center,Orange,.,.,2016,5,0,0,1,1,0,0,1,1,0,1,0
+Foothill Regional Medical Center,Orange,.,.,2017,8,0,0,0,6,0,0,0,0,0,2,0
+Fountain Valley Regional Hospital and Medical Center – Euclid,Orange,33.71546,-117.93694,2013,193,3,10,84,40,0,13,12,3,12,13,3
+Fountain Valley Regional Hospital and Medical Center – Euclid,Orange,33.71546,-117.93694,2014,234,4,10,90,43,1,13,23,7,5,28,10
+Fountain Valley Regional Hospital and Medical Center – Euclid,Orange,33.71546,-117.93694,2015,160,4,7,59,34,0,14,12,2,8,12,8
+Fountain Valley Regional Hospital and Medical Center – Euclid,Orange,33.71546,-117.93694,2016,231,0,8,89,42,1,19,16,8,14,25,9
+Fountain Valley Regional Hospital and Medical Center – Euclid,Orange,33.71546,-117.93694,2017,242,0,6,84,47,2,19,31,13,1,28,11
+Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973,2013,1,0,0,1,0,0,0,0,0,0,0,0
+Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973,2014,4,0,0,0,3,0,0,0,0,0,1,0
+Frank R. Howard Memorial Hospital,Mendocino,39.40079,-123.34973,2015,5,0,0,0,5,0,0,0,0,0,0,0
+French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977,2013,59,1,0,26,8,0,0,4,1,15,3,1
+French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977,2014,45,0,0,9,9,0,0,7,0,19,1,0
+French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977,2015,38,1,0,9,13,0,0,1,1,13,0,0
+French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977,2016,48,0,0,16,14,0,0,0,0,16,1,1
+French Hospital Medical Center,San Luis Obispo,35.27801,-120.64977,2017,32,0,0,10,10,1,0,3,0,7,1,0
+Fresno Heart and Surgical Hospital,Fresno,36.8611,-119.78931,2013,66,0,0,0,24,0,3,18,2,0,16,3
+Fresno Heart and Surgical Hospital,Fresno,36.8611,-119.78931,2014,81,0,0,0,27,1,0,40,3,0,9,1
+Fresno Heart and Surgical Hospital,Fresno,36.8611,-119.78931,2015,46,0,0,0,16,0,0,23,1,0,5,1
+Fresno Surgical Hospital,Fresno,36.82531,-119.78155,2013,46,0,0,38,0,0,0,0,0,8,0,0
+Fresno Surgical Hospital,Fresno,36.82531,-119.78155,2014,107,0,0,100,0,0,0,0,0,7,0,0
+Fresno Surgical Hospital,Fresno,36.82531,-119.78155,2015,73,0,0,66,0,0,0,0,0,7,0,0
+Fresno Surgical Hospital,Fresno,36.82531,-119.78155,2016,79,0,0,77,0,0,0,0,0,2,0,0
+Fresno Surgical Hospital,Fresno,36.82531,-119.78155,2017,79,0,0,75,0,0,0,0,0,4,0,0
+Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315,2013,17,0,1,2,10,0,0,0,0,0,1,3
+Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315,2014,12,0,1,3,5,0,0,0,0,0,2,1
+Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315,2015,3,0,0,0,0,0,0,0,0,0,1,2
+Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315,2016,6,0,0,2,4,0,0,0,0,0,0,0
+Garden Grove Hospital and Medical Center,Orange,33.7745089,-117.9130315,2017,15,0,0,4,6,0,0,0,0,1,3,1
+Gardens Regional Hospital and Medical Center,Los Angeles,33.83352,-118.08169,2013,11,0,0,4,4,0,0,0,1,2,0,0
+Gardens Regional Hospital and Medical Center,Los Angeles,33.83352,-118.08169,2014,17,0,0,11,4,0,0,0,0,0,1,1
+Gardens Regional Hospital and Medical Center,Los Angeles,33.83352,-118.08169,2015,6,0,0,3,1,0,0,0,0,0,2,0
+Gardens Regional Hospital and Medical Center,Los Angeles,33.83352,-118.08169,2016,8,0,0,1,3,0,0,0,0,0,4,0
+Garfield Medical Center,Los Angeles,34.06826,-118.12302,2013,127,1,7,48,33,0,1,19,0,7,5,6
+Garfield Medical Center,Los Angeles,34.06826,-118.12302,2014,125,0,5,57,24,0,0,17,0,5,11,6
+Garfield Medical Center,Los Angeles,34.06826,-118.12302,2015,98,0,8,46,13,0,0,19,0,2,8,2
+Garfield Medical Center,Los Angeles,34.06826,-118.12302,2016,184,0,11,88,36,2,1,25,0,3,12,6
+Garfield Medical Center,Los Angeles,34.06826,-118.12302,2017,255,0,16,102,35,3,1,33,5,30,15,15
+George L. Mee Memorial Hospital,Monterey,36.2071,-121.1325,2013,1,0,0,0,1,0,0,0,0,0,0,0
+Glendale Adventist Medical Center,Los Angeles,34.14951,-118.23109,2013,155,1,11,77,26,1,1,4,3,19,8,4
+Glendale Adventist Medical Center,Los Angeles,34.14951,-118.23109,2014,162,3,11,74,37,1,1,7,4,11,8,5
+Glendale Adventist Medical Center,Los Angeles,34.14951,-118.23109,2015,148,3,3,64,29,2,0,8,7,15,14,3
+Glendale Adventist Medical Center,Los Angeles,34.14951,-118.23109,2016,225,5,21,98,37,1,3,8,5,19,19,9
+Glendale Adventist Medical Center,Los Angeles,34.14951,-118.23109,2017,245,1,23,119,42,1,9,8,4,17,16,5
+Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769,2013,131,0,3,59,31,0,0,13,0,1,21,3
+Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769,2014,128,0,2,39,38,0,0,18,0,0,26,5
+Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769,2015,74,1,2,19,28,0,0,8,0,1,15,0
+Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769,2016,121,1,2,32,43,0,3,17,0,1,16,6
+Glendale Memorial Hospital and Medical Center,Los Angeles,34.1284,-118.25769,2017,111,1,3,35,28,0,0,21,0,4,18,1
+Glendora Community Hospital,Los Angeles,34.12867,-117.86609,2013,2,0,0,1,1,0,0,0,0,0,0,0
+Glendora Community Hospital,Los Angeles,34.12867,-117.86609,2014,2,0,0,1,1,0,0,0,0,0,0,0
+Glendora Community Hospital,Los Angeles,34.12867,-117.86609,2015,1,0,0,0,1,0,0,0,0,0,0,0
+Glendora Community Hospital,Los Angeles,34.12867,-117.86609,2017,3,0,0,1,1,0,0,0,0,0,0,1
+Goleta Valley Cottage Hospital,Santa Barbara,34.43336,-119.80929,2013,25,0,0,25,0,0,0,0,0,0,0,0
+Goleta Valley Cottage Hospital,Santa Barbara,34.43336,-119.80929,2014,14,0,0,14,0,0,0,0,0,0,0,0
+Goleta Valley Cottage Hospital,Santa Barbara,34.43336,-119.80929,2015,12,0,0,12,0,0,0,0,0,0,0,0
+Goleta Valley Cottage Hospital,Santa Barbara,34.43336,-119.80929,2016,28,0,0,27,0,0,0,0,0,1,0,0
+Goleta Valley Cottage Hospital,Santa Barbara,34.43336,-119.80929,2017,12,0,0,12,0,0,0,0,0,0,0,0
+Good Samaritan Hospital – Bakersfield,Kern,35.41216,-119.03913,2013,1,0,0,0,0,0,0,0,0,1,0,0
+Good Samaritan Hospital – Bakersfield,Kern,35.41216,-119.03913,2015,2,0,0,1,0,0,0,0,0,1,0,0
+Good Samaritan Hospital – Bakersfield,Kern,35.41216,-119.03913,2016,2,0,0,1,1,0,0,0,0,0,0,0
+Good Samaritan Hospital – Bakersfield,Kern,35.41216,-119.03913,2017,4,0,0,1,0,0,0,0,0,3,0,0
+Good Samaritan Hospital – Los Angeles,Los Angeles,34.05324,-118.26522,2013,90,0,8,32,14,0,12,5,8,1,5,5
+Good Samaritan Hospital – Los Angeles,Los Angeles,34.05324,-118.26522,2014,90,0,6,21,20,0,15,5,4,2,6,11
+Good Samaritan Hospital – Los Angeles,Los Angeles,34.05324,-118.26522,2015,60,0,6,20,18,0,6,4,4,0,0,2
+Good Samaritan Hospital – Los Angeles,Los Angeles,34.05324,-118.26522,2016,107,1,7,28,18,0,12,6,8,3,15,9
+Good Samaritan Hospital – Los Angeles,Los Angeles,34.05324,-118.26522,2017,87,0,7,26,16,0,8,6,6,2,5,11
+Good Samaritan Hospital – San Jose,Santa Clara,37.25116,-121.9449,2013,307,0,21,174,44,1,2,11,1,36,12,5
+Good Samaritan Hospital – San Jose,Santa Clara,37.25116,-121.9449,2014,289,1,20,167,45,0,3,22,1,20,8,2
+Good Samaritan Hospital – San Jose,Santa Clara,37.25116,-121.9449,2015,230,0,6,139,33,4,3,16,1,17,7,4
+Good Samaritan Hospital – San Jose,Santa Clara,37.25116,-121.9449,2016,302,1,19,177,47,1,2,27,6,3,17,2
+Good Samaritan Hospital – San Jose,Santa Clara,37.25116,-121.9449,2017,345,0,17,179,61,0,5,25,9,30,16,3
+Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257,2013,5,0,0,3,1,0,0,0,0,0,1,0
+Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257,2014,4,0,0,1,3,0,0,0,0,0,0,0
+Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257,2015,2,0,0,0,1,0,0,0,0,0,1,0
+Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257,2016,3,0,0,0,1,0,0,0,0,1,1,0
+Greater El Monte Community Hospital,Los Angeles,34.04827,-118.04257,2017,4,0,0,2,1,0,0,0,0,1,0,0
+Grossmont Hospital,San Diego,32.77963,-117.00924,2013,232,1,18,96,53,2,0,28,0,18,9,7
+Grossmont Hospital,San Diego,32.77963,-117.00924,2014,235,0,23,108,61,0,1,20,2,12,6,2
+Grossmont Hospital,San Diego,32.77963,-117.00924,2015,153,1,15,59,36,0,2,17,1,11,10,1
+Grossmont Hospital,San Diego,32.77963,-117.00924,2016,228,2,24,91,50,1,1,17,6,20,13,3
+Grossmont Hospital,San Diego,32.77963,-117.00924,2017,234,2,19,105,53,3,2,16,13,9,10,2
+Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609,2013,13,0,0,8,4,0,0,0,0,0,1,0
+Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609,2014,22,0,0,14,8,0,0,0,0,0,0,0
+Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609,2015,11,0,0,6,5,0,0,0,0,0,0,0
+Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609,2016,20,0,0,14,6,0,0,0,0,0,0,0
+Hazel Hawkins Memorial Hospital,San Benito,36.835,-121.38609,2017,15,0,0,13,1,0,0,0,0,1,0,0
+Healdsburg District Hospital,Sonoma,38.62764,-122.86385,2014,3,0,0,1,2,0,0,0,0,0,0,0
+Healdsburg District Hospital,Sonoma,38.62764,-122.86385,2015,2,0,0,0,2,0,0,0,0,0,0,0
+Hemet Valley Medical Center,Riverside,33.75113,-116.95958,2013,86,4,0,50,13,0,0,0,0,9,10,0
+Hemet Valley Medical Center,Riverside,33.75113,-116.95958,2014,96,1,0,40,27,0,0,0,0,23,4,1
+Hemet Valley Medical Center,Riverside,33.75113,-116.95958,2015,80,0,0,35,26,0,0,0,0,14,5,0
+Hemet Valley Medical Center,Riverside,33.75113,-116.95958,2016,103,1,0,46,28,0,1,0,0,23,3,1
+Hemet Valley Medical Center,Riverside,33.75113,-116.95958,2017,69,1,0,26,16,0,3,0,2,14,7,0
+Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324,2013,92,0,1,65,19,0,0,2,0,0,4,1
+Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324,2014,46,0,4,22,12,0,0,4,0,0,4,0
+Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324,2015,46,0,9,29,6,0,0,1,0,0,1,0
+Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324,2016,47,1,12,9,8,1,3,4,0,3,5,1
+Henry Mayo Newhall Hospital,Los Angeles,34.39637,-118.55324,2017,80,1,13,26,13,1,1,8,0,11,4,2
+Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654,2013,9,0,0,2,7,0,0,0,0,0,0,0
+Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654,2014,5,0,0,0,4,0,0,0,0,0,1,0
+Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654,2015,4,0,0,2,2,0,0,0,0,0,0,0
+Hi-Desert Medical Center,San Bernardino,34.13323,-116.27654,2017,1,0,0,0,1,0,0,0,0,0,0,0
+Highland Hospital,Alameda,37.79917,-122.2312,2013,89,0,1,34,22,2,0,12,1,8,6,3
+Highland Hospital,Alameda,37.79917,-122.2312,2014,93,0,8,44,20,1,1,5,2,7,4,1
+Highland Hospital,Alameda,37.79917,-122.2312,2015,80,0,3,42,13,1,1,4,2,9,3,2
+Highland Hospital,Alameda,37.79917,-122.2312,2016,113,2,0,53,13,3,1,7,0,16,16,2
+Highland Hospital,Alameda,37.79917,-122.2312,2017,92,1,0,38,12,2,0,7,2,20,8,2
+Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949,2013,1102,11,85,604,90,8,17,64,20,171,19,13
+Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949,2014,1051,5,72,559,95,12,17,69,27,160,29,6
+Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949,2015,846,9,58,428,80,7,15,73,18,133,18,7
+Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949,2016,1139,14,85,618,93,15,22,64,20,158,44,6
+Hoag Memorial Hospital Presbyterian,Orange,33.62526,-117.92949,2017,1234,11,91,625,111,13,24,91,28,186,46,8
+Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163,2013,100,0,1,64,22,0,0,1,0,0,6,6
+Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163,2014,97,0,3,48,21,1,1,4,1,0,5,13
+Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163,2015,101,0,6,48,23,0,0,3,0,0,4,17
+Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163,2016,140,0,5,63,30,0,1,8,0,7,9,17
+Hollywood Presbyterian Medical Center,Los Angeles,34.09557,-118.29163,2017,109,0,2,45,34,0,2,2,1,2,6,15
+Huntington Beach Hospital,Orange,33.70442,-117.98895,2013,4,0,0,0,2,0,0,0,0,0,1,1
+Huntington Beach Hospital,Orange,33.70442,-117.98895,2014,2,0,0,0,2,0,0,0,0,0,0,0
+Huntington Beach Hospital,Orange,33.70442,-117.98895,2015,3,0,0,0,2,0,0,1,0,0,0,0
+Huntington Beach Hospital,Orange,33.70442,-117.98895,2016,2,0,0,0,1,0,0,0,0,1,0,0
+Huntington Beach Hospital,Orange,33.70442,-117.98895,2017,2,0,0,0,2,0,0,0,0,0,0,0
+Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518,2013,441,6,27,145,61,1,8,25,16,122,18,12
+Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518,2014,456,8,19,99,69,5,17,32,13,142,31,21
+Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518,2015,314,11,12,80,36,4,8,16,11,109,14,13
+Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518,2016,599,15,25,134,81,4,32,37,20,194,41,16
+Huntington Memorial Hospital,Los Angeles,34.13565,-118.1518,2017,555,21,23,124,81,6,24,39,17,167,35,18
+John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391,2013,22,0,0,10,10,1,0,0,0,0,1,0
+John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391,2014,37,0,0,27,8,0,0,1,0,0,1,0
+John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391,2015,27,0,0,19,6,0,0,1,0,0,1,0
+John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391,2016,31,0,0,23,5,0,1,1,0,0,1,0
+John F. Kennedy Memorial Hospital,Riverside,33.70677,-116.23391,2017,29,0,0,21,7,0,0,0,0,0,1,0
+John Muir Medical Center – Concord Campus,Contra Costa,37.98615,-122.03874,2013,210,0,0,68,30,6,0,28,0,54,21,3
+John Muir Medical Center – Concord Campus,Contra Costa,37.98615,-122.03874,2014,176,2,0,40,32,4,0,27,0,46,24,1
+John Muir Medical Center – Concord Campus,Contra Costa,37.98615,-122.03874,2015,128,1,0,24,24,2,0,26,1,27,18,5
+John Muir Medical Center – Concord Campus,Contra Costa,37.98615,-122.03874,2016,178,4,0,30,45,3,0,27,1,45,21,2
+John Muir Medical Center – Concord Campus,Contra Costa,37.98615,-122.03874,2017,218,4,0,33,43,12,0,26,0,64,33,3
+John Muir Medical Center – Walnut Creek Campus,Contra Costa,37.91434,-122.04183,2013,224,2,37,107,32,0,5,36,2,2,0,1
+John Muir Medical Center – Walnut Creek Campus,Contra Costa,37.91434,-122.04183,2014,211,0,30,104,45,0,6,19,4,0,1,2
+John Muir Medical Center – Walnut Creek Campus,Contra Costa,37.91434,-122.04183,2015,155,0,26,64,29,0,2,27,0,2,4,1
+John Muir Medical Center – Walnut Creek Campus,Contra Costa,37.91434,-122.04183,2016,234,2,45,105,37,0,8,24,2,1,8,2
+John Muir Medical Center – Walnut Creek Campus,Contra Costa,37.91434,-122.04183,2017,222,3,33,105,37,0,6,24,0,4,6,4
+Kaiser Foundation Hospital – Antioch,Contra Costa,37.951975,-121.776854,2013,208,2,0,104,42,0,31,0,10,1,6,12
+Kaiser Foundation Hospital – Antioch,Contra Costa,37.951975,-121.776854,2014,230,4,0,118,31,0,45,0,17,1,10,4
+Kaiser Foundation Hospital – Antioch,Contra Costa,37.951975,-121.776854,2015,117,2,0,73,14,0,12,0,6,0,6,4
+Kaiser Foundation Hospital – Antioch,Contra Costa,37.951975,-121.776854,2016,168,4,0,102,28,0,15,0,9,2,7,1
+Kaiser Foundation Hospital – Antioch,Contra Costa,37.951975,-121.776854,2017,155,4,0,110,21,0,4,0,2,6,7,1
+Kaiser Foundation Hospital – Baldwin Park,Los Angeles,34.06348,-117.986,2013,352,3,0,262,68,0,1,0,1,4,9,4
+Kaiser Foundation Hospital – Baldwin Park,Los Angeles,34.06348,-117.986,2014,335,4,0,237,68,0,0,0,0,2,17,7
+Kaiser Foundation Hospital – Baldwin Park,Los Angeles,34.06348,-117.986,2015,255,2,0,200,47,0,0,0,0,2,3,1
+Kaiser Foundation Hospital – Baldwin Park,Los Angeles,34.06348,-117.986,2016,351,4,0,266,44,0,1,0,0,4,28,4
+Kaiser Foundation Hospital – Baldwin Park,Los Angeles,34.06348,-117.986,2017,404,6,0,319,48,0,1,0,2,2,21,5
+Kaiser Foundation Hospital – Downey,Los Angeles,33.9171234,-118.1290216,2013,591,3,0,231,41,2,0,34,3,252,13,12
+Kaiser Foundation Hospital – Downey,Los Angeles,33.9171234,-118.1290216,2014,537,2,0,245,63,2,0,19,3,195,4,4
+Kaiser Foundation Hospital – Downey,Los Angeles,33.9171234,-118.1290216,2015,478,0,0,183,50,0,0,18,3,215,1,8
+Kaiser Foundation Hospital – Downey,Los Angeles,33.9171234,-118.1290216,2016,646,7,0,276,57,2,0,20,8,256,9,11
+Kaiser Foundation Hospital – Downey,Los Angeles,33.9171234,-118.1290216,2017,740,2,0,335,45,5,0,23,20,289,12,9
+Kaiser Foundation Hospital – Fontana,San Bernardino,34.0725,-117.43549,2013,679,8,30,414,105,10,3,51,2,26,22,8
+Kaiser Foundation Hospital – Fontana,San Bernardino,34.0725,-117.43549,2014,810,13,40,440,92,8,2,44,4,133,27,7
+Kaiser Foundation Hospital – Fontana,San Bernardino,34.0725,-117.43549,2015,622,11,18,324,70,3,0,30,2,134,24,6
+Kaiser Foundation Hospital – Fontana,San Bernardino,34.0725,-117.43549,2016,943,13,37,491,90,13,4,47,3,188,41,16
+Kaiser Foundation Hospital – Fontana,San Bernardino,34.0725,-117.43549,2017,946,13,39,506,94,12,4,44,2,174,50,8
+Kaiser Foundation Hospital – Fremont,Alameda,37.55055,-121.97483,2014,71,2,0,48,15,0,0,1,0,0,4,1
+Kaiser Foundation Hospital – Fremont,Alameda,37.55055,-121.97483,2015,80,1,0,55,19,0,0,0,0,0,4,1
+Kaiser Foundation Hospital – Fremont,Alameda,37.55055,-121.97483,2016,109,1,0,67,30,0,0,0,0,0,9,2
+Kaiser Foundation Hospital – Fremont,Alameda,37.55055,-121.97483,2017,133,0,0,86,38,0,0,0,1,0,8,0
+Kaiser Foundation Hospital – Fresno,Fresno,36.84246,-119.7832,2013,178,1,6,129,33,0,0,6,0,0,2,1
+Kaiser Foundation Hospital – Fresno,Fresno,36.84246,-119.7832,2014,138,0,3,103,28,0,0,0,0,1,2,1
+Kaiser Foundation Hospital – Fresno,Fresno,36.84246,-119.7832,2015,93,0,3,64,26,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Fresno,Fresno,36.84246,-119.7832,2016,164,0,5,132,23,0,0,0,0,0,4,0
+Kaiser Foundation Hospital – Fresno,Fresno,36.84246,-119.7832,2017,166,0,5,132,24,0,0,0,0,1,1,3
+Kaiser Foundation Hospital – Hayward,Alameda,37.62593,-122.09338,2013,312,9,0,194,43,1,10,21,6,2,19,7
+Kaiser Foundation Hospital – Hayward,Alameda,37.62593,-122.09338,2014,156,4,0,101,26,0,4,7,1,2,6,5
+Kaiser Foundation Hospital – Manteca,San Joaquin,37.79751,-121.24612,2013,306,5,0,184,40,2,0,33,0,27,13,2
+Kaiser Foundation Hospital – Manteca,San Joaquin,37.79751,-121.24612,2014,295,3,0,159,49,6,0,51,0,2,21,4
+Kaiser Foundation Hospital – Manteca,San Joaquin,37.79751,-121.24612,2015,241,0,0,135,45,8,0,37,0,3,7,6
+Kaiser Foundation Hospital – Manteca,San Joaquin,37.79751,-121.24612,2016,302,3,0,163,63,11,0,34,0,2,24,2
+Kaiser Foundation Hospital – Manteca,San Joaquin,37.79751,-121.24612,2017,379,6,0,229,66,7,1,36,2,4,26,2
+Kaiser Foundation Hospital – Moreno Valley,Riverside,33.89519,-117.18094,2013,39,0,0,33,6,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Moreno Valley,Riverside,33.89519,-117.18094,2014,28,0,0,19,9,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Moreno Valley,Riverside,33.89519,-117.18094,2015,45,0,0,38,7,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Moreno Valley,Riverside,33.89519,-117.18094,2016,74,0,0,62,11,0,0,0,0,0,0,1
+Kaiser Foundation Hospital – Moreno Valley,Riverside,33.89519,-117.18094,2017,63,0,0,43,16,0,0,0,0,0,3,1
+Kaiser Foundation Hospital – Oakland Campus,Alameda,37.82425,-122.25792,2013,570,21,0,293,74,14,13,46,12,59,24,14
+Kaiser Foundation Hospital – Oakland Campus,Alameda,37.82425,-122.25792,2014,296,13,0,159,35,10,10,20,11,15,13,10
+Kaiser Foundation Hospital – Oakland/Richmond,Alameda,37.82402,-122.25791,2014,290,9,0,126,39,12,13,36,11,21,18,5
+Kaiser Foundation Hospital – Oakland/Richmond,Alameda,37.82402,-122.25791,2015,479,13,0,232,58,12,33,54,13,26,29,9
+Kaiser Foundation Hospital – Oakland/Richmond,Alameda,37.82402,-122.25791,2016,694,17,0,326,70,14,54,97,32,40,37,7
+Kaiser Foundation Hospital – Oakland/Richmond,Alameda,37.82402,-122.25791,2017,666,22,0,290,67,28,51,97,43,34,28,6
+Kaiser Foundation Hospital – Orange County – Anaheim,Orange,33.8544317,-117.8439815,2013,578,11,30,380,65,5,5,28,7,13,28,6
+Kaiser Foundation Hospital – Orange County – Anaheim,Orange,33.8544317,-117.8439815,2014,658,7,27,435,68,5,8,39,9,19,22,19
+Kaiser Foundation Hospital – Orange County – Anaheim,Orange,33.8544317,-117.8439815,2015,526,13,24,322,80,4,7,33,8,1,26,8
+Kaiser Foundation Hospital – Orange County – Anaheim,Orange,33.8544317,-117.8439815,2016,679,22,27,460,68,6,12,28,13,1,34,8
+Kaiser Foundation Hospital – Orange County – Anaheim,Orange,33.8544317,-117.8439815,2017,770,17,22,535,90,6,10,36,11,3,37,3
+Kaiser Foundation Hospital – Panorama City,Los Angeles,34.21975,-118.43009,2013,310,3,0,167,49,4,3,65,5,0,4,10
+Kaiser Foundation Hospital – Panorama City,Los Angeles,34.21975,-118.43009,2014,286,1,0,162,37,2,2,47,10,2,6,17
+Kaiser Foundation Hospital – Panorama City,Los Angeles,34.21975,-118.43009,2015,201,4,0,108,38,1,1,35,3,0,2,9
+Kaiser Foundation Hospital – Panorama City,Los Angeles,34.21975,-118.43009,2016,321,0,0,191,55,7,3,46,4,2,6,7
+Kaiser Foundation Hospital – Panorama City,Los Angeles,34.21975,-118.43009,2017,340,0,0,210,46,3,7,58,6,1,6,3
+Kaiser Foundation Hospital – Redwood City,San Mateo,37.48948,-122.2232,2013,283,1,132,113,25,0,0,7,0,0,2,3
+Kaiser Foundation Hospital – Redwood City,San Mateo,37.48948,-122.2232,2014,295,1,156,100,23,1,0,7,0,0,2,5
+Kaiser Foundation Hospital – Redwood City,San Mateo,37.48967,-122.22463,2014,4,0,3,0,1,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Redwood City,San Mateo,37.48967,-122.22463,2015,224,4,118,77,19,0,0,5,0,0,1,0
+Kaiser Foundation Hospital – Redwood City,San Mateo,37.48967,-122.22463,2016,276,7,156,93,17,0,1,0,0,1,1,0
+Kaiser Foundation Hospital – Redwood City,San Mateo,37.48967,-122.22463,2017,263,3,140,93,27,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Rehabilitation Center Vallejo,Solano,38.12839,-122.24761,2013,267,6,0,183,32,4,0,24,0,1,16,1
+Kaiser Foundation Hospital – Rehabilitation Center Vallejo,Solano,38.12839,-122.24761,2014,269,1,0,166,45,12,0,27,0,0,16,2
+Kaiser Foundation Hospital – Rehabilitation Center Vallejo,Solano,38.12839,-122.24761,2015,177,2,0,136,17,1,0,6,0,1,12,2
+Kaiser Foundation Hospital – Rehabilitation Center Vallejo,Solano,38.12839,-122.24761,2016,324,3,0,241,39,5,1,14,0,1,19,1
+Kaiser Foundation Hospital – Rehabilitation Center Vallejo,Solano,38.12839,-122.24761,2017,358,3,0,272,41,3,0,18,0,1,20,0
+Kaiser Foundation Hospital – Riverside,Riverside,33.9063,-117.47082,2013,286,5,0,172,46,6,9,15,2,1,22,8
+Kaiser Foundation Hospital – Riverside,Riverside,33.9063,-117.47082,2014,305,2,0,181,56,6,6,27,5,2,16,4
+Kaiser Foundation Hospital – Riverside,Riverside,33.9063,-117.47082,2015,244,1,0,159,38,2,5,20,5,0,12,2
+Kaiser Foundation Hospital – Riverside,Riverside,33.9063,-117.47082,2016,412,4,0,280,53,3,10,23,7,2,25,5
+Kaiser Foundation Hospital – Riverside,Riverside,33.9063,-117.47082,2017,389,5,0,244,64,7,7,21,9,2,26,4
+Kaiser Foundation Hospital – Roseville,Placer,38.74636,-121.25107,2013,522,9,0,370,69,9,1,29,0,17,15,3
+Kaiser Foundation Hospital – Roseville,Placer,38.74636,-121.25107,2014,471,5,0,333,57,7,1,42,0,3,20,3
+Kaiser Foundation Hospital – Roseville,Placer,38.74636,-121.25107,2015,310,4,0,229,56,0,0,1,0,3,17,0
+Kaiser Foundation Hospital – Roseville,Placer,38.74636,-121.25107,2016,464,5,0,362,66,0,1,1,1,4,23,1
+Kaiser Foundation Hospital – Roseville,Placer,38.74636,-121.25107,2017,565,7,0,456,69,0,1,0,1,2,29,0
+Kaiser Foundation Hospital – Sacramento,Sacramento,38.60197,-121.39232,2013,401,1,86,209,44,2,9,17,15,3,8,7
+Kaiser Foundation Hospital – Sacramento,Sacramento,38.60197,-121.39232,2014,354,6,67,180,51,0,10,20,5,0,8,7
+Kaiser Foundation Hospital – Sacramento,Sacramento,38.60197,-121.39232,2015,296,2,46,164,43,0,14,0,12,0,8,7
+Kaiser Foundation Hospital – Sacramento,Sacramento,38.60197,-121.39232,2016,452,0,72,260,56,0,24,1,11,0,17,11
+Kaiser Foundation Hospital – Sacramento,Sacramento,38.60197,-121.39232,2017,468,1,72,249,57,0,29,0,26,0,17,17
+Kaiser Foundation Hospital – San Diego,San Diego,32.79287,-117.09447,2013,674,6,27,464,81,2,6,48,9,7,15,9
+Kaiser Foundation Hospital – San Diego,San Diego,32.79287,-117.09447,2014,712,3,25,514,67,6,12,61,6,2,5,11
+Kaiser Foundation Hospital – San Diego,San Diego,32.79287,-117.09447,2015,579,3,23,423,49,13,13,32,4,5,5,9
+Kaiser Foundation Hospital – San Diego,San Diego,32.79287,-117.09447,2016,726,5,16,518,80,7,14,54,14,3,9,6
+Kaiser Foundation Hospital – San Diego,San Diego,32.79287,-117.09447,2017,805,7,29,501,88,6,15,68,9,44,33,5
+Kaiser Foundation Hospital – San Francisco,San Francisco,37.78274,-122.44289,2013,332,4,0,168,38,5,31,32,21,6,22,5
+Kaiser Foundation Hospital – San Francisco,San Francisco,37.78274,-122.44289,2014,391,4,0,177,36,4,33,40,31,30,30,6
+Kaiser Foundation Hospital – San Francisco,San Francisco,37.78274,-122.44289,2015,282,1,0,134,26,0,25,4,14,49,24,5
+Kaiser Foundation Hospital – San Francisco,San Francisco,37.78274,-122.44289,2016,398,7,0,166,50,0,36,0,25,62,46,6
+Kaiser Foundation Hospital – San Francisco,San Francisco,37.78274,-122.44289,2017,403,6,0,198,40,0,27,0,26,59,47,0
+Kaiser Foundation Hospital – San Jose,Santa Clara,37.23924,-121.80269,2013,258,6,0,173,36,0,10,0,4,19,6,4
+Kaiser Foundation Hospital – San Jose,Santa Clara,37.23924,-121.80269,2014,264,9,0,164,47,0,7,0,8,5,19,5
+Kaiser Foundation Hospital – San Jose,Santa Clara,37.23924,-121.80269,2015,191,1,0,119,28,0,12,0,9,0,20,2
+Kaiser Foundation Hospital – San Jose,Santa Clara,37.23924,-121.80269,2016,278,6,0,197,41,0,15,0,7,2,9,1
+Kaiser Foundation Hospital – San Jose,Santa Clara,37.23924,-121.80269,2017,284,4,0,185,60,0,12,0,10,1,12,0
+Kaiser Foundation Hospital – San Leandro,Alameda,37.70611,-122.16917,2014,101,3,0,57,22,0,3,7,4,1,2,2
+Kaiser Foundation Hospital – San Leandro,Alameda,37.70611,-122.16917,2015,77,0,0,46,23,0,0,2,0,0,5,1
+Kaiser Foundation Hospital – San Leandro,Alameda,37.70611,-122.16917,2016,107,1,0,68,19,0,1,0,1,0,11,6
+Kaiser Foundation Hospital – San Leandro,Alameda,37.70611,-122.16917,2017,142,0,0,107,27,0,1,0,0,0,7,0
+Kaiser Foundation Hospital – San Rafael,Marin,38.0041,-122.55376,2013,180,3,0,144,32,0,0,0,0,1,0,0
+Kaiser Foundation Hospital – San Rafael,Marin,38.0041,-122.55376,2014,200,2,0,157,41,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – San Rafael,Marin,38.0041,-122.55376,2015,124,1,0,92,30,0,0,0,0,0,1,0
+Kaiser Foundation Hospital – San Rafael,Marin,38.0041,-122.55376,2016,193,5,0,148,36,0,0,0,0,2,1,1
+Kaiser Foundation Hospital – San Rafael,Marin,38.0041,-122.55376,2017,183,2,0,143,30,0,0,0,0,7,1,0
+Kaiser Foundation Hospital – Santa Clara,Santa Clara,37.334597,-121.995774,2013,736,11,0,362,68,2,7,42,3,209,8,24
+Kaiser Foundation Hospital – Santa Clara,Santa Clara,37.334597,-121.995774,2014,591,15,0,307,77,6,1,56,1,107,7,14
+Kaiser Foundation Hospital – Santa Clara,Santa Clara,37.334597,-121.995774,2015,469,10,0,291,37,4,1,34,1,77,3,11
+Kaiser Foundation Hospital – Santa Clara,Santa Clara,37.334597,-121.995774,2016,600,12,0,357,54,2,0,56,0,98,18,3
+Kaiser Foundation Hospital – Santa Clara,Santa Clara,37.334597,-121.995774,2017,631,11,0,359,67,8,3,50,1,110,21,1
+Kaiser Foundation Hospital – Santa Rosa,Sonoma,38.47087,-122.73119,2013,270,1,0,221,39,0,0,3,0,0,6,0
+Kaiser Foundation Hospital – Santa Rosa,Sonoma,38.47087,-122.73119,2014,247,2,0,208,34,0,0,0,0,0,3,0
+Kaiser Foundation Hospital – Santa Rosa,Sonoma,38.47087,-122.73119,2015,176,5,0,149,22,0,0,0,0,0,0,0
+Kaiser Foundation Hospital – Santa Rosa,Sonoma,38.47087,-122.73119,2016,198,4,0,161,30,0,0,0,0,0,2,1
+Kaiser Foundation Hospital – Santa Rosa,Sonoma,38.47087,-122.73119,2017,188,5,0,146,30,0,1,0,0,2,3,1
+Kaiser Foundation Hospital – South Bay,Los Angeles,33.789,-118.29415,2013,321,1,0,236,41,0,5,0,10,10,6,12
+Kaiser Foundation Hospital – South Bay,Los Angeles,33.789,-118.29415,2014,346,0,0,267,48,1,3,0,6,5,7,9
+Kaiser Foundation Hospital – South Bay,Los Angeles,33.789,-118.29415,2015,243,7,0,176,37,4,0,0,3,0,8,8
+Kaiser Foundation Hospital – South Bay,Los Angeles,33.789,-118.29415,2016,379,4,0,284,46,4,2,0,15,0,13,11
+Kaiser Foundation Hospital – South Bay,Los Angeles,33.789,-118.29415,2017,387,2,0,295,48,2,4,0,8,2,18,8
+Kaiser Foundation Hospital – South Sacramento,Sacramento,38.47144,-121.42409,2013,597,21,0,242,50,1,9,22,2,226,18,6
+Kaiser Foundation Hospital – South Sacramento,Sacramento,38.47144,-121.42409,2014,493,19,0,227,52,3,10,21,0,136,21,4
+Kaiser Foundation Hospital – South Sacramento,Sacramento,38.47144,-121.42409,2015,450,19,0,185,35,13,5,64,0,109,13,7
+Kaiser Foundation Hospital – South Sacramento,Sacramento,38.47144,-121.42409,2016,588,26,0,240,46,8,0,71,0,168,25,4
+Kaiser Foundation Hospital – South Sacramento,Sacramento,38.47144,-121.42409,2017,688,41,0,247,52,9,1,77,0,235,24,2
+Kaiser Foundation Hospital – South San Francisco,San Mateo,37.65806,-122.43837,2013,191,2,0,130,25,2,0,15,7,0,7,3
+Kaiser Foundation Hospital – South San Francisco,San Mateo,37.65806,-122.43837,2014,171,3,0,100,34,0,1,18,4,0,5,6
+Kaiser Foundation Hospital – South San Francisco,San Mateo,37.65806,-122.43837,2015,146,0,0,98,22,0,4,9,1,0,4,8
+Kaiser Foundation Hospital – South San Francisco,San Mateo,37.65806,-122.43837,2016,187,1,0,126,23,0,0,1,0,0,7,29
+Kaiser Foundation Hospital – South San Francisco,San Mateo,37.65806,-122.43837,2017,230,2,0,144,33,2,0,0,0,0,13,36
+Kaiser Foundation Hospital – Sunset,Los Angeles,34.09823,-118.29545,2013,608,25,44,238,50,1,68,48,23,72,27,12
+Kaiser Foundation Hospital – Sunset,Los Angeles,34.09823,-118.29545,2014,588,20,50,226,48,9,83,42,16,52,26,16
+Kaiser Foundation Hospital – Sunset,Los Angeles,34.09823,-118.29545,2015,490,14,58,192,41,9,58,29,13,41,21,14
+Kaiser Foundation Hospital – Sunset,Los Angeles,34.09823,-118.29545,2016,682,31,73,240,49,9,86,39,18,68,55,14
+Kaiser Foundation Hospital – Sunset,Los Angeles,34.09823,-118.29545,2017,740,29,73,278,57,8,89,46,19,77,43,21
+Kaiser Foundation Hospital – Vacaville,Solano,38.3894968,-121.9373177,2013,74,2,1,47,19,0,0,0,0,4,1,0
+Kaiser Foundation Hospital – Vacaville,Solano,38.3894968,-121.9373177,2014,82,7,10,49,15,0,0,0,0,1,0,0
+Kaiser Foundation Hospital – Vacaville,Solano,38.3894968,-121.9373177,2015,83,3,11,35,15,4,0,15,0,0,0,0
+Kaiser Foundation Hospital – Vacaville,Solano,38.3894968,-121.9373177,2016,38,3,15,2,13,0,0,0,0,2,2,1
+Kaiser Foundation Hospital – Vacaville,Solano,38.3894968,-121.9373177,2017,40,4,17,0,17,0,1,0,0,1,0,0
+Kaiser Foundation Hospital – Walnut Creek,Contra Costa,37.8923,-122.05828,2013,550,4,0,375,78,5,1,46,1,11,26,3
+Kaiser Foundation Hospital – Walnut Creek,Contra Costa,37.8923,-122.05828,2014,484,14,0,339,68,1,0,25,0,14,23,0
+Kaiser Foundation Hospital – Walnut Creek,Contra Costa,37.8923,-122.05828,2015,350,8,0,257,54,0,0,0,0,11,18,2
+Kaiser Foundation Hospital – Walnut Creek,Contra Costa,37.8923,-122.05828,2016,440,11,0,310,73,0,2,0,1,10,33,0
+Kaiser Foundation Hospital – Walnut Creek,Contra Costa,37.8923,-122.05828,2017,436,9,0,317,69,0,3,0,0,9,29,0
+Kaiser Foundation Hospital – West Los Angeles,Los Angeles,34.03793,-118.37568,2013,624,5,0,179,59,0,7,3,10,342,10,9
+Kaiser Foundation Hospital – West Los Angeles,Los Angeles,34.03793,-118.37568,2014,516,1,0,196,39,0,6,8,6,239,9,12
+Kaiser Foundation Hospital – West Los Angeles,Los Angeles,34.03793,-118.37568,2015,427,0,0,164,41,1,4,28,7,171,9,2
+Kaiser Foundation Hospital – West Los Angeles,Los Angeles,34.03793,-118.37568,2016,636,3,0,271,38,1,7,26,7,253,24,6
+Kaiser Foundation Hospital – West Los Angeles,Los Angeles,34.03793,-118.37568,2017,638,7,0,265,39,3,9,34,12,236,29,4
+Kaiser Foundation Hospital – Woodland Hills,Los Angeles,34.17198,-118.58829,2013,304,4,0,237,39,0,3,0,0,5,14,2
+Kaiser Foundation Hospital – Woodland Hills,Los Angeles,34.17198,-118.58829,2014,320,9,0,233,41,0,4,0,2,9,15,7
+Kaiser Foundation Hospital – Woodland Hills,Los Angeles,34.17198,-118.58829,2015,252,7,0,196,30,0,2,0,2,4,10,1
+Kaiser Foundation Hospital – Woodland Hills,Los Angeles,34.17198,-118.58829,2016,320,9,0,232,50,0,3,0,0,8,17,1
+Kaiser Foundation Hospital – Woodland Hills,Los Angeles,34.17198,-118.58829,2017,378,3,0,300,40,0,3,0,0,8,21,3
+Kaweah Delta Medical Center,Tulare,36.32753,-119.29345,2013,223,3,0,137,33,1,0,12,0,25,11,1
+Kaweah Delta Medical Center,Tulare,36.32753,-119.29345,2014,211,2,0,99,53,1,0,9,0,33,11,3
+Kaweah Delta Medical Center,Tulare,36.32753,-119.29345,2015,146,4,4,85,17,0,0,5,0,21,9,1
+Kaweah Delta Medical Center,Tulare,36.32753,-119.29345,2016,260,3,10,138,49,1,2,7,2,26,17,5
+Kaweah Delta Medical Center,Tulare,36.32753,-119.29345,2017,215,0,0,124,37,0,2,3,2,23,16,8
+Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287,2013,934,135,51,97,34,44,87,35,32,361,35,23
+Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287,2014,937,153,65,98,27,45,116,34,41,304,27,27
+Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287,2015,729,123,33,67,26,19,67,21,30,278,45,20
+Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287,2016,1146,177,70,114,65,21,103,24,41,435,75,21
+Keck Hospital of University of Southern California,Los Angeles,34.06284,-118.20287,2017,1016,162,67,105,57,26,95,29,48,341,75,11
+Kern Medical Center,Kern,35.380833,-118.967222,2013,50,0,3,31,6,0,2,1,0,0,3,4
+Kern Medical Center,Kern,35.380833,-118.967222,2014,81,0,5,52,11,0,5,2,1,0,3,2
+Kern Medical Center,Kern,35.380833,-118.967222,2015,46,0,2,32,5,0,3,0,2,0,2,0
+Kern Medical Center,Kern,35.380833,-118.967222,2016,71,0,2,34,12,1,6,2,1,10,3,0
+Kern Medical Center,Kern,35.380833,-118.967222,2017,81,1,5,43,5,2,4,2,1,12,5,1
+La Palma Intercommunity Hospital,Orange,33.8485,-118.03737,2013,5,0,0,0,2,0,0,1,0,0,0,2
+La Palma Intercommunity Hospital,Orange,33.8485,-118.03737,2014,7,0,0,2,4,0,0,0,0,0,0,1
+La Palma Intercommunity Hospital,Orange,33.8485,-118.03737,2015,10,0,0,0,7,0,0,0,0,0,1,2
+La Palma Intercommunity Hospital,Orange,33.8485,-118.03737,2016,10,0,0,0,6,0,1,0,0,0,3,0
+La Palma Intercommunity Hospital,Orange,33.8485,-118.03737,2017,9,0,0,1,7,0,0,0,0,0,0,1
+Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837,2013,61,0,5,20,22,1,0,5,0,2,0,6
+Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837,2014,90,0,9,33,20,2,1,8,1,13,0,3
+Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837,2015,59,0,1,19,13,0,0,5,0,18,1,2
+Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837,2016,80,2,5,29,19,1,1,6,3,6,4,4
+Lakewood Regional Medical Center,Los Angeles,33.86016,-118.14837,2017,77,0,4,20,19,2,1,7,2,5,9,8
+Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859,2013,75,3,0,29,21,0,0,4,0,17,0,1
+Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859,2014,58,2,0,33,10,0,0,1,0,9,3,0
+Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859,2015,41,1,0,22,9,0,0,2,0,4,2,1
+Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859,2016,78,4,0,28,13,0,2,0,1,25,4,1
+Lodi Memorial Hospital,San Joaquin,38.12146,-121.2859,2017,64,2,0,18,14,0,0,0,0,27,3,0
+Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146,2013,420,29,34,137,42,3,27,29,13,88,14,4
+Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146,2014,401,24,30,143,41,5,14,28,13,72,24,7
+Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146,2015,331,21,41,100,30,3,18,23,15,63,12,5
+Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146,2016,534,33,52,152,44,9,43,33,23,105,33,7
+Loma Linda University Medical Center,San Bernardino,34.05164,-117.26146,2017,601,24,70,187,51,6,42,31,19,119,42,10
+Loma Linda University Medical Center – Murrieta,Riverside,33.6122263,-117.1624483,2013,108,0,3,66,22,0,1,7,0,0,7,2
+Loma Linda University Medical Center – Murrieta,Riverside,33.6122263,-117.1624483,2014,139,0,10,83,20,0,0,17,0,1,6,2
+Loma Linda University Medical Center – Murrieta,Riverside,33.6122263,-117.1624483,2015,115,0,3,52,28,0,1,17,0,7,7,0
+Loma Linda University Medical Center – Murrieta,Riverside,33.6122263,-117.1624483,2016,156,1,10,84,26,0,0,8,0,12,13,2
+Loma Linda University Medical Center – Murrieta,Riverside,33.6122263,-117.1624483,2017,136,0,8,78,36,0,0,3,0,5,5,1
+Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497,2013,20,0,0,7,10,0,0,0,0,0,1,2
+Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497,2014,26,0,0,11,13,0,0,0,0,0,2,0
+Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497,2015,18,0,0,6,11,0,0,0,0,0,1,0
+Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497,2016,19,0,0,3,15,0,0,0,0,0,0,1
+Lompoc Valley Medical Center,Santa Barbara,34.639252,-120.4396497,2017,26,0,0,11,11,0,1,0,0,0,3,0
+Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852,2013,383,1,18,221,67,1,2,36,1,16,17,3
+Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852,2014,409,0,26,239,51,0,4,48,2,14,22,3
+Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852,2015,312,0,15,176,54,0,6,25,0,9,22,5
+Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852,2016,480,1,27,266,79,3,9,28,1,20,39,7
+Long Beach Memorial Medical Center,Los Angeles,33.80801,-118.1852,2017,443,0,31,227,65,2,7,41,0,19,44,7
+Los Alamitos Medical Center,Orange,33.80327,-118.0674,2013,160,1,3,99,19,0,2,9,0,18,8,1
+Los Alamitos Medical Center,Orange,33.80327,-118.0674,2014,175,0,8,109,18,0,1,3,1,26,5,4
+Los Alamitos Medical Center,Orange,33.80327,-118.0674,2015,161,0,9,96,20,0,2,4,1,24,4,1
+Los Alamitos Medical Center,Orange,33.80327,-118.0674,2016,239,4,11,139,22,0,3,1,2,41,13,3
+Los Alamitos Medical Center,Orange,33.80327,-118.0674,2017,262,1,10,162,24,0,2,5,0,52,5,1
+Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875,2013,3,0,0,1,2,0,0,0,0,0,0,0
+Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875,2014,12,1,0,3,7,0,0,0,0,0,1,0
+Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875,2015,6,0,0,1,3,0,0,2,0,0,0,0
+Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875,2016,13,1,0,1,5,0,0,0,0,2,3,1
+Los Angeles Community Hospital,Los Angeles,34.01897,-118.1875,2017,15,0,0,1,4,0,0,0,0,6,4,0
+Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,33.83149,-118.29332,2013,249,6,24,116,30,1,6,6,3,23,18,16
+Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,33.83149,-118.29332,2014,233,3,14,109,42,1,2,8,5,25,18,6
+Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,33.83149,-118.29332,2015,133,1,19,61,11,0,2,7,4,11,12,5
+Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,33.83149,-118.29332,2016,198,0,18,89,29,1,4,1,8,22,23,3
+Los Angeles County/Harbor – UCLA Medical Center,Los Angeles,33.83149,-118.29332,2017,210,0,14,107,37,0,6,3,4,13,18,8
+Los Angeles County/Olive View – UCLA Medical Center,Los Angeles,34.32418,-118.45255,2013,207,12,0,111,35,1,4,5,2,15,12,10
+Los Angeles County/Olive View – UCLA Medical Center,Los Angeles,34.32418,-118.45255,2014,198,3,0,104,36,2,6,4,2,10,14,17
+Los Angeles County/Olive View – UCLA Medical Center,Los Angeles,34.32418,-118.45255,2015,134,1,0,81,15,0,10,3,1,10,7,6
+Los Angeles County/Olive View – UCLA Medical Center,Los Angeles,34.32418,-118.45255,2016,139,4,0,81,16,1,1,4,3,8,14,7
+Los Angeles County/Olive View – UCLA Medical Center,Los Angeles,34.32418,-118.45255,2017,156,4,0,96,15,3,4,4,1,5,17,7
+Los Angeles County/Rancho Los Amigos National Rehabilitation Center,Los Angeles,33.92723,-118.15795,2016,1,0,1,0,0,0,0,0,0,0,0,0
+Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031,2013,361,13,63,142,48,2,19,8,15,12,25,14
+Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031,2014,324,10,33,131,45,2,18,9,8,28,21,19
+Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031,2015,226,2,25,105,37,0,9,4,9,19,7,9
+Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031,2016,305,12,47,126,36,0,12,11,7,18,31,5
+Los Angeles County/University of Southern California Medical Center,Los Angeles,34.05982,-118.21031,2017,304,5,39,119,40,2,9,9,12,29,27,13
+Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297,2013,301,1,4,173,38,1,4,17,7,41,11,4
+Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297,2014,246,0,7,136,33,0,1,11,6,42,9,1
+Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297,2015,223,2,7,97,33,1,4,11,3,53,9,3
+Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297,2016,238,0,19,96,43,2,4,19,3,41,7,4
+Los Robles Hospital and Medical Center,Ventura,34.20539,-118.89297,2017,297,2,17,140,40,0,8,19,6,48,16,1
+Mad River Community Hospital,Humboldt,40.90351,-124.09038,2013,13,0,0,3,9,1,0,0,0,0,0,0
+Mad River Community Hospital,Humboldt,40.90351,-124.09038,2014,9,0,0,3,5,0,0,0,0,0,1,0
+Mad River Community Hospital,Humboldt,40.90351,-124.09038,2015,19,0,0,9,5,0,0,3,0,0,1,1
+Mad River Community Hospital,Humboldt,40.90351,-124.09038,2016,13,0,0,7,5,0,0,0,0,0,1,0
+Mad River Community Hospital,Humboldt,40.90351,-124.09038,2017,6,0,0,3,1,1,0,0,0,0,1,0
+Madera Community Hospital,Madera,36.94535,-120.04561,2013,36,0,0,28,8,0,0,0,0,0,0,0
+Madera Community Hospital,Madera,36.94535,-120.04561,2014,31,0,0,16,11,0,0,0,0,0,4,0
+Madera Community Hospital,Madera,36.94535,-120.04561,2015,20,0,0,11,9,0,0,0,0,0,0,0
+Madera Community Hospital,Madera,36.94535,-120.04561,2016,41,0,0,18,12,0,1,0,0,4,6,0
+Madera Community Hospital,Madera,36.94535,-120.04561,2017,37,0,0,14,15,0,4,0,0,0,3,1
+Mammoth Hospital,Mono,37.64524,-118.96408,2013,6,0,0,0,0,0,0,0,0,6,0,0
+Mammoth Hospital,Mono,37.64524,-118.96408,2014,3,0,0,0,0,0,0,0,0,3,0,0
+Mammoth Hospital,Mono,37.64524,-118.96408,2015,3,0,0,0,0,0,0,0,0,3,0,0
+Marian Regional Medical Center,Santa Barbara,34.95198,-120.41338,2013,167,0,3,106,23,0,0,4,0,27,2,2
+Marian Regional Medical Center,Santa Barbara,34.95198,-120.41338,2014,213,1,6,152,32,0,0,4,0,14,3,1
+Marian Regional Medical Center,Santa Barbara,34.95198,-120.41338,2015,197,1,3,138,22,0,0,5,0,25,3,0
+Marian Regional Medical Center,Santa Barbara,34.95198,-120.41338,2016,313,5,6,196,41,0,2,3,0,49,9,2
+Marian Regional Medical Center,Santa Barbara,34.95198,-120.41338,2017,270,0,7,190,24,0,0,3,0,40,3,3
+Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,35.11369,-120.59147,2013,32,0,0,6,11,1,1,8,0,0,3,2
+Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,35.11369,-120.59147,2014,18,0,0,0,12,1,0,2,1,0,0,2
+Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,35.11369,-120.59147,2015,16,0,0,3,8,0,0,4,0,0,0,1
+Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,35.11369,-120.59147,2016,35,0,0,12,11,0,0,8,2,1,1,0
+Marian Regional Medical Center – Arroyo Grande,San Luis Obispo,35.11369,-120.59147,2017,25,0,0,6,9,1,0,2,3,0,3,1
+Marin General Hospital,Marin,37.94651,-122.53715,2013,194,1,9,137,17,0,1,1,0,22,5,1
+Marin General Hospital,Marin,37.94651,-122.53715,2014,219,7,12,138,21,0,1,8,4,25,3,0
+Marin General Hospital,Marin,37.94651,-122.53715,2015,202,10,6,141,18,0,2,6,2,13,4,0
+Marin General Hospital,Marin,37.94651,-122.53715,2016,274,10,13,191,11,0,0,1,0,43,4,1
+Marin General Hospital,Marin,37.94651,-122.53715,2017,203,5,13,142,9,0,0,5,1,26,1,1
+Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971,2013,64,0,0,44,10,0,0,2,0,6,2,0
+Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971,2014,57,0,0,32,12,0,0,6,0,1,5,1
+Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971,2015,37,0,0,20,11,0,0,2,0,1,2,1
+Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971,2016,34,0,0,21,6,0,1,3,0,0,3,0
+Marina Del Rey Hospital,Los Angeles,33.98125,-118.43971,2017,29,0,0,21,5,0,0,1,0,0,2,0
+Mark Twain Medical Center,Calaveras,38.19021,-120.67105,2013,11,0,0,9,2,0,0,0,0,0,0,0
+Mark Twain Medical Center,Calaveras,38.19021,-120.67105,2014,18,0,0,15,3,0,0,0,0,0,0,0
+Mark Twain Medical Center,Calaveras,38.19021,-120.67105,2015,13,0,0,11,1,0,0,0,0,0,1,0
+Mark Twain Medical Center,Calaveras,38.19021,-120.67105,2016,18,0,0,15,3,0,0,0,0,0,0,0
+Mark Twain Medical Center,Calaveras,38.19021,-120.67105,2017,6,0,0,4,2,0,0,0,0,0,0,0
+Marshall Medical Center,El Dorado,38.72557326,-120.7909638,2013,74,0,0,45,19,0,0,3,0,1,5,1
+Marshall Medical Center,El Dorado,38.72557326,-120.7909638,2014,61,0,0,32,10,0,0,5,1,11,2,0
+Marshall Medical Center,El Dorado,38.72557326,-120.7909638,2015,42,0,0,22,8,0,0,3,0,3,6,0
+Marshall Medical Center,El Dorado,38.72557326,-120.7909638,2016,98,0,0,51,21,0,3,2,0,15,3,3
+Marshall Medical Center,El Dorado,38.72557326,-120.7909638,2017,88,1,0,55,7,0,1,5,1,13,5,0
+Memorial Hospital Los Banos,Merced,37.06273,-120.86147,2013,6,0,0,6,0,0,0,0,0,0,0,0
+Memorial Hospital Los Banos,Merced,37.06273,-120.86147,2014,5,0,0,5,0,0,0,0,0,0,0,0
+Memorial Hospital Los Banos,Merced,37.06273,-120.86147,2015,2,0,0,1,1,0,0,0,0,0,0,0
+Memorial Hospital Los Banos,Merced,37.06273,-120.86147,2017,5,0,0,1,4,0,0,0,0,0,0,0
+Memorial Hospital Medical Center – Modesto,Stanislaus,37.66727,-120.97546,2013,229,0,10,134,42,1,0,11,4,7,17,3
+Memorial Hospital Medical Center – Modesto,Stanislaus,37.66727,-120.97546,2014,226,0,4,152,37,1,0,14,5,0,12,1
+Memorial Hospital Medical Center – Modesto,Stanislaus,37.66727,-120.97546,2015,151,0,3,102,24,0,0,9,1,1,9,2
+Memorial Hospital Medical Center – Modesto,Stanislaus,37.66727,-120.97546,2016,217,0,10,111,49,2,4,12,4,3,20,2
+Memorial Hospital Medical Center – Modesto,Stanislaus,37.66727,-120.97546,2017,247,1,13,150,42,1,2,9,6,4,17,2
+Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493,2013,12,0,0,6,5,0,0,1,0,0,0,0
+Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493,2014,14,0,0,6,6,0,0,1,0,0,1,0
+Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493,2015,13,0,0,7,5,0,0,0,0,0,1,0
+Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493,2016,27,0,0,16,6,0,0,0,0,1,3,1
+Memorial Hospital of Gardena,Los Angeles,33.89246,-118.29493,2017,18,1,0,9,8,0,0,0,0,0,0,0
+Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068,2013,14,0,0,13,1,0,0,0,0,0,0,0
+Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068,2014,5,0,0,4,1,0,0,0,0,0,0,0
+Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068,2015,14,0,0,10,2,0,0,0,0,0,2,0
+Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068,2016,7,0,0,3,4,0,0,0,0,0,0,0
+Mendocino Coast District Hospital,Mendocino,39.4326,-123.80068,2017,12,0,0,7,5,0,0,0,0,0,0,0
+Menifee Valley Medical Center,Riverside,33.72146,-117.15691,2013,36,1,0,24,7,0,0,0,0,0,1,3
+Menifee Valley Medical Center,Riverside,33.72146,-117.15691,2014,35,0,0,24,9,0,0,0,0,0,2,0
+Menifee Valley Medical Center,Riverside,33.72146,-117.15691,2015,26,0,0,20,5,0,0,0,0,0,0,1
+Menifee Valley Medical Center,Riverside,33.72146,-117.15691,2016,31,0,0,18,9,0,0,0,0,0,2,2
+Menifee Valley Medical Center,Riverside,33.72146,-117.15691,2017,38,0,0,27,6,0,1,0,0,0,1,3
+Menlo Park Surgical Hospital,San Mateo,37.45797,-122.16212,2013,37,0,0,37,0,0,0,0,0,0,0,0
+Menlo Park Surgical Hospital,San Mateo,37.45797,-122.16212,2014,49,0,0,49,0,0,0,0,0,0,0,0
+Menlo Park Surgical Hospital,San Mateo,37.45797,-122.16212,2015,42,0,0,42,0,0,0,0,0,0,0,0
+Menlo Park Surgical Hospital,San Mateo,37.45797,-122.16212,2016,102,0,0,102,0,0,0,0,0,0,0,0
+Menlo Park Surgical Hospital,San Mateo,37.45797,-122.16212,2017,122,0,0,122,0,0,0,0,0,0,0,0
+Mercy General Hospital,Sacramento,38.56955,-121.45271,2013,268,3,9,168,40,0,0,0,1,23,20,4
+Mercy General Hospital,Sacramento,38.56955,-121.45271,2014,240,2,20,148,42,0,1,2,0,5,15,5
+Mercy General Hospital,Sacramento,38.56955,-121.45271,2015,169,0,9,101,35,0,0,0,1,3,18,2
+Mercy General Hospital,Sacramento,38.56955,-121.45271,2016,234,0,11,120,56,0,3,0,6,5,29,4
+Mercy General Hospital,Sacramento,38.56955,-121.45271,2017,170,0,10,71,51,0,1,0,1,2,30,4
+Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428,2015,77,1,0,36,16,0,0,0,0,24,0,0
+Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428,2016,82,1,0,45,11,0,2,0,1,16,6,0
+Mercy Hospital of Folsom,Sacramento,38.67223,-121.1428,2017,92,5,0,45,11,0,0,0,0,27,4,0
+Mercy Hospital – Bakersfield,Kern,35.37323,-119.02715,2013,149,1,2,100,18,0,0,4,0,17,5,2
+Mercy Hospital – Bakersfield,Kern,35.37323,-119.02715,2014,156,0,3,107,16,0,1,4,0,20,5,0
+Mercy Hospital – Bakersfield,Kern,35.37323,-119.02715,2015,116,0,1,82,11,0,0,3,0,15,3,1
+Mercy Hospital – Bakersfield,Kern,35.37323,-119.02715,2016,101,1,7,64,14,0,0,1,1,10,3,0
+Mercy Hospital – Bakersfield,Kern,35.37323,-119.02715,2017,109,1,6,63,18,0,1,0,1,12,6,1
+Mercy Hospital – Folsom,Sacramento,38.67223,-121.1428,2013,75,2,0,24,14,0,0,0,0,33,2,0
+Mercy Hospital – Folsom,Sacramento,38.67223,-121.1428,2014,109,2,0,40,14,0,0,0,0,51,2,0
+Mercy Medical Center Mt. Shasta,Siskiyou,41.31896,-122.323,2013,13,0,0,8,4,0,0,0,0,0,1,0
+Mercy Medical Center Mt. Shasta,Siskiyou,41.31896,-122.323,2014,5,0,0,2,2,0,0,0,0,0,1,0
+Mercy Medical Center Mt. Shasta,Siskiyou,41.31896,-122.323,2015,11,0,0,5,6,0,0,0,0,0,0,0
+Mercy Medical Center Mt. Shasta,Siskiyou,41.31896,-122.323,2016,14,0,0,9,3,0,0,0,0,0,2,0
+Mercy Medical Center Mt. Shasta,Siskiyou,41.31896,-122.323,2017,7,0,0,3,4,0,0,0,0,0,0,0
+Mercy Medical Center – Merced,Merced,37.3402309,-120.4651815,2013,52,0,0,34,12,0,0,0,0,3,3,0
+Mercy Medical Center – Merced,Merced,37.3402309,-120.4651815,2014,60,0,0,28,23,0,0,0,0,7,2,0
+Mercy Medical Center – Merced,Merced,37.3402309,-120.4651815,2015,53,0,0,26,24,0,0,0,0,0,3,0
+Mercy Medical Center – Merced,Merced,37.3402309,-120.4651815,2016,71,0,0,40,19,0,4,0,0,2,4,2
+Mercy Medical Center – Merced,Merced,37.3402309,-120.4651815,2017,61,0,0,27,23,0,1,0,0,1,8,1
+Mercy Medical Center – Redding,Shasta,40.57204,-122.39742,2013,192,4,21,50,34,0,0,30,0,42,10,1
+Mercy Medical Center – Redding,Shasta,40.57204,-122.39742,2014,174,1,25,39,23,0,0,33,1,46,6,0
+Mercy Medical Center – Redding,Shasta,40.57204,-122.39742,2015,118,2,9,19,17,0,0,31,0,36,3,1
+Mercy Medical Center – Redding,Shasta,40.57204,-122.39742,2016,153,2,20,33,36,0,0,19,0,35,5,3
+Mercy Medical Center – Redding,Shasta,40.57204,-122.39742,2017,137,0,26,27,27,0,2,22,2,26,5,0
+Mercy San Juan Hospital,Sacramento,38.66818,-121.31261,2013,301,2,18,99,38,3,1,54,0,72,11,3
+Mercy San Juan Hospital,Sacramento,38.66818,-121.31261,2014,225,0,31,68,29,2,1,31,1,51,6,5
+Mercy San Juan Hospital,Sacramento,38.66818,-121.31261,2015,164,1,11,56,25,1,0,33,0,28,9,0
+Mercy San Juan Hospital,Sacramento,38.66818,-121.31261,2016,275,2,24,86,40,8,0,49,0,46,19,1
+Mercy San Juan Hospital,Sacramento,38.66818,-121.31261,2017,324,0,30,108,41,6,2,50,1,53,33,0
+Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744,2013,179,0,0,151,19,0,0,0,2,0,4,3
+Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744,2014,151,0,0,126,18,0,0,0,1,0,4,2
+Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744,2015,89,0,0,69,14,0,0,0,0,0,2,4
+Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744,2016,115,0,0,80,23,0,2,0,1,1,8,0
+Methodist Hospital of Sacramento,Sacramento,38.46416,-121.41744,2017,123,1,0,102,12,0,0,0,1,0,4,3
+Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879,2013,133,1,7,71,32,0,1,9,1,0,6,5
+Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879,2014,126,1,6,60,41,0,0,5,2,0,10,1
+Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879,2015,72,0,2,32,23,0,2,2,1,0,7,3
+Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879,2016,147,0,11,47,48,1,6,2,2,0,25,5
+Methodist Hospital of Southern California,Los Angeles,34.13603,-118.03879,2017,153,1,7,80,33,3,4,1,2,0,19,3
+Mission Community Hospital – Panorama Campus,Los Angeles,34.22138,-118.45639,2013,37,1,0,6,5,0,0,0,0,25,0,0
+Mission Community Hospital – Panorama Campus,Los Angeles,34.22138,-118.45639,2014,33,1,0,5,6,0,0,2,0,18,0,1
+Mission Community Hospital – Panorama Campus,Los Angeles,34.22138,-118.45639,2015,5,0,1,2,2,0,0,0,0,0,0,0
+Mission Community Hospital – Panorama Campus,Los Angeles,34.22138,-118.45639,2016,26,0,0,19,4,0,0,0,0,2,1,0
+Mission Community Hospital – Panorama Campus,Los Angeles,34.22138,-118.45639,2017,25,0,0,18,5,0,0,0,0,2,0,0
+Mission Hospital Laguna Beach,Orange,33.4997391,-117.7422502,2013,26,0,0,13,7,0,1,2,0,0,3,0
+Mission Hospital Laguna Beach,Orange,33.4997391,-117.7422502,2014,15,0,0,9,4,0,0,0,0,0,2,0
+Mission Hospital Laguna Beach,Orange,33.4997391,-117.7422502,2015,21,0,0,11,8,0,0,0,0,0,2,0
+Mission Hospital Laguna Beach,Orange,33.4997391,-117.7422502,2016,14,0,0,4,8,0,0,0,0,0,2,0
+Mission Hospital Laguna Beach,Orange,33.4997391,-117.7422502,2017,15,0,0,7,6,0,0,0,0,0,1,1
+Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768,2013,193,1,24,67,28,0,0,35,2,30,3,3
+Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768,2014,160,1,20,45,28,2,0,32,3,20,6,3
+Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768,2015,120,1,20,27,25,2,0,27,4,12,1,1
+Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768,2016,156,2,21,39,41,6,0,28,1,11,6,1
+Mission Hospital Regional Medical Center,Orange,33.56279,-117.66768,2017,232,2,30,65,41,6,1,45,2,25,12,3
+Monrovia Medical Center,Los Angeles,34.1491,-117.99225,2016,1,0,0,0,1,0,0,0,0,0,0,0
+Montclair Hospital Medical Center,San Bernardino,34.07774,-117.69603,2013,14,0,0,13,1,0,0,0,0,0,0,0
+Montclair Hospital Medical Center,San Bernardino,34.07774,-117.69603,2014,18,0,0,13,4,0,1,0,0,0,0,0
+Montclair Hospital Medical Center,San Bernardino,34.07774,-117.69603,2015,10,0,0,7,3,0,0,0,0,0,0,0
+Montclair Hospital Medical Center,San Bernardino,34.07774,-117.69603,2016,9,0,0,6,2,0,0,0,0,0,1,0
+Montclair Hospital Medical Center,San Bernardino,34.07774,-117.69603,2017,5,0,0,2,1,0,0,0,0,0,2,0
+Monterey Park Hospital,Los Angeles,34.05308,-118.13665,2013,24,0,0,17,5,0,0,0,0,0,1,1
+Monterey Park Hospital,Los Angeles,34.05308,-118.13665,2014,50,0,0,33,11,0,0,1,0,0,3,2
+Monterey Park Hospital,Los Angeles,34.05308,-118.13665,2015,42,0,0,29,10,0,1,0,1,0,1,0
+Monterey Park Hospital,Los Angeles,34.05308,-118.13665,2016,58,1,0,37,11,0,1,1,0,1,6,0
+Monterey Park Hospital,Los Angeles,34.05308,-118.13665,2017,45,0,0,25,11,0,2,3,0,0,3,1
+Natividad Medical Center,Monterey,36.69686,-121.6297,2013,22,0,0,17,2,0,0,0,0,1,1,1
+Natividad Medical Center,Monterey,36.69686,-121.6297,2014,24,0,0,14,7,0,0,0,0,0,3,0
+Natividad Medical Center,Monterey,36.69686,-121.6297,2015,17,0,0,7,6,0,0,2,0,0,1,1
+Natividad Medical Center,Monterey,36.69686,-121.6297,2016,20,0,0,6,6,0,1,2,0,1,3,1
+Natividad Medical Center,Monterey,36.69686,-121.6297,2017,23,0,0,10,11,0,0,0,0,1,1,0
+North Bay Medical Center,Solano,38.26097,-122.05076,2013,42,0,4,24,7,0,0,6,0,1,0,0
+North Bay Medical Center,Solano,38.26097,-122.05076,2014,66,6,11,29,11,0,0,4,0,1,4,0
+North Bay Medical Center,Solano,38.26097,-122.05076,2015,41,1,6,17,11,0,0,2,0,0,3,1
+North Bay Medical Center,Solano,38.26097,-122.05076,2016,72,0,7,33,19,0,3,5,1,0,3,1
+North Bay Medical Center,Solano,38.26097,-122.05076,2017,87,0,10,50,20,0,0,4,1,1,1,0
+Northern Inyo Hospital,Inyo,37.36207,-118.40756,2013,10,0,0,6,4,0,0,0,0,0,0,0
+Northern Inyo Hospital,Inyo,37.36207,-118.40756,2014,15,0,0,9,5,0,0,0,0,1,0,0
+Northern Inyo Hospital,Inyo,37.36207,-118.40756,2015,4,0,0,2,1,0,0,0,0,0,1,0
+Northern Inyo Hospital,Inyo,37.36207,-118.40756,2016,10,0,0,4,5,0,0,0,0,0,1,0
+Northern Inyo Hospital,Inyo,37.36207,-118.40756,2017,13,0,0,9,4,0,0,0,0,0,0,0
+Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186,2013,118,1,2,22,22,0,2,10,4,45,5,5
+Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186,2014,99,0,8,30,20,1,1,7,4,20,5,3
+Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186,2015,60,0,3,28,8,0,0,11,1,6,2,1
+Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186,2016,71,0,5,28,13,1,0,7,4,3,6,4
+Northridge Hospital Medical Center,Los Angeles,34.22075,-118.53186,2017,72,0,8,29,16,0,4,10,1,0,2,2
+Norwalk Community Hospital,Los Angeles,33.91108,-118.0644,2013,4,0,0,1,1,0,0,0,0,0,1,1
+Norwalk Community Hospital,Los Angeles,33.91108,-118.0644,2014,3,0,0,0,3,0,0,0,0,0,0,0
+Norwalk Community Hospital,Los Angeles,33.91108,-118.0644,2015,2,0,0,1,0,0,0,0,0,0,1,0
+Norwalk Community Hospital,Los Angeles,33.91108,-118.0644,2016,15,0,0,3,5,0,1,0,2,2,2,0
+Norwalk Community Hospital,Los Angeles,33.91108,-118.0644,2017,11,0,0,2,0,0,1,1,0,1,5,1
+Novato Community Hospital,Marin,38.09749,-122.55887,2013,17,0,0,14,2,0,0,0,0,0,1,0
+Novato Community Hospital,Marin,38.09749,-122.55887,2014,10,0,0,6,3,0,0,0,0,1,0,0
+Novato Community Hospital,Marin,38.09749,-122.55887,2015,4,0,0,0,3,0,0,0,0,0,1,0
+Novato Community Hospital,Marin,38.09749,-122.55887,2016,3,0,0,0,1,0,0,0,0,2,0,0
+Novato Community Hospital,Marin,38.09749,-122.55887,2017,18,0,0,14,3,0,0,0,0,0,1,0
+Oak Valley District Hospital,Stanislaus,37.75782,-120.86031,2013,6,0,0,1,4,0,0,0,0,0,1,0
+Oak Valley District Hospital,Stanislaus,37.75782,-120.86031,2014,9,0,0,3,5,0,0,0,0,0,1,0
+Oak Valley District Hospital,Stanislaus,37.75782,-120.86031,2016,8,0,0,4,4,0,0,0,0,0,0,0
+Oak Valley District Hospital,Stanislaus,37.75782,-120.86031,2017,8,0,0,4,3,0,0,0,0,0,1,0
+Ojai Valley Community Hospital,Ventura,34.44221,-119.26311,2013,5,0,0,5,0,0,0,0,0,0,0,0
+Ojai Valley Community Hospital,Ventura,34.44221,-119.26311,2014,3,0,0,0,3,0,0,0,0,0,0,0
+Ojai Valley Community Hospital,Ventura,34.44221,-119.26311,2015,1,0,0,1,0,0,0,0,0,0,0,0
+Ojai Valley Community Hospital,Ventura,34.44221,-119.26311,2016,2,0,0,1,1,0,0,0,0,0,0,0
+Ojai Valley Community Hospital,Ventura,34.44221,-119.26311,2017,2,0,0,0,2,0,0,0,0,0,0,0
+Olympia Medical Center,Los Angeles,34.05754,-118.36008,2013,23,0,0,16,5,0,0,0,0,0,0,2
+Olympia Medical Center,Los Angeles,34.05754,-118.36008,2014,23,0,0,10,5,0,0,1,0,3,3,1
+Olympia Medical Center,Los Angeles,34.05754,-118.36008,2015,16,0,0,7,5,0,0,0,0,2,1,1
+Olympia Medical Center,Los Angeles,34.05754,-118.36008,2016,19,0,0,10,2,0,0,0,0,5,1,1
+Olympia Medical Center,Los Angeles,34.05754,-118.36008,2017,44,2,0,21,5,0,0,2,0,11,2,1
+Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524,2013,322,2,13,124,48,0,33,26,13,24,22,17
+Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524,2014,280,4,10,100,46,0,30,21,26,2,30,11
+Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524,2015,248,1,5,111,51,0,25,15,7,9,18,6
+Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524,2016,351,2,11,158,62,1,36,19,17,16,21,8
+Orange Coast Memorial Medical Center,Orange,33.70162,-117.95524,2017,322,3,9,150,45,1,38,16,12,21,19,8
+Orange County Global Medical Center,Orange,33.75361,-117.83398,2015,15,0,4,8,1,0,0,0,1,1,0,0
+Orange County Global Medical Center,Orange,33.75361,-117.83398,2016,33,0,8,19,4,0,0,1,0,0,1,0
+Orange County Global Medical Center,Orange,33.75361,-117.83398,2017,39,0,6,21,5,0,1,1,0,0,3,2
+Oroville Hospital,Butte,39.50485,-121.5428,2013,56,0,0,28,12,0,0,1,0,13,1,1
+Oroville Hospital,Butte,39.50485,-121.5428,2014,60,0,0,22,11,0,1,1,0,23,1,1
+Oroville Hospital,Butte,39.50485,-121.5428,2015,43,0,0,14,5,0,0,0,0,23,1,0
+Oroville Hospital,Butte,39.50485,-121.5428,2016,84,1,0,41,9,0,0,1,0,24,4,4
+Oroville Hospital,Butte,39.50485,-121.5428,2017,103,1,0,26,17,0,0,0,0,51,7,1
+O’Connor Hospital,Santa Clara,37.32714,-121.93727,2013,180,1,7,88,41,1,2,17,5,0,11,7
+O’Connor Hospital,Santa Clara,37.32714,-121.93727,2014,170,0,8,61,33,1,4,37,6,1,11,8
+O’Connor Hospital,Santa Clara,37.32714,-121.93727,2015,116,1,4,46,21,0,6,23,4,0,8,3
+O’Connor Hospital,Santa Clara,37.32714,-121.93727,2016,142,1,3,73,20,0,6,20,6,0,7,6
+O’Connor Hospital,Santa Clara,37.32714,-121.93727,2017,101,0,4,34,23,0,3,18,4,1,11,3
+PIH Hospital – Downey,Los Angeles,33.93515,-118.13196,2013,117,0,6,63,30,0,0,2,0,8,3,5
+PIH Hospital – Downey,Los Angeles,33.93515,-118.13196,2014,88,3,4,45,24,0,0,2,0,3,3,4
+PIH Hospital – Downey,Los Angeles,33.93515,-118.13196,2015,59,0,3,32,13,0,0,4,0,1,3,3
+PIH Hospital – Downey,Los Angeles,33.93515,-118.13196,2016,88,1,5,44,19,0,0,4,0,1,4,10
+PIH Hospital – Downey,Los Angeles,33.93515,-118.13196,2017,77,1,2,48,13,0,0,4,0,1,3,5
+Pacific Alliance Medical Center,Los Angeles,34.06464,-118.23905,2013,23,0,2,10,6,0,0,0,0,1,1,3
+Pacific Alliance Medical Center,Los Angeles,34.06464,-118.23905,2014,26,0,1,19,3,0,0,1,0,1,0,1
+Pacific Alliance Medical Center,Los Angeles,34.06464,-118.23905,2015,27,0,1,16,4,0,0,4,0,1,0,1
+Pacific Alliance Medical Center,Los Angeles,34.06464,-118.23905,2016,27,0,0,10,10,0,1,0,0,4,1,1
+Pacific Alliance Medical Center,Los Angeles,34.06464,-118.23905,2017,17,0,0,8,7,0,1,0,0,0,0,1
+Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555,2013,6,0,0,3,3,0,0,0,0,0,0,0
+Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555,2014,6,0,0,1,3,0,0,0,0,0,0,2
+Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555,2015,5,0,0,5,0,0,0,0,0,0,0,0
+Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555,2016,8,0,0,7,0,0,0,0,0,0,1,0
+Pacifica Hospital of the Valley,Los Angeles,34.24088,-118.39555,2017,7,0,0,6,1,0,0,0,0,0,0,0
+Palm Drive Hospital,Sonoma,38.39836,-122.82111,2013,7,0,0,0,3,0,0,0,0,4,0,0
+Palm Drive Hospital,Sonoma,38.39836,-122.82111,2014,5,0,0,2,2,0,0,0,0,0,1,0
+Palm Drive Hospital,Sonoma,38.39836,-122.82111,2016,1,0,0,0,1,0,0,0,0,0,0,0
+Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461,2013,28,0,3,3,13,0,0,3,0,0,3,3
+Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461,2014,36,0,10,3,16,0,0,0,0,4,1,2
+Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461,2015,21,0,0,1,8,0,1,3,1,5,0,2
+Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461,2016,91,1,9,22,26,0,1,5,0,11,12,4
+Palmdale Regional Medical Center,Los Angeles,34.5843754,-118.1443461,2017,76,0,4,19,31,0,1,2,0,11,8,0
+Palo Verde Hospital,Riverside,33.61315,-114.5956,2013,7,0,0,2,4,0,1,0,0,0,0,0
+Palo Verde Hospital,Riverside,33.61315,-114.5956,2014,8,0,0,2,4,0,0,0,0,1,1,0
+Palo Verde Hospital,Riverside,33.61315,-114.5956,2015,10,0,0,1,7,0,0,0,0,1,1,0
+Palo Verde Hospital,Riverside,33.61315,-114.5956,2016,3,0,0,0,1,0,0,0,0,2,0,0
+Palo Verde Hospital,Riverside,33.61315,-114.5956,2017,3,0,0,1,1,0,0,0,0,0,1,0
+Palomar Health Downtown Campus,San Diego,33.12622,-117.07585,2013,327,12,9,94,48,1,2,9,0,139,11,2
+Palomar Health Downtown Campus,San Diego,33.12622,-117.07585,2014,328,17,11,119,33,0,0,7,0,130,7,4
+Palomar Health Downtown Campus,San Diego,33.12622,-117.07585,2015,285,13,11,77,31,0,0,5,0,138,7,3
+Palomar Health Downtown Campus,San Diego,33.12622,-117.07585,2016,412,16,19,115,61,1,0,11,0,175,10,4
+Palomar Health Downtown Campus,San Diego,33.12622,-117.07585,2017,436,23,22,152,49,2,2,10,1,163,6,6
+Paradise Valley Hospital,San Diego,32.6863293,-117.0830382,2013,8,0,0,0,8,0,0,0,0,0,0,0
+Paradise Valley Hospital,San Diego,32.6863293,-117.0830382,2014,5,0,0,0,4,0,0,0,0,0,1,0
+Paradise Valley Hospital,San Diego,32.6863293,-117.0830382,2015,5,0,0,0,3,0,0,2,0,0,0,0
+Paradise Valley Hospital,San Diego,32.6863293,-117.0830382,2016,5,0,1,1,1,0,0,0,0,1,1,0
+Paradise Valley Hospital,San Diego,32.6863293,-117.0830382,2017,8,0,1,2,3,0,0,0,0,1,1,0
+Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996,2013,91,0,0,68,17,1,0,0,0,5,0,0
+Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996,2014,92,1,0,65,13,0,0,0,0,9,4,0
+Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996,2015,42,0,0,22,10,0,0,0,0,7,1,2
+Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996,2016,71,2,0,32,15,0,1,0,0,17,3,1
+Parkview Community Hospital Medical Center,Riverside,33.92573,-117.43996,2017,65,0,0,45,14,0,1,0,1,2,2,0
+Patients’ Hospital of Redding,Shasta,40.58563,-122.41632,2013,83,0,0,83,0,0,0,0,0,0,0,0
+Patients’ Hospital of Redding,Shasta,40.58563,-122.41632,2014,101,0,0,101,0,0,0,0,0,0,0,0
+Patients’ Hospital of Redding,Shasta,40.58563,-122.41632,2015,79,0,0,79,0,0,0,0,0,0,0,0
+Patients’ Hospital of Redding,Shasta,40.58563,-122.41632,2016,103,0,0,103,0,0,0,0,0,0,0,0
+Patients’ Hospital of Redding,Shasta,40.58563,-122.41632,2017,79,0,0,79,0,0,0,0,0,0,0,0
+Peninsula Medical Center,San Mateo,37.5944692,-122.3832465,2013,292,2,6,183,34,3,6,20,6,17,10,5
+Peninsula Medical Center,San Mateo,37.5944692,-122.3832465,2014,374,2,7,263,41,1,13,16,7,6,16,2
+Peninsula Medical Center,San Mateo,37.5944692,-122.3832465,2015,285,2,3,202,25,6,6,13,2,9,12,5
+Peninsula Medical Center,San Mateo,37.5944692,-122.3832465,2016,369,6,1,245,49,6,2,19,10,18,9,4
+Peninsula Medical Center,San Mateo,37.5944692,-122.3832465,2017,385,4,3,271,34,8,4,17,10,11,19,4
+Petaluma Valley Hospital,Sonoma,38.25323,-122.63302,2013,28,0,0,16,9,0,0,0,0,0,2,1
+Petaluma Valley Hospital,Sonoma,38.25323,-122.63302,2014,11,0,0,2,8,0,0,0,0,0,1,0
+Petaluma Valley Hospital,Sonoma,38.25323,-122.63302,2015,7,0,0,2,4,0,0,0,0,0,1,0
+Petaluma Valley Hospital,Sonoma,38.25323,-122.63302,2016,9,0,0,0,4,0,0,0,0,1,4,0
+Petaluma Valley Hospital,Sonoma,38.25323,-122.63302,2017,12,0,0,4,2,0,0,0,0,0,5,1
+Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183,2013,18,0,1,12,4,0,0,0,0,1,0,0
+Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183,2014,24,0,2,13,8,0,0,0,0,1,0,0
+Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183,2015,12,0,0,11,1,0,0,0,0,0,0,0
+Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183,2016,23,0,2,18,3,0,0,0,0,0,0,0
+Pioneers Memorial Healthcare District,Imperial,32.96003,-115.55183,2017,37,0,5,21,11,0,0,0,0,0,0,0
+Placentia Linda Hospital,Orange,33.88704521,-117.8431129,2013,62,0,0,35,20,0,0,1,0,5,1,0
+Placentia Linda Hospital,Orange,33.88704521,-117.8431129,2014,57,0,0,36,15,0,0,0,0,3,3,0
+Placentia Linda Hospital,Orange,33.88704521,-117.8431129,2015,26,0,0,14,6,0,0,0,0,6,0,0
+Placentia Linda Hospital,Orange,33.88704521,-117.8431129,2016,47,0,0,30,8,0,0,0,0,4,4,1
+Placentia Linda Hospital,Orange,33.88704521,-117.8431129,2017,68,0,0,45,8,0,0,1,1,5,7,1
+Plumas District Hospital,Plumas,39.93938,-120.96244,2013,2,0,0,0,1,0,0,0,0,0,1,0
+Plumas District Hospital,Plumas,39.93938,-120.96244,2014,3,0,0,1,2,0,0,0,0,0,0,0
+Plumas District Hospital,Plumas,39.93938,-120.96244,2016,9,0,0,7,1,0,0,0,0,0,1,0
+Plumas District Hospital,Plumas,39.93938,-120.96244,2017,4,0,0,2,2,0,0,0,0,0,0,0
+Pomerado Hospital,San Diego,32.99563,-117.05784,2013,97,1,0,81,12,0,0,0,1,1,0,1
+Pomerado Hospital,San Diego,32.99563,-117.05784,2014,70,0,0,60,9,0,0,0,0,0,1,0
+Pomerado Hospital,San Diego,32.99563,-117.05784,2015,52,0,0,35,13,0,0,0,0,0,3,1
+Pomerado Hospital,San Diego,32.99563,-117.05784,2016,73,0,0,48,16,0,1,0,0,2,4,2
+Pomerado Hospital,San Diego,32.99563,-117.05784,2017,61,0,0,46,10,0,0,0,0,1,4,0
+Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234,2013,260,0,12,171,34,0,0,11,0,19,6,7
+Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234,2014,275,1,14,157,52,0,0,9,4,18,13,7
+Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234,2015,188,0,12,104,50,0,0,4,0,12,2,4
+Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234,2016,275,0,7,179,42,0,3,6,2,14,16,6
+Pomona Valley Hospital Medical Center,Los Angeles,34.07852,-117.75234,2017,245,0,11,162,37,0,2,3,4,12,10,4
+Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671,2013,303,5,10,170,47,2,3,18,2,25,13,8
+Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671,2014,289,6,8,157,46,0,4,21,1,22,16,8
+Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671,2015,211,0,3,120,33,2,2,25,2,13,8,3
+Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671,2016,291,1,7,175,48,1,1,23,2,13,16,4
+Presbyterian Intercommunity Hospital,Los Angeles,33.96775,-118.04671,2017,287,5,8,155,46,1,4,27,1,11,21,8
+Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,San Francisco,37.75657,-122.40637,2016,101,1,9,56,6,0,1,10,1,10,1,6
+Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,San Francisco,37.75657,-122.40637,2017,112,6,7,53,23,0,1,4,1,1,11,5
+Promise Hospital of East Los Angeles – East Los Angeles Campus,Los Angeles,34.03996,-118.21227,2016,1,0,0,1,0,0,0,0,0,0,0,0
+Promise Hospital of East Los Angeles – East Los Angeles Campus,Los Angeles,34.03996,-118.21227,2017,3,0,0,1,2,0,0,0,0,0,0,0
+Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951,2013,205,1,7,84,51,2,6,20,3,10,10,11
+Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951,2014,203,1,8,94,40,1,2,15,2,28,6,6
+Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951,2015,188,0,1,86,27,2,8,13,6,33,6,6
+Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951,2016,247,0,11,92,47,1,6,13,7,42,25,3
+Providence Holy Cross Medical Center,Los Angeles,34.2791,-118.45951,2017,253,1,19,83,47,2,16,18,5,36,19,7
+Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,33.73798,-118.30557,2013,32,0,1,23,4,0,0,0,0,2,1,1
+Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,33.73798,-118.30557,2014,33,1,2,15,7,0,0,4,0,1,2,1
+Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,33.73798,-118.30557,2015,29,0,3,16,3,0,1,2,0,2,2,0
+Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,33.73798,-118.30557,2016,57,0,2,40,7,0,2,0,1,2,3,0
+Providence Little Company of Mary Medical Center – San Pedro,Los Angeles,33.73798,-118.30557,2017,42,0,0,26,11,0,2,0,0,1,2,0
+Providence Little Company of Mary Medical Center – Torrance,Los Angeles,33.83767,-118.35708,2013,242,2,4,127,33,0,8,16,7,33,8,4
+Providence Little Company of Mary Medical Center – Torrance,Los Angeles,33.83767,-118.35708,2014,249,1,2,134,33,0,15,10,11,33,5,5
+Providence Little Company of Mary Medical Center – Torrance,Los Angeles,33.83767,-118.35708,2015,176,1,2,86,25,1,7,9,4,31,8,2
+Providence Little Company of Mary Medical Center – Torrance,Los Angeles,33.83767,-118.35708,2016,310,6,8,163,49,0,11,9,6,30,21,7
+Providence Little Company of Mary Medical Center – Torrance,Los Angeles,33.83767,-118.35708,2017,311,1,12,181,43,0,5,10,3,35,18,3
+Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687,2015,323,1,25,155,39,3,9,10,7,61,10,3
+Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687,2016,622,8,50,225,64,4,18,117,10,106,16,4
+Providence Saint John’s Health Center,Los Angeles,34.0298085,-118.478687,2017,564,3,79,162,34,4,11,122,7,113,21,8
+Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711,2013,278,3,12,165,42,0,1,20,2,22,10,1
+Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711,2014,322,5,21,164,38,3,3,25,2,37,19,5
+Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711,2015,253,2,11,137,45,0,1,18,1,23,8,7
+Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711,2016,382,4,15,185,48,1,3,28,3,68,23,4
+Providence Saint Joseph Medical Center,Los Angeles,34.1559,-118.32711,2017,359,5,10,180,50,1,2,29,4,53,17,8
+Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136,2013,204,1,1,143,31,0,1,9,0,0,13,5
+Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136,2014,163,2,3,105,31,0,1,4,0,2,12,3
+Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136,2015,173,0,4,105,23,0,1,5,0,20,12,3
+Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136,2016,231,1,3,123,31,0,2,5,1,36,26,3
+Providence Tarzana Medical Center,Los Angeles,34.16985,-118.53136,2017,266,1,5,138,40,1,0,12,1,42,21,5
+Queen of the Valley Hospital – Napa,Napa,38.32363,-122.296,2013,118,0,4,62,14,1,0,13,0,17,4,3
+Queen of the Valley Hospital – Napa,Napa,38.32363,-122.296,2014,92,4,2,44,11,1,0,8,0,16,5,1
+Queen of the Valley Medical Center,Napa,38.32363,-122.296,2015,63,1,3,34,9,2,0,6,0,6,1,1
+Queen of the Valley Medical Center,Napa,38.32363,-122.296,2016,74,0,2,37,11,0,3,9,1,8,3,0
+Queen of the Valley Medical Center,Napa,38.32363,-122.296,2017,84,0,1,45,12,0,1,9,0,12,2,2
+Redlands Community Hospital,San Bernardino,34.03699,-117.2044,2013,203,5,2,102,45,0,0,10,0,20,14,5
+Redlands Community Hospital,San Bernardino,34.03699,-117.2044,2014,217,9,5,119,42,0,0,6,0,27,5,4
+Redlands Community Hospital,San Bernardino,34.03699,-117.2044,2015,152,2,3,83,21,0,1,2,0,35,5,0
+Redlands Community Hospital,San Bernardino,34.03699,-117.2044,2016,161,2,4,91,30,0,3,5,1,12,11,2
+Redlands Community Hospital,San Bernardino,34.03699,-117.2044,2017,139,1,4,79,26,0,3,1,0,12,8,5
+Redwood Memorial Hospital,Humboldt,40.58267,-124.13549,2013,26,0,0,21,4,0,0,1,0,0,0,0
+Redwood Memorial Hospital,Humboldt,40.58267,-124.13549,2014,21,0,0,13,7,0,0,0,0,0,1,0
+Redwood Memorial Hospital,Humboldt,40.58267,-124.13549,2015,21,0,0,15,5,0,0,0,0,0,1,0
+Redwood Memorial Hospital,Humboldt,40.58267,-124.13549,2016,22,0,0,14,4,0,0,1,0,0,2,1
+Redwood Memorial Hospital,Humboldt,40.58267,-124.13549,2017,26,0,0,15,9,0,0,0,0,0,2,0
+Regional Medical of San Jose,Santa Clara,37.36332,-121.84837,2013,111,0,9,48,29,0,3,7,1,2,5,7
+Regional Medical of San Jose,Santa Clara,37.36332,-121.84837,2014,94,0,9,47,22,0,2,5,0,2,5,2
+Regional Medical of San Jose,Santa Clara,37.36332,-121.84837,2015,63,0,2,34,15,1,0,2,0,1,4,4
+Regional Medical of San Jose,Santa Clara,37.36332,-121.84837,2016,99,1,12,33,28,0,4,4,0,2,12,3
+Regional Medical of San Jose,Santa Clara,37.36332,-121.84837,2017,85,0,6,26,20,0,2,9,0,3,13,6
+Rideout Memorial Hospital,Yuba,39.138222,-121.594363,2013,96,1,10,30,15,1,0,23,0,7,6,3
+Rideout Memorial Hospital,Yuba,39.138222,-121.594363,2014,108,0,6,26,16,1,1,38,1,13,4,2
+Rideout Memorial Hospital,Yuba,39.138222,-121.594363,2015,60,0,3,17,6,0,0,25,0,5,2,2
+Rideout Memorial Hospital,Yuba,39.138222,-121.594363,2016,51,0,3,7,16,0,2,14,1,2,6,0
+Rideout Memorial Hospital,Yuba,39.138222,-121.594363,2017,82,1,2,25,17,0,4,16,0,8,8,1
+Ridgecrest Regional Hospital,Kern,35.6404,-117.66996,2013,11,0,0,6,4,0,0,0,0,0,1,0
+Ridgecrest Regional Hospital,Kern,35.6404,-117.66996,2014,13,0,0,10,3,0,0,0,0,0,0,0
+Ridgecrest Regional Hospital,Kern,35.6404,-117.66996,2015,8,0,0,5,3,0,0,0,0,0,0,0
+Ridgecrest Regional Hospital,Kern,35.6404,-117.66996,2016,17,0,0,11,5,0,0,0,1,0,0,0
+Ridgecrest Regional Hospital,Kern,35.6404,-117.66996,2017,11,0,0,8,2,0,0,0,0,0,1,0
+Riverside Community Hospital,Riverside,33.97641,-117.37997,2013,323,4,11,148,61,0,3,14,3,55,16,8
+Riverside Community Hospital,Riverside,33.97641,-117.37997,2014,290,4,4,134,64,1,3,25,4,28,17,6
+Riverside Community Hospital,Riverside,33.97641,-117.37997,2015,269,1,4,136,52,1,3,21,6,22,17,6
+Riverside Community Hospital,Riverside,33.97641,-117.37997,2016,325,1,12,134,73,2,7,19,9,35,28,5
+Riverside Community Hospital,Riverside,33.97641,-117.37997,2017,374,1,13,180,69,7,8,15,19,32,23,7
+Riverside County Regional Medical Center,Riverside,33.91187,-117.19525,2013,145,3,10,77,12,0,6,10,0,9,17,1
+Riverside County Regional Medical Center,Riverside,33.91187,-117.19525,2014,100,3,7,46,18,0,5,4,0,4,8,5
+Riverside County Regional Medical Center,Riverside,33.91187,-117.19525,2015,78,3,8,32,14,0,2,5,1,8,5,0
+Riverside University Health System – Medical Center,Riverside,33.91187,-117.19525,2016,78,4,4,38,11,0,1,2,3,5,9,1
+Riverside University Health System – Medical Center,Riverside,33.91187,-117.19525,2017,103,4,11,40,17,1,1,5,0,8,12,4
+Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445,2013,732,40,142,180,34,12,37,79,42,120,24,22
+Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445,2014,732,32,132,174,56,12,47,73,58,93,33,22
+Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445,2015,662,23,110,188,37,6,37,70,46,106,22,17
+Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445,2016,929,35,131,311,66,14,69,72,62,109,50,10
+Ronald Reagan UCLA Medical Center,Los Angeles,34.068889,-118.445,2017,945,28,121,332,71,20,39,86,62,125,43,18
+Saddleback Memorial Medical Center,Orange,33.60796,-117.70837,2013,234,3,6,115,41,2,0,24,0,33,7,3
+Saddleback Memorial Medical Center,Orange,33.60796,-117.70837,2014,243,2,5,127,41,1,0,27,0,36,1,3
+Saddleback Memorial Medical Center,Orange,33.60796,-117.70837,2015,189,0,8,96,31,3,0,17,0,23,9,2
+Saddleback Memorial Medical Center,Orange,33.60796,-117.70837,2016,275,2,8,156,24,1,0,29,1,39,14,1
+Saddleback Memorial Medical Center,Orange,33.60796,-117.70837,2017,294,3,23,165,33,0,0,21,0,41,6,2
+Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963,2013,251,0,4,146,24,0,0,28,0,38,10,1
+Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963,2014,249,2,9,91,45,1,8,28,3,46,13,3
+Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963,2015,199,0,4,99,25,0,10,6,6,26,19,4
+Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963,2016,253,2,6,107,48,1,15,13,5,27,25,4
+Saint Agnes Medical Center,Fresno,36.8370782,-119.7649963,2017,300,1,3,155,40,3,2,16,3,56,17,4
+Saint Bernardine Medical Center,San Bernardino,34.1341,-117.27865,2013,185,2,9,77,13,0,0,13,0,62,8,1
+Saint Bernardine Medical Center,San Bernardino,34.1341,-117.27865,2014,216,7,5,61,26,0,3,20,0,83,6,5
+Saint Bernardine Medical Center,San Bernardino,34.1341,-117.27865,2015,177,3,3,44,27,0,1,9,0,78,10,2
+Saint Bernardine Medical Center,San Bernardino,34.1341,-117.27865,2016,261,4,7,73,29,0,2,9,3,116,16,2
+Saint Bernardine Medical Center,San Bernardino,34.1341,-117.27865,2017,275,7,11,83,26,0,3,7,1,125,9,3
+Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887,2013,17,0,0,8,9,0,0,0,0,0,0,0
+Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887,2014,29,0,0,12,14,0,0,0,0,0,3,0
+Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887,2015,15,0,0,5,9,0,0,0,0,0,1,0
+Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887,2016,24,0,0,9,12,0,1,0,0,0,1,1
+Saint Elizabeth Community Hospital,Tehama,40.1495,-122.21887,2017,14,0,0,6,7,0,1,0,0,0,0,0
+Saint Francis Medical Center,Los Angeles,33.93085,-118.20415,2013,66,0,6,35,17,0,1,5,0,0,2,0
+Saint Francis Medical Center,Los Angeles,33.93085,-118.20415,2014,62,1,6,44,7,0,0,1,1,0,2,0
+Saint Francis Medical Center,Los Angeles,33.93085,-118.20415,2015,55,0,2,35,14,0,0,3,0,0,1,0
+Saint Francis Medical Center,Los Angeles,33.93085,-118.20415,2016,78,3,6,33,11,0,1,4,0,13,2,5
+Saint Francis Medical Center,Los Angeles,33.93085,-118.20415,2017,87,2,4,47,21,0,0,3,1,5,4,0
+Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695,2013,20,0,0,3,6,0,0,7,0,2,1,1
+Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695,2014,22,0,0,4,7,0,0,8,0,0,0,3
+Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695,2015,12,0,2,2,4,0,0,4,0,0,0,0
+Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695,2016,15,0,1,4,2,0,1,0,0,4,1,2
+Saint Francis Memorial Hospital,San Francisco,37.78917,-122.41695,2017,18,0,2,5,7,0,0,0,0,1,2,1
+Saint Helena Hospital,Napa,38.53937349,-122.473003,2013,41,0,0,16,8,3,0,13,1,0,0,0
+Saint Helena Hospital,Napa,38.53937349,-122.473003,2014,49,0,0,17,7,1,0,18,1,0,4,1
+Saint Helena Hospital,Napa,38.53937349,-122.473003,2015,37,0,0,8,7,1,0,18,0,0,2,1
+Saint Helena Hospital,Napa,38.53937349,-122.473003,2016,66,0,0,15,13,3,0,25,0,1,8,1
+Saint Helena Hospital,Napa,38.53937349,-122.473003,2017,56,0,0,12,12,3,3,16,0,0,9,1
+Saint Helena Hospital – Clearlake,Lake,38.93556,-122.6201,2013,12,0,0,6,6,0,0,0,0,0,0,0
+Saint Helena Hospital – Clearlake,Lake,38.93556,-122.6201,2014,7,0,0,7,0,0,0,0,0,0,0,0
+Saint Helena Hospital – Clearlake,Lake,38.93556,-122.6201,2015,7,0,0,5,1,0,0,0,0,0,1,0
+Saint Helena Hospital – Clearlake,Lake,38.93556,-122.6201,2016,1,0,0,0,1,0,0,0,0,0,0,0
+Saint Helena Hospital – Clearlake,Lake,38.93556,-122.6201,2017,4,0,0,2,2,0,0,0,0,0,0,0
+Saint John’s Health Center,Los Angeles,34.0298085,-118.478687,2013,399,1,51,211,54,0,18,24,9,8,11,12
+Saint John’s Health Center,Los Angeles,34.0298085,-118.478687,2014,368,3,63,160,54,2,18,24,9,16,9,10
+Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018,2013,64,0,0,46,16,0,0,0,0,0,1,1
+Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018,2014,49,0,0,39,8,0,0,0,0,0,1,1
+Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018,2015,50,0,0,42,6,0,0,0,0,0,2,0
+Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018,2016,50,0,0,36,12,0,0,0,0,0,2,0
+Saint John’s Pleasant Valley Hospital,Ventura,34.24177,-119.018,2017,57,0,0,41,13,0,0,0,1,0,2,0
+Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819,2013,109,0,4,55,22,0,0,16,0,1,9,2
+Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819,2014,122,0,2,79,23,0,0,7,0,0,6,5
+Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819,2015,115,0,3,66,20,0,0,19,0,0,3,4
+Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819,2016,136,0,6,76,20,0,0,10,1,14,9,0
+Saint John’s Regional Medical Center,Ventura,34.21687,-119.15819,2017,173,2,5,84,29,0,1,22,0,14,15,1
+Saint Joseph Hospital – Eureka,Humboldt,40.7832,-124.14216,2013,113,4,2,63,19,0,0,12,3,4,4,2
+Saint Joseph Hospital – Eureka,Humboldt,40.7832,-124.14216,2014,133,2,5,81,19,1,1,12,0,7,0,5
+Saint Joseph Hospital – Eureka,Humboldt,40.7832,-124.14216,2015,108,0,4,71,9,2,1,8,0,5,6,2
+Saint Joseph Hospital – Eureka,Humboldt,40.7832,-124.14216,2016,135,0,7,84,17,0,1,12,2,8,4,0
+Saint Joseph Hospital – Eureka,Humboldt,40.7832,-124.14216,2017,139,3,0,73,24,0,3,10,4,11,9,2
+Saint Joseph Hospital – Orange,Orange,33.7823,-117.86516,2013,548,2,18,311,63,0,12,51,9,50,21,11
+Saint Joseph Hospital – Orange,Orange,33.7823,-117.86516,2014,492,1,34,241,61,2,14,42,9,55,25,8
+Saint Joseph Hospital – Orange,Orange,33.7823,-117.86516,2015,382,2,17,211,45,1,8,30,8,39,15,6
+Saint Joseph Hospital – Orange,Orange,33.7823,-117.86516,2016,539,1,28,282,65,3,9,50,15,59,18,9
+Saint Joseph Hospital – Orange,Orange,33.7823,-117.86516,2017,511,0,26,273,46,1,8,52,17,53,26,9
+Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891,2013,187,1,11,79,46,0,6,26,0,2,14,2
+Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891,2014,200,0,9,90,44,1,7,33,3,0,8,5
+Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891,2015,154,4,7,73,27,1,6,22,3,1,9,1
+Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891,2016,207,6,10,79,38,1,5,33,6,6,17,6
+Saint Joseph’s Medical Center of Stockton,San Joaquin,37.97075,-121.2891,2017,203,8,0,86,39,4,5,22,1,7,23,8
+Saint Jude Medical Center,Orange,33.89349,-117.92851,2013,395,2,21,198,66,0,2,10,2,69,20,5
+Saint Jude Medical Center,Orange,33.89349,-117.92851,2014,350,3,21,179,52,0,0,19,1,51,18,6
+Saint Jude Medical Center,Orange,33.89349,-117.92851,2015,308,2,17,206,31,0,0,14,0,27,10,1
+Saint Jude Medical Center,Orange,33.89349,-117.92851,2016,417,1,18,209,67,0,5,19,10,56,23,9
+Saint Jude Medical Center,Orange,33.89349,-117.92851,2017,404,0,35,230,47,0,6,9,3,54,19,1
+Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411,2013,34,0,1,21,8,0,1,0,0,0,2,1
+Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411,2014,34,0,0,24,7,0,0,0,0,0,3,0
+Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411,2015,30,0,0,22,6,0,0,0,0,0,2,0
+Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411,2016,25,0,0,18,6,0,0,0,0,0,0,1
+Saint Louise Regional Hospital,Santa Clara,37.03731,-121.57411,2017,45,0,0,27,8,0,0,0,0,2,7,1
+Saint Mary Medical Center – Apple Valley,San Bernardino,34.54053,-117.26535,2013,154,1,0,59,36,0,0,10,0,42,6,0
+Saint Mary Medical Center – Apple Valley,San Bernardino,34.54053,-117.26535,2014,109,0,0,54,26,0,2,6,0,14,6,1
+Saint Mary Medical Center – Apple Valley,San Bernardino,34.54053,-117.26535,2015,88,2,0,43,18,0,0,9,0,11,5,0
+Saint Mary Medical Center – Apple Valley,San Bernardino,34.54053,-117.26535,2016,102,1,0,51,21,0,1,4,0,16,8,0
+Saint Mary Medical Center – Apple Valley,San Bernardino,34.54053,-117.26535,2017,108,2,0,49,25,0,1,4,0,16,9,2
+Saint Mary Medical Center – Long Beach,Los Angeles,33.7802376,-118.1866412,2013,28,0,3,12,7,1,0,5,0,0,0,0
+Saint Mary Medical Center – Long Beach,Los Angeles,33.7802376,-118.1866412,2014,37,0,1,10,14,0,0,8,0,0,3,1
+Saint Mary Medical Center – Long Beach,Los Angeles,33.7802376,-118.1866412,2015,28,0,1,12,5,0,0,9,0,0,0,1
+Saint Mary Medical Center – Long Beach,Los Angeles,33.7802376,-118.1866412,2016,45,0,5,24,7,0,0,5,0,1,0,3
+Saint Mary Medical Center – Long Beach,Los Angeles,33.7802376,-118.1866412,2017,44,2,4,19,7,0,0,1,2,3,4,2
+"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441,2013,57,0,0,41,7,0,0,5,0,0,3,1
+"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441,2014,71,1,0,52,9,0,0,7,1,0,0,1
+"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441,2015,69,0,0,54,7,0,0,8,0,0,0,0
+"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441,2016,97,0,0,69,10,0,0,9,0,1,5,3
+"Saint Mary’s Medical Center, San Francisco",San Francisco,37.77408,-122.45441,2017,97,1,0,78,6,0,1,4,0,1,4,2
+Saint Rose Hospital,Alameda,37.63291,-122.08962,2013,30,1,0,17,7,0,1,0,0,1,3,0
+Saint Rose Hospital,Alameda,37.63291,-122.08962,2014,39,0,0,20,14,0,2,0,0,0,2,1
+Saint Rose Hospital,Alameda,37.63291,-122.08962,2015,18,0,0,11,6,0,0,0,0,0,0,1
+Saint Rose Hospital,Alameda,37.63291,-122.08962,2016,32,0,0,15,12,0,1,0,0,0,1,3
+Saint Rose Hospital,Alameda,37.63291,-122.08962,2017,31,0,0,13,7,0,1,0,0,1,6,3
+Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302,2013,129,1,7,33,25,0,10,12,7,4,12,18
+Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302,2014,125,0,12,17,39,0,2,8,8,2,11,26
+Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302,2015,76,0,1,19,23,0,6,6,3,6,4,8
+Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302,2016,141,0,5,69,18,0,4,11,5,5,17,7
+Saint Vincent Medical Center,Los Angeles,34.06311,-118.27302,2017,188,3,7,98,25,2,10,10,3,12,10,8
+Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481,2013,128,0,8,78,15,0,0,12,0,8,5,2
+Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481,2014,135,0,13,84,23,0,0,3,1,3,5,3
+Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481,2015,106,0,6,62,17,2,0,7,1,0,8,3
+Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481,2016,134,0,6,60,33,0,2,8,6,1,10,8
+Salinas Valley Memorial Hospital,Monterey,36.66022,-121.6481,2017,133,0,9,58,32,0,3,7,3,0,10,11
+San Antonio Community Hospital,San Bernardino,34.10056,-117.63828,2013,256,0,8,121,47,0,1,17,0,37,17,8
+San Antonio Community Hospital,San Bernardino,34.10056,-117.63828,2014,218,0,11,128,34,0,0,13,1,20,8,3
+San Antonio Community Hospital,San Bernardino,34.10056,-117.63828,2015,189,0,9,114,38,0,0,11,0,11,5,1
+San Antonio Regional Hospital,San Bernardino,34.10056,-117.63828,2016,282,0,14,148,46,0,2,27,3,18,14,10
+San Antonio Regional Hospital,San Bernardino,34.10056,-117.63828,2017,254,0,14,122,55,0,2,17,0,21,17,6
+San Dimas Community Hospital,Los Angeles,34.09922,-117.83218,2013,15,0,0,3,11,0,0,0,0,0,1,0
+San Dimas Community Hospital,Los Angeles,34.09922,-117.83218,2014,11,0,0,0,8,0,0,1,0,0,2,0
+San Dimas Community Hospital,Los Angeles,34.09922,-117.83218,2015,13,0,0,3,10,0,0,0,0,0,0,0
+San Dimas Community Hospital,Los Angeles,34.09922,-117.83218,2016,32,0,0,16,12,0,0,0,0,0,4,0
+San Dimas Community Hospital,Los Angeles,34.09922,-117.83218,2017,44,0,0,30,10,0,0,0,0,1,2,1
+San Francisco General Hospital,San Francisco,37.75657,-122.40637,2013,191,3,9,95,35,0,1,18,2,9,10,9
+San Francisco General Hospital,San Francisco,37.75657,-122.40637,2014,116,1,5,53,25,1,0,10,3,6,9,3
+San Francisco General Hospital,San Francisco,37.75657,-122.40637,2015,80,0,6,44,20,0,0,5,2,0,2,1
+San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503,2013,106,0,8,62,20,0,0,1,0,0,9,6
+San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503,2014,71,0,2,46,17,0,0,1,0,0,3,2
+San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503,2015,52,0,4,35,9,0,0,0,0,0,4,0
+San Gabriel Valley Medical Center,Los Angeles,34.1024,-118.10503,2016,83,0,2,54,12,0,1,2,0,0,9,3
+San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678,2013,19,0,0,11,8,0,0,0,0,0,0,0
+San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678,2014,17,0,0,11,5,0,0,0,0,0,1,0
+San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678,2015,15,0,0,13,2,0,0,0,0,0,0,0
+San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678,2016,24,0,0,16,6,0,0,0,0,0,2,0
+San Gorgonio Memorial Hospital,Riverside,33.9295,-116.94678,2017,16,0,0,10,5,0,0,0,0,0,1,0
+San Joaquin Community Hospital,Kern,35.383064,-119.018775,2013,184,1,13,93,48,0,0,6,2,13,6,2
+San Joaquin Community Hospital,Kern,35.383064,-119.018775,2014,196,2,15,66,63,0,0,6,0,23,16,5
+San Joaquin Community Hospital,Kern,35.383064,-119.018775,2015,147,0,7,78,31,0,1,5,0,16,5,4
+San Joaquin Community Hospital,Kern,35.383064,-119.018775,2016,252,0,6,170,45,0,2,11,1,7,10,0
+San Joaquin Community Hospital,Kern,35.383064,-119.018775,2017,262,0,12,160,42,0,1,7,1,25,11,3
+San Joaquin General Hospital,San Joaquin,37.88594,-121.28918,2013,63,2,0,29,21,0,1,2,2,2,3,1
+San Joaquin General Hospital,San Joaquin,37.88594,-121.28918,2014,54,0,0,26,15,0,0,2,0,0,6,5
+San Joaquin General Hospital,San Joaquin,37.88594,-121.28918,2015,30,2,1,13,7,0,2,1,1,0,3,0
+San Joaquin General Hospital,San Joaquin,37.88594,-121.28918,2016,49,2,3,26,11,0,0,1,1,1,2,2
+San Joaquin General Hospital,San Joaquin,37.88594,-121.28918,2017,49,0,2,22,13,0,1,0,2,2,7,0
+San Leandro Hospital,Alameda,37.71364,-122.14067,2013,29,0,0,20,8,0,0,0,0,0,1,0
+San Leandro Hospital,Alameda,37.71364,-122.14067,2014,24,0,0,21,3,0,0,0,0,0,0,0
+San Leandro Hospital,Alameda,37.71364,-122.14067,2015,28,0,0,24,4,0,0,0,0,0,0,0
+San Leandro Hospital,Alameda,37.71364,-122.14067,2016,25,0,0,12,8,0,1,0,0,0,2,2
+San Leandro Hospital,Alameda,37.71364,-122.14067,2017,20,0,0,12,4,0,1,0,0,0,3,0
+San Mateo Medical Center,San Mateo,37.53017,-122.29951,2013,57,0,2,40,7,1,0,2,3,0,0,2
+San Mateo Medical Center,San Mateo,37.53017,-122.29951,2014,85,0,0,70,9,1,0,1,0,0,2,2
+San Mateo Medical Center,San Mateo,37.53017,-122.29951,2015,38,0,0,33,5,0,0,0,0,0,0,0
+San Mateo Medical Center,San Mateo,37.53017,-122.29951,2016,75,0,1,55,14,0,0,0,1,0,3,1
+San Mateo Medical Center,San Mateo,37.53017,-122.29951,2017,69,0,1,51,9,0,1,1,1,0,2,3
+San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076,2013,147,0,0,104,19,0,1,3,0,16,4,0
+San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076,2014,130,2,0,75,17,0,0,11,0,23,2,0
+San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076,2015,81,0,0,52,14,0,0,2,0,10,3,0
+San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076,2016,101,0,0,65,18,0,0,5,0,5,6,2
+San Ramon Regional Medical Center,Contra Costa,37.77713,-121.96076,2017,131,0,0,95,24,0,0,3,0,5,4,0
+Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318,2013,290,2,13,148,38,1,4,42,7,7,25,3
+Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318,2014,311,2,17,180,48,1,7,34,7,4,9,2
+Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318,2015,235,1,25,102,42,4,4,25,2,17,11,2
+Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318,2016,251,3,29,87,53,1,4,27,6,24,13,4
+Santa Barbara Cottage Hospital,Santa Barbara,34.42943,-119.72318,2017,228,2,33,62,39,0,4,26,5,37,17,3
+Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202,2013,225,1,13,135,37,0,1,14,2,13,7,2
+Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202,2014,227,3,21,132,30,0,3,12,0,9,13,4
+Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202,2015,167,1,12,94,28,0,3,11,1,7,5,5
+Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202,2016,304,13,14,167,31,4,10,17,2,27,12,7
+Santa Clara Valley Medical Center,Santa Clara,37.31346,-121.93202,2017,267,9,17,126,46,2,5,10,4,23,18,7
+Santa Monica – UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623,2013,219,8,1,119,20,0,0,1,1,54,7,8
+Santa Monica – UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623,2014,270,5,5,146,31,0,1,0,0,66,4,12
+Santa Monica – UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623,2015,180,5,0,110,19,0,0,0,1,38,2,5
+Santa Monica – UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623,2016,353,11,8,248,25,2,0,11,1,34,9,4
+Santa Monica – UCLA Medical Center and Orthopedic Hospital,Los Angeles,34.02755,-118.48623,2017,466,19,11,338,22,0,0,7,0,52,13,4
+Santa Rosa Memorial Hospital – Montgomery,Sonoma,38.44304,-122.70114,2013,212,0,8,142,31,2,1,21,0,3,1,3
+Santa Rosa Memorial Hospital – Montgomery,Sonoma,38.44304,-122.70114,2014,157,0,5,105,24,0,0,18,1,1,3,0
+Santa Rosa Memorial Hospital – Montgomery,Sonoma,38.44304,-122.70114,2015,123,0,4,93,16,0,1,6,0,0,2,1
+Santa Rosa Memorial Hospital – Montgomery,Sonoma,38.44304,-122.70114,2016,150,0,16,109,13,0,2,3,1,0,6,0
+Santa Rosa Memorial Hospital – Montgomery,Sonoma,38.44304,-122.70114,2017,192,0,18,144,11,0,0,3,0,14,2,0
+Scripps Green Hospital,San Diego,32.89654,-117.2419,2013,469,0,11,302,51,2,12,25,5,40,14,7
+Scripps Green Hospital,San Diego,32.89654,-117.2419,2014,468,0,8,319,57,1,10,26,3,31,11,2
+Scripps Green Hospital,San Diego,32.89654,-117.2419,2015,327,2,13,209,45,1,7,15,6,15,11,3
+Scripps Green Hospital,San Diego,32.89654,-117.2419,2016,472,7,16,286,58,2,20,7,8,42,22,4
+Scripps Green Hospital,San Diego,32.89654,-117.2419,2017,333,5,14,151,47,4,21,0,14,48,25,4
+Scripps Memorial Hospital – Encinitas,San Diego,33.0363,-117.28495,2013,150,1,8,103,30,0,1,0,0,3,3,1
+Scripps Memorial Hospital – Encinitas,San Diego,33.0363,-117.28495,2014,161,0,8,114,32,0,1,0,1,1,3,1
+Scripps Memorial Hospital – Encinitas,San Diego,33.0363,-117.28495,2015,126,0,5,89,29,0,0,0,0,1,2,0
+Scripps Memorial Hospital – Encinitas,San Diego,33.0363,-117.28495,2016,158,0,11,94,39,0,1,6,0,2,5,0
+Scripps Memorial Hospital – Encinitas,San Diego,33.0363,-117.28495,2017,136,0,7,62,26,0,4,15,1,3,16,2
+Scripps Memorial Hospital – La Jolla,San Diego,32.88506,-117.22279,2013,307,0,24,193,45,2,2,16,0,2,19,4
+Scripps Memorial Hospital – La Jolla,San Diego,32.88506,-117.22279,2014,361,1,19,247,38,4,7,17,1,3,17,7
+Scripps Memorial Hospital – La Jolla,San Diego,32.88506,-117.22279,2015,270,0,9,201,27,0,3,11,0,3,14,2
+Scripps Memorial Hospital – La Jolla,San Diego,32.88506,-117.22279,2016,440,0,19,334,39,0,2,23,2,4,15,2
+Scripps Memorial Hospital – La Jolla,San Diego,32.88506,-117.22279,2017,433,0,28,296,42,0,2,31,1,9,22,2
+Scripps Mercy Hospital,San Diego,32.75128,-117.1609,2013,492,31,6,160,91,1,5,22,2,125,39,10
+Scripps Mercy Hospital,San Diego,32.75128,-117.1609,2014,531,24,9,181,112,0,5,30,2,123,38,7
+Scripps Mercy Hospital,San Diego,32.75128,-117.1609,2015,424,16,6,152,76,1,4,25,4,95,37,8
+Scripps Mercy Hospital,San Diego,32.75128,-117.1609,2016,529,22,4,169,92,1,9,18,1,153,51,9
+Scripps Mercy Hospital,San Diego,32.75128,-117.1609,2017,462,17,14,138,87,1,6,18,5,135,35,6
+Seneca Healthcare District,Plumas,40.30518,-121.23421,2013,1,0,0,1,0,0,0,0,0,0,0,0
+Seneca Healthcare District,Plumas,40.30518,-121.23421,2014,1,0,0,1,0,0,0,0,0,0,0,0
+Sequoia Hospital,San Mateo,37.48129,-122.25377,2013,115,3,0,51,19,0,1,12,1,19,7,2
+Sequoia Hospital,San Mateo,37.48129,-122.25377,2014,84,2,0,31,14,0,2,6,0,23,5,1
+Sequoia Hospital,San Mateo,37.48129,-122.25377,2015,62,0,1,25,9,0,0,4,0,19,4,0
+Sequoia Hospital,San Mateo,37.48129,-122.25377,2016,83,0,0,33,16,1,1,4,0,25,2,1
+Sequoia Hospital,San Mateo,37.48129,-122.25377,2017,92,0,5,17,31,0,2,3,0,26,8,0
+Seton Medical Center,San Mateo,37.68172,-122.47283,2013,78,1,2,50,12,0,0,7,0,0,3,3
+Seton Medical Center,San Mateo,37.68172,-122.47283,2014,65,2,1,45,12,0,0,1,0,0,3,1
+Seton Medical Center,San Mateo,37.68172,-122.47283,2015,37,1,0,17,9,0,0,4,0,0,3,3
+Seton Medical Center,San Mateo,37.68172,-122.47283,2016,59,1,1,31,10,0,1,3,1,1,5,5
+Seton Medical Center,San Mateo,37.68172,-122.47283,2017,44,0,0,19,12,0,0,2,0,1,4,6
+Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488,2013,246,1,7,160,31,0,0,14,0,19,8,6
+Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488,2014,233,0,13,158,32,2,0,12,0,2,10,4
+Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488,2015,179,0,4,129,21,2,1,9,0,0,8,5
+Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488,2016,295,0,19,163,57,2,1,10,6,4,29,4
+Sharp Chula Vista Medical Center,San Diego,32.61909,-117.02488,2017,282,0,11,170,45,3,3,7,3,2,27,11
+Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808,2013,7,0,0,0,2,0,0,4,0,0,1,0
+Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808,2014,7,0,0,2,3,0,0,1,0,0,0,1
+Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808,2015,7,0,0,3,1,0,0,2,0,0,1,0
+Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808,2016,8,0,0,1,5,0,0,2,0,0,0,0
+Sharp Coronado Hospital and Healthcare Center,San Diego,32.69427,-117.16808,2017,17,0,0,3,6,0,0,1,0,0,7,0
+Sharp Memorial Hospital,San Diego,32.80016,-117.15531,2013,642,8,19,372,99,2,13,32,5,49,30,13
+Sharp Memorial Hospital,San Diego,32.80016,-117.15531,2014,685,10,32,404,79,2,19,40,7,59,28,5
+Sharp Memorial Hospital,San Diego,32.80016,-117.15531,2015,533,6,24,332,65,0,3,27,5,40,24,7
+Sharp Memorial Hospital,San Diego,32.80016,-117.15531,2016,757,6,33,461,93,3,17,28,6,64,38,8
+Sharp Memorial Hospital,San Diego,32.80016,-117.15531,2017,808,8,31,506,99,4,18,27,8,71,32,4
+Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952,2013,25,0,0,0,16,1,0,6,0,0,1,1
+Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952,2014,38,0,0,3,21,0,0,10,0,0,2,2
+Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952,2015,37,0,0,2,16,0,0,18,0,0,1,0
+Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952,2016,30,0,0,1,20,0,0,2,0,2,4,1
+Shasta Regional Medical Center,Shasta,40.5855423,-122.3862952,2017,24,0,0,0,10,0,1,9,1,0,2,1
+Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488,2013,2,0,0,0,1,0,0,0,0,0,0,1
+Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488,2014,5,0,0,2,2,0,0,0,0,0,1,0
+Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488,2015,2,0,0,0,2,0,0,0,0,0,0,0
+Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488,2016,6,0,0,0,4,0,1,0,0,0,1,0
+Sherman Oaks Hospital,Los Angeles,34.15995,-118.4488,2017,7,0,0,0,6,0,0,0,0,0,1,0
+Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748,2013,63,0,0,34,18,0,1,3,0,4,3,0
+Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748,2014,69,0,0,47,12,0,0,4,0,1,5,0
+Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748,2015,62,0,0,51,7,0,0,1,0,2,1,0
+Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748,2016,85,0,0,63,13,0,0,1,0,1,7,0
+Sierra Nevada Memorial Hospital,Nevada,39.22932,-121.04748,2017,81,0,0,56,15,0,1,1,0,1,7,0
+Sierra View Medical Center,Tulare,36.06948,-119.02727,2013,33,0,0,25,6,0,0,0,0,0,1,1
+Sierra View Medical Center,Tulare,36.06948,-119.02727,2014,44,0,0,24,16,0,0,0,0,0,4,0
+Sierra View Medical Center,Tulare,36.06948,-119.02727,2015,32,0,0,16,13,0,0,0,0,0,3,0
+Sierra View Medical Center,Tulare,36.06948,-119.02727,2016,45,0,0,27,16,0,1,0,0,0,1,0
+Sierra View Medical Center,Tulare,36.06948,-119.02727,2017,54,0,0,42,10,0,0,0,0,0,2,0
+Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576,2013,108,1,29,29,15,3,0,12,0,14,5,0
+Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576,2014,87,0,22,25,11,0,0,7,1,19,1,1
+Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576,2015,94,0,13,22,16,1,0,12,2,24,3,1
+Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576,2016,125,0,20,23,14,2,2,13,3,42,6,0
+Sierra Vista Regional Medical Center,San Luis Obispo,35.29105,-120.66576,2017,115,0,22,30,19,0,1,9,3,27,4,0
+Silver Lake Medical Center – Downtown Campus,Los Angeles,34.06879,-118.26324,2013,3,0,0,0,3,0,0,0,0,0,0,0
+Silver Lake Medical Center – Downtown Campus,Los Angeles,34.06879,-118.26324,2014,4,0,0,1,3,0,0,0,0,0,0,0
+Silver Lake Medical Center – Downtown Campus,Los Angeles,34.06879,-118.26324,2015,2,0,0,1,0,0,0,0,0,0,1,0
+Silver Lake Medical Center – Downtown Campus,Los Angeles,34.06879,-118.26324,2016,5,0,0,2,1,0,0,0,1,0,1,0
+Silver Lake Medical Center – Downtown Campus,Los Angeles,34.06879,-118.26324,2017,4,0,0,2,1,0,0,0,0,1,0,0
+Simi Valley Hospital and Healthcare Services – Sycamore,Ventura,34.28945,-118.74405,2013,55,3,1,25,20,0,3,0,0,3,0,0
+Simi Valley Hospital and Healthcare Services – Sycamore,Ventura,34.28945,-118.74405,2014,28,1,0,13,11,0,0,1,0,0,2,0
+Simi Valley Hospital and Healthcare Services – Sycamore,Ventura,34.28945,-118.74405,2015,23,0,2,17,3,0,0,0,0,0,0,1
+Simi Valley Hospital and Healthcare Services – Sycamore,Ventura,34.28945,-118.74405,2016,33,2,3,7,11,0,1,0,1,0,7,1
+Simi Valley Hospital and Healthcare Services – Sycamore,Ventura,34.28945,-118.74405,2017,28,0,3,6,14,0,1,0,1,0,3,0
+Sonoma Valley Hospital,Sonoma,38.28841,-122.46524,2013,24,0,0,17,7,0,0,0,0,0,0,0
+Sonoma Valley Hospital,Sonoma,38.28841,-122.46524,2014,15,0,0,8,7,0,0,0,0,0,0,0
+Sonoma Valley Hospital,Sonoma,38.28841,-122.46524,2015,5,0,0,2,2,0,0,0,0,0,1,0
+Sonoma Valley Hospital,Sonoma,38.28841,-122.46524,2016,6,0,0,0,5,0,0,0,0,0,1,0
+Sonoma Valley Hospital,Sonoma,38.28841,-122.46524,2017,6,0,0,0,5,0,0,0,0,0,1,0
+Sonora Regional Medical Center – Greenley,Tuolumne,37.98811,-120.36965,2013,63,0,0,48,13,0,0,0,0,0,2,0
+Sonora Regional Medical Center – Greenley,Tuolumne,37.98811,-120.36965,2014,50,1,0,36,12,0,0,0,0,0,1,0
+Sonora Regional Medical Center – Greenley,Tuolumne,37.98811,-120.36965,2015,30,0,0,25,4,0,0,0,0,0,1,0
+Sonora Regional Medical Center – Greenley,Tuolumne,37.98811,-120.36965,2016,62,0,0,41,12,0,2,0,1,0,6,0
+Sonora Regional Medical Center – Greenley,Tuolumne,37.98811,-120.36965,2017,77,0,0,69,6,0,0,0,0,0,2,0
+South Coast Global Medical Center,Orange,33.71112,-117.88539,2015,27,0,0,20,4,0,0,0,0,1,1,1
+South Coast Global Medical Center,Orange,33.71112,-117.88539,2016,39,2,0,31,2,0,0,0,0,4,0,0
+South Coast Global Medical Center,Orange,33.71112,-117.88539,2017,37,0,0,27,3,0,0,0,0,6,1,0
+Southern California Hospital At Culver City,Los Angeles,34.02328,-118.39724,2013,25,0,1,7,9,0,0,6,0,0,0,2
+Southern California Hospital At Culver City,Los Angeles,34.02328,-118.39724,2014,28,0,0,5,15,0,0,2,0,1,3,2
+Southern California Hospital at Culver City,Los Angeles,34.02328,-118.39724,2015,24,1,0,9,10,0,0,2,0,0,1,1
+Southern California Hospital at Culver City,Los Angeles,34.02328,-118.39724,2016,25,0,0,5,11,0,0,3,0,0,2,4
+Southern California Hospital at Culver City,Los Angeles,34.02328,-118.39724,2017,52,0,0,26,7,0,0,3,1,6,5,4
+Southern California Hospital at Hollywood,Los Angeles,34.09628,-118.32501,2013,2,0,0,2,0,0,0,0,0,0,0,0
+Southern California Hospital at Hollywood,Los Angeles,34.09628,-118.32501,2014,1,0,0,1,0,0,0,0,0,0,0,0
+Southern California Hospital at Hollywood,Los Angeles,34.09628,-118.32501,2015,5,0,0,1,1,0,0,0,0,2,0,1
+Southern California Hospital at Hollywood,Los Angeles,34.09628,-118.32501,2016,7,1,0,0,0,0,1,0,1,3,1,0
+Southern California Hospital at Hollywood,Los Angeles,34.09628,-118.32501,2017,12,0,0,0,4,0,0,0,0,4,4,0
+Southwest Healthcare System – Murrieta,Riverside,33.55788,-117.18488,2013,145,1,9,77,27,0,0,0,0,13,15,3
+Southwest Healthcare System – Murrieta,Riverside,33.55788,-117.18488,2014,162,5,24,54,33,1,0,0,2,30,13,0
+Southwest Healthcare System – Murrieta,Riverside,33.55788,-117.18488,2015,111,0,11,44,19,0,0,0,1,19,15,2
+Southwest Healthcare System – Murrieta,Riverside,33.55788,-117.18488,2016,154,1,16,58,33,1,1,0,0,25,16,3
+Southwest Healthcare System – Murrieta,Riverside,33.55788,-117.18488,2017,206,2,25,82,32,1,1,0,0,48,14,1
+Stanford Health Care,Santa Clara,37.43342,-122.17827,2016,1668,71,128,616,113,39,127,125,100,188,112,49
+Stanford Health Care,Santa Clara,37.43342,-122.17827,2017,1587,74,101,561,99,48,137,131,73,215,103,45
+Stanford Hospital,Santa Clara,37.43342,-122.17827,2013,1240,71,124,389,83,13,109,97,70,175,74,35
+Stanford Hospital,Santa Clara,37.43342,-122.17827,2014,1378,69,121,525,90,14,129,94,57,168,63,48
+Stanford Hospital,Santa Clara,37.43342,-122.17827,2015,1120,53,98,408,70,20,89,67,56,148,64,47
+Stanislaus Surgical Hospital,Stanislaus,37.66395,-120.95756,2013,12,0,0,12,0,0,0,0,0,0,0,0
+Stanislaus Surgical Hospital,Stanislaus,37.66395,-120.95756,2014,6,0,0,6,0,0,0,0,0,0,0,0
+Stanislaus Surgical Hospital,Stanislaus,37.66395,-120.95756,2015,13,0,0,12,1,0,0,0,0,0,0,0
+Stanislaus Surgical Hospital,Stanislaus,37.66395,-120.95756,2016,8,0,0,7,0,0,0,0,0,0,1,0
+Stanislaus Surgical Hospital,Stanislaus,37.66395,-120.95756,2017,6,0,0,6,0,0,0,0,0,0,0,0
+Sutter Amador Hospital,Amador,38.34743,-120.77272,2013,10,0,0,3,7,0,0,0,0,0,0,0
+Sutter Amador Hospital,Amador,38.34743,-120.77272,2014,11,0,0,3,6,0,0,0,0,0,2,0
+Sutter Amador Hospital,Amador,38.34743,-120.77272,2015,8,0,0,3,3,0,0,0,0,0,2,0
+Sutter Amador Hospital,Amador,38.34743,-120.77272,2016,10,0,0,4,5,0,0,0,0,0,1,0
+Sutter Amador Hospital,Amador,38.34743,-120.77272,2017,13,0,0,2,11,0,0,0,0,0,0,0
+Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982,2013,83,1,0,59,21,0,0,1,0,0,1,0
+Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982,2014,56,0,0,36,17,0,0,0,0,0,2,1
+Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982,2015,52,1,0,40,9,0,0,1,0,1,0,0
+Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982,2016,81,0,0,47,26,0,2,1,1,0,3,1
+Sutter Auburn Faith Hospital,Placer,38.94452,-121.0982,2017,69,1,0,52,10,0,2,1,0,0,2,1
+Sutter Coast Hospital,Del Norte,41.77278,-124.19514,2013,22,0,0,18,4,0,0,0,0,0,0,0
+Sutter Coast Hospital,Del Norte,41.77278,-124.19514,2014,10,0,0,6,4,0,0,0,0,0,0,0
+Sutter Coast Hospital,Del Norte,41.77278,-124.19514,2015,16,0,0,10,3,0,0,0,0,0,3,0
+Sutter Coast Hospital,Del Norte,41.77278,-124.19514,2016,18,0,0,10,6,0,0,0,0,0,2,0
+Sutter Coast Hospital,Del Norte,41.77278,-124.19514,2017,19,0,0,13,6,0,0,0,0,0,0,0
+Sutter Davis Hospital,Yolo,38.56154,-121.77244,2013,33,0,0,24,8,0,0,0,0,0,1,0
+Sutter Davis Hospital,Yolo,38.56154,-121.77244,2014,25,0,0,17,2,1,0,2,0,0,1,2
+Sutter Davis Hospital,Yolo,38.56154,-121.77244,2015,22,0,0,15,7,0,0,0,0,0,0,0
+Sutter Davis Hospital,Yolo,38.56154,-121.77244,2016,33,1,0,28,3,0,0,0,0,1,0,0
+Sutter Davis Hospital,Yolo,38.56154,-121.77244,2017,21,0,0,16,2,0,0,0,0,2,1,0
+Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054,2013,47,1,0,33,9,0,0,0,0,3,0,1
+Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054,2014,50,1,0,37,7,0,0,4,0,1,0,0
+Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054,2015,36,0,0,25,8,0,0,2,0,1,0,0
+Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054,2016,41,1,0,26,7,0,0,1,0,4,1,1
+Sutter Delta Medical Center,Contra Costa,37.98222,-121.8054,2017,38,0,0,28,7,0,0,0,0,2,1,0
+Sutter General Hospital,Sacramento,38.57176,-121.47008,2013,579,0,30,335,60,5,9,24,13,81,11,11
+Sutter General Hospital,Sacramento,38.57176,-121.47008,2014,521,0,34,308,60,4,14,13,10,56,13,9
+Sutter Lakeside Hospital,Lake,39.10232,-122.91003,2013,17,0,0,8,9,0,0,0,0,0,0,0
+Sutter Lakeside Hospital,Lake,39.10232,-122.91003,2014,10,0,0,1,9,0,0,0,0,0,0,0
+Sutter Lakeside Hospital,Lake,39.10232,-122.91003,2015,10,0,0,4,4,0,0,2,0,0,0,0
+Sutter Lakeside Hospital,Lake,39.10232,-122.91003,2016,11,0,0,1,5,0,0,4,0,0,1,0
+Sutter Lakeside Hospital,Lake,39.10232,-122.91003,2017,7,0,0,0,4,0,0,1,0,0,2,0
+Sutter Medical Center of Santa Rosa,Sonoma,38.46855,-122.70739,2013,107,1,0,84,12,0,0,7,0,0,2,1
+Sutter Medical Center of Santa Rosa,Sonoma,38.46855,-122.70739,2014,100,1,0,72,19,0,0,7,0,0,0,1
+"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008,2015,486,0,22,296,45,3,1,13,12,75,10,9
+"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008,2016,619,1,41,285,50,12,12,32,11,136,26,13
+"Sutter Medical Center, Sacramento",Sacramento,38.57176,-121.47008,2017,605,3,38,296,47,10,8,31,7,137,22,6
+Sutter Memorial Hospital,Sacramento,38.57071,-121.43948,2013,26,0,13,5,3,0,0,5,0,0,0,0
+Sutter Memorial Hospital,Sacramento,38.57071,-121.43948,2014,34,0,20,0,4,0,0,10,0,0,0,0
+Sutter Memorial Hospital,Sacramento,38.57071,-121.43948,2015,15,0,11,0,2,0,0,2,0,0,0,0
+Sutter Roseville Medical Center,Placer,38.76439,-121.25055,2013,365,5,11,208,55,2,0,18,3,44,16,3
+Sutter Roseville Medical Center,Placer,38.76439,-121.25055,2014,366,3,14,200,43,1,0,26,3,62,13,1
+Sutter Roseville Medical Center,Placer,38.76439,-121.25055,2015,289,1,12,159,23,1,1,42,0,42,7,1
+Sutter Roseville Medical Center,Placer,38.76439,-121.25055,2016,350,4,10,186,32,2,2,35,3,48,24,4
+Sutter Roseville Medical Center,Placer,38.76439,-121.25055,2017,373,1,19,163,46,0,2,50,2,72,17,1
+Sutter Santa Rosa Regional Hospital,Sonoma,38.49636,-122.7514,2014,26,0,0,19,5,0,0,1,0,0,1,0
+Sutter Santa Rosa Regional Hospital,Sonoma,38.49636,-122.7514,2015,93,0,0,69,14,0,1,5,0,0,4,0
+Sutter Santa Rosa Regional Hospital,Sonoma,38.49636,-122.7514,2016,156,0,0,103,40,3,1,1,1,0,5,2
+Sutter Santa Rosa Regional Hospital,Sonoma,38.49636,-122.7514,2017,113,0,0,76,19,3,0,3,0,0,11,1
+Sutter Solano Medical Center,Solano,38.13117,-122.23912,2013,88,0,0,58,19,0,0,4,0,0,5,2
+Sutter Solano Medical Center,Solano,38.13117,-122.23912,2014,74,1,0,46,16,0,0,2,0,0,7,2
+Sutter Solano Medical Center,Solano,38.13117,-122.23912,2015,62,0,0,48,10,0,0,2,0,0,2,0
+Sutter Solano Medical Center,Solano,38.13117,-122.23912,2016,95,1,0,59,18,0,0,2,0,2,12,1
+Sutter Solano Medical Center,Solano,38.13117,-122.23912,2017,89,0,0,52,21,0,0,1,0,2,12,1
+Sutter Surgical Hospital – North Valley,Sutter,39.13216,-121.61354,2013,75,0,0,68,5,0,0,0,0,0,1,1
+Sutter Surgical Hospital – North Valley,Sutter,39.13216,-121.61354,2014,77,0,0,65,8,0,1,0,0,0,3,0
+Sutter Surgical Hospital – North Valley,Sutter,39.13216,-121.61354,2015,91,0,0,85,5,0,0,0,0,0,1,0
+Sutter Surgical Hospital – North Valley,Sutter,39.13216,-121.61354,2016,120,0,0,100,15,0,0,0,0,0,5,0
+Sutter Surgical Hospital – North Valley,Sutter,39.13216,-121.61354,2017,90,0,0,82,6,0,0,0,0,0,2,0
+Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482,2013,26,0,0,21,4,0,0,0,0,0,1,0
+Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482,2014,32,0,0,28,4,0,0,0,0,0,0,0
+Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482,2015,19,0,0,14,4,0,0,0,0,0,1,0
+Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482,2016,43,0,0,38,4,0,0,0,0,1,0,0
+Sutter Tracy Community Hospital,San Joaquin,37.74366,-121.43482,2017,34,0,0,20,11,0,0,0,0,0,3,0
+Tahoe Forest Hospital,Nevada,39.3245579,-120.2014553,2013,24,0,0,20,4,0,0,0,0,0,0,0
+Tahoe Forest Hospital,Nevada,39.3245579,-120.2014553,2014,25,0,0,18,6,0,0,0,0,0,1,0
+Tahoe Forest Hospital,Nevada,39.3245579,-120.2014553,2015,21,0,0,15,6,0,0,0,0,0,0,0
+Tahoe Forest Hospital,Nevada,39.3245579,-120.2014553,2016,24,0,0,18,4,0,0,0,0,1,1,0
+Tahoe Forest Hospital,Nevada,39.3245579,-120.2014553,2017,38,0,0,26,8,0,0,0,0,3,0,1
+Temecula Valley Hospital,Riverside,33.4795943,-117.1048018,2013,2,0,0,0,1,0,0,0,0,0,1,0
+Temecula Valley Hospital,Riverside,33.4795943,-117.1048018,2014,16,0,0,10,3,0,0,1,1,0,1,0
+Temecula Valley Hospital,Riverside,33.4795943,-117.1048018,2015,31,0,0,16,8,0,0,4,0,0,1,2
+Temecula Valley Hospital,Riverside,33.4795943,-117.1048018,2016,65,0,0,38,13,0,1,6,1,0,4,2
+Temecula Valley Hospital,Riverside,33.4795943,-117.1048018,2017,95,0,0,62,13,0,2,7,0,1,6,4
+Temple Community Hospital,Los Angeles,34.07534,-118.28366,2013,5,0,0,1,2,0,0,0,0,0,1,1
+Temple Community Hospital,Los Angeles,34.07534,-118.28366,2014,4,0,0,2,2,0,0,0,0,0,0,0
+Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388,2013,527,7,3,286,81,12,2,37,0,63,23,13
+Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388,2014,339,17,6,69,84,5,3,50,1,74,24,6
+Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388,2015,293,13,7,77,70,6,4,32,4,52,21,7
+Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388,2016,548,13,21,279,59,5,8,48,9,67,29,10
+Torrance Memorial Medical Center,Los Angeles,33.81258,-118.34388,2017,639,4,13,347,96,5,7,47,8,68,38,6
+Tri-City Medical Center – Oceanside,San Diego,33.18394,-117.29027,2013,185,2,2,91,32,0,1,11,1,33,9,3
+Tri-City Medical Center – Oceanside,San Diego,33.18394,-117.29027,2014,159,4,7,70,34,0,0,8,1,21,12,2
+Tri-City Medical Center – Oceanside,San Diego,33.18394,-117.29027,2015,130,4,3,53,30,0,0,11,3,15,9,2
+Tri-City Medical Center – Oceanside,San Diego,33.18394,-117.29027,2016,206,2,16,89,37,0,1,7,2,34,14,4
+Tri-City Medical Center – Oceanside,San Diego,33.18394,-117.29027,2017,190,1,5,89,34,0,0,9,1,34,17,0
+Trinity Hospital,Trinity,40.73784,-122.94037,2013,4,0,0,4,0,0,0,0,0,0,0,0
+Trinity Hospital,Trinity,40.73784,-122.94037,2014,2,0,0,1,1,0,0,0,0,0,0,0
+Trinity Hospital,Trinity,40.73784,-122.94037,2016,1,0,0,1,0,0,0,0,0,0,0,0
+Tulare Regional Medical Center,Tulare,36.22217,-119.33775,2013,13,0,0,3,6,0,1,0,0,1,2,0
+Tulare Regional Medical Center,Tulare,36.22217,-119.33775,2014,17,0,0,11,4,0,0,0,0,0,2,0
+Tulare Regional Medical Center,Tulare,36.22217,-119.33775,2015,17,0,0,9,7,0,0,0,0,0,1,0
+Tulare Regional Medical Center,Tulare,36.22217,-119.33775,2016,27,0,0,19,5,0,1,0,0,0,2,0
+Tulare Regional Medical Center,Tulare,36.22217,-119.33775,2017,3,0,0,2,1,0,0,0,0,0,0,0
+Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967,2013,69,0,0,42,18,0,0,0,0,7,2,0
+Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967,2014,84,0,0,58,11,0,0,0,0,11,4,0
+Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967,2015,26,0,0,22,2,0,0,0,0,2,0,0
+Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967,2016,54,0,0,26,13,0,0,0,0,9,6,0
+Twin Cities Community Hospital,San Luis Obispo,35.5543,-120.71967,2017,57,0,0,35,11,0,1,0,0,6,4,0
+UC Davis Medical Center,Sacramento,38.55438,-121.45738,2013,531,27,37,222,27,12,16,63,20,85,16,6
+UC Davis Medical Center,Sacramento,38.55438,-121.45738,2014,499,28,45,202,23,15,15,50,22,75,16,8
+UC Davis Medical Center,Sacramento,38.55438,-121.45738,2015,375,24,34,162,31,12,5,47,14,31,8,7
+UC Davis Medical Center,Sacramento,38.55438,-121.45738,2016,558,33,46,222,48,15,16,63,20,57,27,11
+UC Davis Medical Center,Sacramento,38.55438,-121.45738,2017,538,37,59,205,37,7,16,54,27,62,31,3
+UC Irvine Medical Center,Orange,33.7889,-117.89064,2013,420,9,64,107,51,12,24,9,47,44,38,15
+UC Irvine Medical Center,Orange,33.7889,-117.89064,2014,480,2,94,146,48,8,17,19,42,43,37,24
+UC Irvine Medical Center,Orange,33.7889,-117.89064,2015,375,8,60,106,42,5,15,17,18,47,39,18
+UC Irvine Medical Center,Orange,33.7889,-117.89064,2016,572,15,107,155,80,5,33,26,32,49,52,18
+UC Irvine Medical Center,Orange,33.7889,-117.89064,2017,567,21,108,144,57,6,19,32,42,59,58,21
+UC San Diego Health System – Hillcrest Medical Center,San Diego,32.75387,-117.16498,2013,644,10,83,242,85,10,40,24,24,86,28,12
+UC San Diego Health System – Hillcrest Medical Center,San Diego,32.75387,-117.16498,2014,765,18,86,310,76,13,49,46,24,89,39,15
+UC San Diego Health System – Hillcrest Medical Center,San Diego,32.75387,-117.16498,2015,621,15,46,265,64,9,44,25,18,75,51,9
+UC San Diego Health System – Hillcrest Medical Center,San Diego,32.75387,-117.16498,2016,888,32,79,315,83,12,83,54,29,129,57,15
+UC San Diego Health System – Hillcrest Medical Center,San Diego,32.75387,-117.16498,2017,1006,34,69,381,108,19,62,74,38,151,47,23
+UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564,2013,1256,47,321,285,47,13,93,59,31,272,68,20
+UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564,2014,1360,49,321,379,60,15,105,70,32,237,57,35
+UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564,2015,1175,44,259,327,54,11,82,66,39,232,43,18
+UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564,2016,1570,42,318,433,89,16,105,85,34,352,77,19
+UC San Francisco Medical Center,San Francisco,37.7635148,-122.4576564,2017,1760,61,354,459,108,28,152,97,57,313,100,31
+Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363,2013,113,0,0,103,7,0,0,2,0,0,1,0
+Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363,2014,108,0,0,94,9,0,0,3,0,0,2,0
+Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363,2015,83,0,0,75,3,0,0,1,0,0,4,0
+Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363,2016,118,0,0,100,10,0,0,2,0,0,6,0
+Ukiah Valley Medical Center,Mendocino,39.1528,-123.20363,2017,125,0,0,102,19,0,0,3,0,0,1,0
+University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152,2013,55,1,0,29,7,0,0,3,0,14,0,1
+University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152,2014,45,0,1,27,8,0,0,1,0,4,4,0
+University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152,2015,27,0,1,19,6,0,0,0,0,0,0,1
+University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152,2016,101,2,1,42,10,0,0,0,2,39,4,1
+University of Southern California Verdugo Hills Hospital,Los Angeles,34.20557,-118.2152,2017,184,3,0,52,7,0,0,0,1,117,4,0
+Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196,2013,104,3,3,53,18,0,4,6,2,1,8,6
+Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196,2014,129,2,1,86,16,0,6,1,5,0,10,2
+Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196,2015,132,1,0,106,9,0,2,2,4,0,3,5
+Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196,2016,201,0,3,134,20,0,10,3,8,1,14,8
+Valley Presbyterian Hospital,Los Angeles,34.19399,-118.46196,2017,210,2,2,154,21,0,6,2,3,2,11,7
+Valleycare Medical Center,Alameda,37.69206,-121.88095,2013,101,0,0,64,25,3,0,3,0,0,5,1
+Valleycare Medical Center,Alameda,37.69206,-121.88095,2014,105,0,0,65,25,1,0,9,0,0,3,2
+Valleycare Medical Center,Alameda,37.69206,-121.88095,2015,73,0,0,50,13,1,0,9,0,0,0,0
+Valleycare Medical Center,Alameda,37.69206,-121.88095,2016,117,1,0,80,21,0,1,4,0,2,6,2
+Valleycare Medical Center,Alameda,37.69206,-121.88095,2017,118,0,0,85,21,0,0,6,1,0,4,1
+Ventura County Medical Center,Ventura,34.27634,-119.2517,2013,131,0,2,86,12,0,2,10,3,7,9,0
+Ventura County Medical Center,Ventura,34.27634,-119.2517,2014,112,1,1,77,14,1,2,5,1,4,5,1
+Ventura County Medical Center,Ventura,34.27634,-119.2517,2015,110,0,3,67,17,0,1,3,2,6,9,2
+Ventura County Medical Center,Ventura,34.27634,-119.2517,2016,147,1,5,76,19,1,3,0,5,8,22,7
+Ventura County Medical Center,Ventura,34.27634,-119.2517,2017,116,0,4,59,12,2,8,0,4,14,10,3
+Vibra Hospital of San Diego,San Diego,32.74986,-117.16001,2017,1,0,0,0,0,0,0,0,0,0,1,0
+Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622,2013,66,0,0,49,11,0,0,0,0,0,5,1
+Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622,2014,44,0,0,29,14,0,0,0,0,0,1,0
+Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622,2015,26,0,0,11,13,0,0,0,0,0,2,0
+Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622,2016,44,0,0,28,14,0,0,0,0,0,2,0
+Victor Valley Global Medical Center,San Bernardino,34.5281768,-117.2925622,2017,49,0,0,33,11,0,0,0,0,0,5,0
+Washington Hospital – Fremont,Alameda,37.55847,-121.98006,2013,84,0,7,39,24,1,0,3,0,3,5,2
+Washington Hospital – Fremont,Alameda,37.55847,-121.98006,2014,100,2,8,34,34,2,0,10,0,3,6,1
+Washington Hospital – Fremont,Alameda,37.55847,-121.98006,2015,82,0,3,49,19,2,0,4,0,1,3,1
+Washington Hospital – Fremont,Alameda,37.55847,-121.98006,2016,117,0,12,37,41,2,1,7,1,5,9,2
+Washington Hospital – Fremont,Alameda,37.55847,-121.98006,2017,91,0,9,25,37,3,1,8,0,3,5,0
+Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173,2013,24,0,0,19,4,0,1,0,0,0,0,0
+Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173,2014,31,0,0,15,12,0,0,0,0,0,3,1
+Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173,2015,22,0,0,15,3,0,0,0,0,0,1,3
+Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173,2016,35,0,0,25,4,0,0,0,0,0,6,0
+Watsonville Community Hospital,Santa Cruz,36.92839,-121.79173,2017,35,0,0,23,9,0,0,0,0,1,1,1
+West Anaheim Medical Center,Orange,33.82482,-117.99492,2013,10,0,0,4,6,0,0,0,0,0,0,0
+West Anaheim Medical Center,Orange,33.82482,-117.99492,2014,9,0,0,0,7,0,0,0,0,0,0,2
+West Anaheim Medical Center,Orange,33.82482,-117.99492,2015,7,0,0,2,4,0,0,0,0,0,1,0
+West Anaheim Medical Center,Orange,33.82482,-117.99492,2016,7,0,0,0,6,0,0,0,0,0,1,0
+West Anaheim Medical Center,Orange,33.82482,-117.99492,2017,7,0,0,2,4,0,0,1,0,0,0,0
+West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294,2013,84,1,8,46,14,0,0,3,0,0,8,4
+West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294,2014,94,0,6,50,24,0,0,7,0,0,7,0
+West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294,2015,67,0,3,48,12,0,0,1,0,0,2,1
+West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294,2016,91,0,7,50,22,0,1,2,0,1,7,1
+West Hills Hospital and Medical Center,Los Angeles,34.20365,-118.6294,2017,92,0,14,47,19,0,0,6,0,2,4,0
+Western Medical Center Anaheim,Orange,33.8209,-117.90921,2013,8,0,0,5,2,0,0,1,0,0,0,0
+Western Medical Center Anaheim,Orange,33.8209,-117.90921,2014,9,0,0,3,5,0,0,0,0,0,1,0
+Western Medical Center – Santa Ana,Orange,33.75361,-117.83398,2013,36,0,8,16,6,0,1,2,0,0,1,2
+Western Medical Center – Santa Ana,Orange,33.75361,-117.83398,2014,52,0,7,31,11,0,0,1,0,1,0,1
+White Memorial Medical Center,Los Angeles,34.051,-118.21739,2013,117,0,9,77,16,2,0,8,0,0,4,1
+White Memorial Medical Center,Los Angeles,34.051,-118.21739,2014,129,0,11,79,24,1,0,2,0,1,3,8
+White Memorial Medical Center,Los Angeles,34.051,-118.21739,2015,107,1,6,74,16,1,0,2,0,0,2,5
+White Memorial Medical Center,Los Angeles,34.051,-118.21739,2016,145,1,10,88,17,0,1,5,2,0,16,5
+White Memorial Medical Center,Los Angeles,34.051,-118.21739,2017,168,1,12,96,22,0,2,1,1,4,23,6
+Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303,2013,30,0,0,12,11,0,0,0,0,0,7,0
+Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303,2014,31,0,0,16,7,0,0,0,0,0,5,3
+Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303,2015,31,0,0,13,9,0,0,3,0,0,5,1
+Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303,2016,51,0,0,23,14,0,1,2,0,2,5,4
+Whittier Hospital Medical Center,Los Angeles,33.95379,-118.00303,2017,43,0,0,18,12,0,0,3,0,0,6,4
+Woodland Memorial Hospital,Yolo,38.66284,-121.7933,2013,86,0,0,72,8,0,0,3,0,1,1,1
+Woodland Memorial Hospital,Yolo,38.66284,-121.7933,2014,67,0,0,46,10,0,0,2,0,1,8,0
+Woodland Memorial Hospital,Yolo,38.66284,-121.7933,2015,51,0,0,34,10,0,0,1,0,0,5,1
+Woodland Memorial Hospital,Yolo,38.66284,-121.7933,2016,72,0,0,53,12,0,0,0,0,0,6,1
+Woodland Memorial Hospital,Yolo,38.66284,-121.7933,2017,54,0,0,42,6,0,0,0,0,0,6,0

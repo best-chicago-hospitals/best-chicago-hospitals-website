@@ -1,0 +1,1 @@
+These are files for the second Amulet Health project, focusing on providing easily-accesible data on the volume of each type of cancer surgery provided by hospitals with the goal of increasing patient care through allowing them to make better-informed decisions on where they get their care.
