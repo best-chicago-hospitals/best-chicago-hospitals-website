@@ -141,7 +141,7 @@
                 csvAsArray.data.shift(); //First row is headers
                 csvAsArray.data.shift(); //Second row is totals
                 csvAsArray.data.pop(); //last entry is blank and the blank entry messes up datatables
-                const cleanedCSVArray = csvAsArray.data.map(obj => {
+                const cleanedCSVArray = csvAsArray.data.map(([_, ...obj]) => { //_ as first thing because we're ignoring the row index that's in the CSV...the rest of the row goes into obj
                     const curr = [];
                     obj.forEach((entry, i) => {
                         if (i >= 3 && i <= 15) {
