@@ -1,481 +1,481 @@
-﻿Hospital.Name,State,County,Year,Bladder,Brain,Breast,Colon,Esophagus,Liver,Lung,Pancreas,Prostate,Rectum,Stomach,Total.Surgeries.for.All.Cancer.Types,National.Cancer.Institute.Designation.
-Abington Memorial,PA,Montgomery,2018,6,19,146,82,6,3,49,8,47,24,6,396,No
-ACMH,PA,Armstrong,2018,2,0,21,11,0,0,5,0,0,2,0,41,No
-Adventist Medical Center,CA,Kings,2017,0,0,40,14,1,0,1,0,1,9,1,67,No
-AHMC Anaheim Regional Medical Center,CA,Orange,2017,1,3,97,35,0,0,11,0,8,1,1,157,No
-Alameda Hospital,CA,Alameda,2017,0,0,2,1,0,0,0,0,0,2,0,5,No
-Albert Einstein,PA,Philadelphia,2018,8,10,168,36,2,5,16,5,33,4,2,289,No
-Alhambra Hospital Medical Center,CA,Los Angeles,2017,0,0,17,31,0,1,9,0,1,13,10,82,No
-Allegheny General,PA,Allegheny,2018,29,104,184,79,18,33,113,49,97,27,13,746,No
-Allegheny Valley,PA,Allegheny,2018,0,0,35,10,0,0,0,0,0,0,0,45,No
-Alta Bates Summit Medical Center,CA,Alameda,2017,0,0,303,69,6,7,23,6,25,28,15,482,No
-Alta Bates Summit Medical Center Alta Bates Campus,CA,Alameda,2017,0,7,75,9,0,2,0,2,3,1,3,102,No
-Alta Bates Summit Medical Center Summit Campus Hawthorne,CA,Alameda,2014,0,0,311,60,0,7,15,6,24,13,9,445,No
-Alvarado Hospital,CA,San Diego,2017,0,1,12,6,1,0,3,0,1,1,0,25,No
-Anaheim General Hospital,CA,Orange,2013,0,0,2,0,0,0,0,0,0,0,0,2,No
-Anaheim Global Medical Center,CA,Orange,2017,0,0,1,1,0,1,2,0,0,1,0,6,No
-Antelope Valley Hospital,CA,Los Angeles,2017,0,22,118,29,0,3,7,5,32,10,5,231,No
-Arrowhead Regional Medical Center,CA,San Bernardino,2017,2,28,30,15,0,2,4,2,7,11,4,105,No
-Bakersfield Heart Hospital,CA,Kern,2017,0,0,4,5,0,0,0,0,0,0,1,10,No
-Bakersfield Memorial Hospital,CA,Kern,2017,2,20,73,35,0,1,15,1,11,13,2,173,No
-Banner Lassen Medical Center,CA,Lassen,2016,0,0,0,1,0,0,0,0,0,0,0,1,No
-Barnes-Kasson County,PA,Susquehanna,2018,0,0,0,1,0,0,0,0,0,0,0,1,No
-Barstow Community Hospital,CA,San Bernardino,2017,0,0,5,1,0,0,0,0,0,0,0,6,No
-Barton Memorial Hospital,CA,El Dorado,2017,1,0,12,4,0,0,0,0,8,3,0,28,No
-Bellflower Medical Center,CA,Los Angeles,2013,0,0,4,2,0,0,0,0,0,0,0,6,No
-Berwick,PA,Columbia,2018,1,0,8,1,0,0,0,0,0,0,0,10,No
-Beverly Hospital,CA,Los Angeles,2017,1,0,38,5,0,0,1,0,5,5,3,58,No
-Biggs Gridley Memorial Hospital,CA,Butte,2014,0,0,1,2,0,0,0,0,0,0,0,3,No
-Blue Mountain,PA,Carbon,2018,0,0,9,6,1,0,0,0,0,0,0,16,No
-Bradford Regional,PA,McKean,2018,0,0,21,5,0,0,0,0,0,0,1,27,No
-Brandywine,PA,Chester,2018,3,0,21,10,0,0,2,0,3,3,0,42,No
-Bryn Mawr,PA,Montgomery,2018,22,3,155,32,0,1,25,0,115,10,3,366,No
-Butler Memorial,PA,Butler,2018,7,2,59,31,0,0,26,0,31,0,0,156,No
-California Hospital Medical Center Los Angeles,CA,Los Angeles,2017,1,7,66,19,1,3,1,3,1,8,5,115,No
-California Pacific Medical Center Davies Campus,CA,San Francisco,2017,0,23,55,0,0,0,0,0,0,0,0,78,No
-California Pacific Medical Center Pacific Campus,CA,San Francisco,2017,1,23,429,85,5,65,20,43,10,34,13,728,No
-California Pacific Medical Center St. Lukeís Campus,CA,San Francisco,2017,0,0,9,7,0,0,0,0,1,2,0,19,No
-Canonsburg,PA,Washington,2018,5,0,4,6,0,0,0,0,4,0,0,19,No
-Casa Colina Hospital,CA,Los Angeles,2017,0,2,18,3,0,0,0,0,2,2,0,27,No
-Cedars Sinai Medical Center,CA,Los Angeles,2017,22,168,755,129,14,64,86,49,158,74,28,1547,No
-Centinela Hospital Medical Center,CA,Los Angeles,2017,0,4,6,13,0,1,2,0,0,1,2,29,No
-Chambersburg,PA,Franklin,2018,2,0,51,30,0,0,3,0,19,5,0,110,No
-Chapman Global Medical Center,CA,Orange,2017,0,0,0,0,0,0,0,0,0,1,0,1,No
-Chapman Medical Center,CA,Orange,2014,0,0,1,1,0,0,0,0,0,2,0,4,No
-Chester County,PA,Chester,2018,14,0,253,38,0,1,1,0,37,1,0,345,No
-Chestnut Hill,PA,Philadelphia,2018,3,0,52,8,0,0,0,0,6,3,0,72,No
-Chinese Hospital,CA,San Francisco,2017,0,0,0,15,0,0,0,0,1,2,4,22,No
-Chino Valley Medical Center,CA,San Bernardino,2017,0,0,16,6,0,0,0,0,0,3,2,27,No
-Citrus Valley Medical Center Inter Community Campus,CA,Los Angeles,2017,0,2,11,20,0,0,1,1,1,1,3,40,No
-Citrus Valley Medical Center Queen of the Valley Campus,CA,Los Angeles,2017,5,8,37,26,0,1,4,2,96,4,1,184,No
-City of Hope Helford Clinical Research Hospital,CA,Los Angeles,2017,50,77,473,71,10,90,60,30,218,52,26,1157,Yes
-Clarion,PA,Clarion,2018,1,0,11,13,0,0,0,0,0,1,0,26,No
-Clovis Community Medical Center,CA,Fresno,2017,0,0,336,65,4,0,3,2,32,20,4,466,No
-Coast Plaza Hospital,CA,Los Angeles,2017,0,0,4,5,0,0,0,0,0,2,0,11,No
-Coastal Communities Hospital,CA,Orange,2014,0,0,26,3,0,0,0,0,1,1,0,31,No
-College Medical Center,CA,Los Angeles,2017,1,0,0,5,0,0,0,0,1,1,0,8,No
-Colorado River Medical Center,CA,San Bernardino,2016,0,0,1,0,0,0,0,0,0,1,0,2,No
-Colusa Regional Medical Center,CA,Colusa,2013,0,0,0,1,0,0,0,0,0,0,0,1,No
-Community and Mission Hospital of Huntington Park Slauson,CA,Los Angeles,2017,0,0,2,1,0,0,0,0,0,1,0,4,No
-Community Hospital Long Beach,CA,Los Angeles,2017,0,0,1,2,0,1,0,0,0,1,0,5,No
-Community Hospital of San Bernardino,CA,San Bernardino,2017,0,0,15,5,0,1,0,0,0,3,1,25,No
-Community Hospital of The Monterey Peninsula,CA,Monterey,2017,1,19,55,47,2,3,13,4,6,24,5,179,No
-Community Memorial Hospital San Buenaventura,CA,Ventura,2017,4,9,160,41,0,1,18,2,69,17,1,322,No
-Community Regional Medical Center  Fresno,CA,Fresno,2017,0,71,70,49,3,8,46,6,29,22,7,311,No
-Conemaugh Memorial,PA,Cambria,2018,17,11,81,41,0,2,22,1,26,15,1,217,No
-Conemaugh Nason MC,PA,Blair,2018,0,0,10,6,0,0,0,0,0,0,0,16,No
-Contra Costa Regional Medical Center,CA,Contra Costa,2017,0,0,46,21,0,2,0,1,1,4,3,78,No
-Coordinated Health Ortho,PA,Northampton,2018,1,0,1,0,0,0,0,0,5,0,0,7,No
-Corona Regional Medical Center Main,CA,Riverside,2017,0,0,67,20,0,2,0,0,0,7,1,97,No
-Crozer-Chester,PA,Delaware,2018,4,8,107,29,0,2,6,5,20,9,0,190,No
-Dameron Hospital,CA,San Joaquin,2017,0,0,1,7,0,1,0,2,0,5,0,16,No
-Delano Regional Medical Center,CA,Kern,2017,0,0,10,5,0,0,0,0,1,0,0,16,No
-Delaware County Memorial,PA,Delaware,2018,1,0,58,6,0,0,4,0,0,4,1,74,No
-Desert Regional Medical Center,CA,Riverside,2017,0,30,178,35,3,3,21,0,11,17,2,300,No
-Desert Valley Hospital,CA,San Bernardino,2017,4,0,4,3,0,0,3,0,40,3,0,57,No
-Doctors Hospital of Manteca,CA,San Joaquin,2017,0,0,34,9,0,0,0,0,0,0,0,43,No
-Doctors Medical Center,CA,Stanislaus,2017,2,14,163,42,0,4,14,6,35,22,4,306,No
-Doctors Medical Center San Pablo,CA,Contra Costa,2015,0,0,1,0,0,0,0,0,0,1,0,2,No
-Dominican Hospital,CA,Santa Cruz,2017,6,16,41,19,0,2,17,0,21,6,1,129,No
-Doylestown,PA,Bucks,2018,33,0,89,25,0,0,9,0,32,7,3,198,No
-East Los Angeles Doctors Hospital,CA,Los Angeles,2017,0,0,0,2,0,0,0,0,0,4,0,6,No
-Eastern Regional,PA,Philadelphia,2018,4,0,94,6,2,3,27,1,18,10,2,167,No
-Easton,PA,Northampton,2018,4,0,31,17,1,0,5,1,0,4,3,66,No
-Eden Medical Center,CA,Alameda,2017,3,36,67,22,0,2,3,1,2,10,2,148,No
-Einstein MC Montgomery,PA,Montgomery,2018,5,0,89,17,0,0,10,0,18,0,0,139,No
-Eisenhower Medical Center,CA,Riverside,2017,5,12,161,84,0,3,45,1,74,32,5,422,No
-El Camino Hospital,CA,Santa Clara,2017,6,9,131,66,0,7,37,7,101,13,5,382,No
-El Centro Regional Medical Center,CA,Imperial,2017,0,0,14,6,0,0,0,0,6,3,1,30,No
-Ellwood City,PA,Lawrence,2018,0,0,3,0,0,0,0,0,0,0,0,3,No
-Emanuel Medical Center,CA,Stanislaus,2017,0,0,46,26,0,3,0,1,1,17,1,95,No
-Encino Hospital Medical Center,CA,Los Angeles,2017,0,0,1,0,0,0,0,0,0,0,1,2,No
-Enloe Medical Center  Esplanade,CA,Butte,2017,1,10,170,45,0,1,7,0,13,24,3,274,No
-Ephrata Community,PA,Lancaster,2018,3,0,54,15,0,0,11,0,1,0,0,84,No
-Evangelical Community,PA,Union,2018,0,0,76,14,0,0,0,0,0,1,0,91,No
-Excela Health Latrobe,PA,Westmoreland,2018,3,0,76,27,0,0,2,0,18,1,1,128,No
-Excela Hlth Westmoreland,PA,Westmoreland,2018,1,2,65,21,5,0,50,0,11,3,0,158,No
-Fairchild Medical Center,CA,Siskiyou,2017,0,0,13,5,0,0,0,0,0,0,0,18,No
-Fallbrook Hospital District,CA,San Diego,2014,0,0,10,1,0,0,0,0,0,0,0,11,No
-Feather River Hospital,CA,Butte,2017,1,0,63,13,0,1,7,1,0,5,0,91,No
-Foothill Presbyterian Hospital Johnston Memorial,CA,Los Angeles,2017,1,3,28,20,0,3,1,0,39,6,0,101,No
-Foothill Regional Medical Center,CA,Orange,2017,0,0,0,6,0,0,0,0,0,2,0,8,No
-Forbes,PA,Allegheny,2018,18,6,112,54,2,0,31,0,8,7,0,238,No
-Fountain Valley Regional Hospital and Medical Center  Euclid,CA,Orange,2017,0,6,84,47,2,19,31,13,1,28,11,242,No
-Frank R. Howard Memorial Hospital,CA,Mendocino,2015,0,0,0,5,0,0,0,0,0,0,0,5,No
-French Hospital Medical Center,CA,San Luis Obispo,2017,0,0,10,10,1,0,3,0,7,1,0,32,No
-Fresno Heart and Surgical Hospital,CA,Fresno,2015,0,0,0,16,0,0,23,1,0,5,1,46,No
-Fresno Surgical Hospital,CA,Fresno,2017,0,0,75,0,0,0,0,0,4,0,0,79,No
-Frick,PA,Westmoreland,2018,1,0,8,4,0,0,0,0,1,0,0,14,No
-Garden Grove Hospital and Medical Center,CA,Orange,2017,0,0,4,6,0,0,0,0,1,3,1,15,No
-Gardens Regional Hospital and Medical Center,CA,Los Angeles,2016,0,0,1,3,0,0,0,0,0,4,0,8,No
-Garfield Medical Center,CA,Los Angeles,2017,0,16,102,35,3,1,33,5,30,15,15,255,No
-Geisinger Bloomsburg,PA,Columbia,2018,0,0,24,4,0,0,0,0,0,0,0,28,No
-Geisinger Community,PA,Lackawanna,2018,2,12,102,28,0,0,30,0,2,19,0,195,No
-Geisinger Danville,PA,Montour,2018,23,43,166,80,12,5,47,24,42,46,4,492,No
-Geisinger Jersey Shore,PA,Lycoming,2018,0,0,0,3,0,0,0,0,0,0,0,3,No
-Geisinger Lewistown,PA,Mifflin,2018,0,0,34,14,0,0,0,0,0,0,0,48,No
-Geisinger Wyoming Valley,PA,Luzerne,2018,6,29,99,41,13,13,27,8,32,9,6,283,No
-George L. Mee Memorial Hospital,CA,Monterey,2013,0,0,0,1,0,0,0,0,0,0,0,1,No
-Glendale Adventist Medical Center,CA,Los Angeles,2017,1,23,119,42,1,9,8,4,17,16,5,245,No
-Glendale Memorial Hospital and Medical Center,CA,Los Angeles,2017,1,3,35,28,0,0,21,0,4,18,1,111,No
-Glendora Community Hospital,CA,Los Angeles,2017,0,0,1,1,0,0,0,0,0,0,1,3,No
-Goleta Valley Cottage Hospital,CA,Santa Barbara,2017,0,0,12,0,0,0,0,0,0,0,0,12,No
-Good Samaritan Hospital Bakersfield,CA,Kern,2017,0,0,1,0,0,0,0,0,3,0,0,4,No
-Good Samaritan Hospital Los Angeles,CA,Los Angeles,2017,0,7,26,16,0,8,6,6,2,5,11,87,No
-Good Samaritan Hospital San Jose,CA,Santa Clara,2017,0,17,179,61,0,5,25,9,30,16,3,345,No
-Grand View,PA,Bucks,2018,0,0,103,19,3,1,15,1,0,1,0,143,No
-Greater El Monte Community Hospital,CA,Los Angeles,2017,0,0,2,1,0,0,0,0,1,0,0,4,No
-Grossmont Hospital,CA,San Diego,2017,2,19,105,53,3,2,16,13,9,10,2,234,No
-Grove City,PA,Mercer,2018,0,0,0,7,0,0,0,0,0,0,0,7,No
-Hahnemann University,PA,Philadelphia,2018,5,7,55,21,5,12,8,5,17,3,4,142,No
-Hazel Hawkins Memorial Hospital,CA,San Benito,2017,0,0,13,1,0,0,0,0,1,0,0,15,No
-Healdsburg District Hospital,CA,Sonoma,2015,0,0,0,2,0,0,0,0,0,0,0,2,No
-Hemet Valley Medical Center,CA,Riverside,2017,1,0,26,16,0,3,0,2,14,7,0,69,No
-Henry Mayo Newhall Hospital,CA,Los Angeles,2017,1,13,26,13,1,1,8,0,11,4,2,80,No
-Heritage Valley Beaver,PA,Beaver,2018,5,0,96,32,0,0,5,0,4,8,2,152,No
-Heritage Valley Sewickley,PA,Allegheny,2018,6,0,40,17,1,0,1,0,5,1,0,71,No
-Hi-Desert Medical Center,CA,San Bernardino,2017,0,0,0,1,0,0,0,0,0,0,0,1,No
-Highland Hospital,CA,Alameda,2017,1,0,38,12,2,0,7,2,20,8,2,92,No
-Highlands,PA,Fayette,2018,0,0,0,2,0,0,0,0,0,0,0,2,No
-Hoag Memorial Hospital Presbyterian,CA,Orange,2017,11,91,625,111,13,24,91,28,186,46,8,1234,No
-Hollywood Presbyterian Medical Center,CA,Los Angeles,2017,0,2,45,34,0,2,2,1,2,6,15,109,No
-Holy Redeemer,PA,Montgomery,2018,3,0,188,22,0,0,4,0,1,2,0,220,No
-Holy Spirit,PA,Cumberland,2018,4,5,162,19,1,0,6,0,17,0,2,216,No
-Hospital Fox Chase Cancer,PA,Philadelphia,2018,128,0,511,55,23,65,144,17,258,31,11,1243,Yes
-Hospital University PA,PA,Philadelphia,2018,65,246,601,117,43,100,233,69,215,61,47,1797,Yes
-Huntington Beach Hospital,CA,Orange,2017,0,0,0,2,0,0,0,0,0,0,0,2,No
-Huntington Memorial Hospital,CA,Los Angeles,2017,21,23,124,81,6,24,39,17,167,35,18,555,No
-Indiana Regional,PA,Indiana,2018,4,0,45,17,0,0,0,0,0,4,0,70,No
-JC Blair Memorial,PA,Huntingdon,2018,0,0,9,10,0,0,0,0,0,0,0,19,No
-Jeanes,PA,Philadelphia,2018,2,25,9,16,0,0,0,0,0,3,0,55,No
-Jefferson,PA,Allegheny,2018,10,0,109,54,0,0,20,0,17,7,4,221,No
-Jefferson Health NE,PA,Philadelphia,2018,14,6,153,48,0,2,7,0,30,15,1,276,No
-Jennersville,PA,Chester,2018,0,0,15,8,0,0,0,0,0,0,1,24,No
-John F. Kennedy Memorial Hospital,CA,Riverside,2017,0,0,21,7,0,0,0,0,0,1,0,29,No
-John Muir Medical Center Concord Campus,CA,Contra Costa,2017,4,0,33,43,12,0,26,0,64,33,3,218,No
-John Muir Medical Center Walnut Creek Campus,CA,Contra Costa,2017,3,33,105,37,0,6,24,0,4,6,4,222,No
-Kaiser Foundation Hospital Antioch,CA,Contra Costa,2017,4,0,110,21,0,4,0,2,6,7,1,155,No
-Kaiser Foundation Hospital Baldwin Park,CA,Los Angeles,2017,6,0,319,48,0,1,0,2,2,21,5,404,No
-Kaiser Foundation Hospital Downey,CA,Los Angeles,2017,2,0,335,45,5,0,23,20,289,12,9,740,No
-Kaiser Foundation Hospital Fontana,CA,San Bernardino,2017,13,39,506,94,12,4,44,2,174,50,8,946,No
-Kaiser Foundation Hospital Fremont,CA,Alameda,2017,0,0,86,38,0,0,0,1,0,8,0,133,No
-Kaiser Foundation Hospital Fresno,CA,Fresno,2017,0,5,132,24,0,0,0,0,1,1,3,166,No
-Kaiser Foundation Hospital Hayward,CA,Alameda,2014,4,0,101,26,0,4,7,1,2,6,5,156,No
-Kaiser Foundation Hospital Manteca,CA,San Joaquin,2017,6,0,229,66,7,1,36,2,4,26,2,379,No
-Kaiser Foundation Hospital Moreno Valley,CA,Riverside,2017,0,0,43,16,0,0,0,0,0,3,1,63,No
-Kaiser Foundation Hospital Oakland Campus,CA,Alameda,2014,13,0,159,35,10,10,20,11,15,13,10,296,No
-Kaiser Foundation Hospital Oakland/Richmond,CA,Alameda,2017,22,0,290,67,28,51,97,43,34,28,6,666,No
-Kaiser Foundation Hospital Orange County ñ Anaheim,CA,Orange,2017,17,22,535,90,6,10,36,11,3,37,3,770,No
-Kaiser Foundation Hospital Panorama City,CA,Los Angeles,2017,0,0,210,46,3,7,58,6,1,6,3,340,No
-Kaiser Foundation Hospital Redwood City,CA,San Mateo,2017,3,140,93,27,0,0,0,0,0,0,0,263,No
-Kaiser Foundation Hospital Rehabilitation Center Vallejo,CA,Solano,2017,3,0,272,41,3,0,18,0,1,20,0,358,No
-Kaiser Foundation Hospital Riverside,CA,Riverside,2017,5,0,244,64,7,7,21,9,2,26,4,389,No
-Kaiser Foundation Hospital Roseville,CA,Placer,2017,7,0,456,69,0,1,0,1,2,29,0,565,No
-Kaiser Foundation Hospital Sacramento,CA,Sacramento,2017,1,72,249,57,0,29,0,26,0,17,17,468,No
-Kaiser Foundation Hospital San Diego,CA,San Diego,2017,7,29,501,88,6,15,68,9,44,33,5,805,No
-Kaiser Foundation Hospital San Francisco,CA,San Francisco,2017,6,0,198,40,0,27,0,26,59,47,0,403,No
-Kaiser Foundation Hospital San Jose,CA,Santa Clara,2017,4,0,185,60,0,12,0,10,1,12,0,284,No
-Kaiser Foundation Hospital San Leandro,CA,Alameda,2017,0,0,107,27,0,1,0,0,0,7,0,142,No
-Kaiser Foundation Hospital San Rafael,CA,Marin,2017,2,0,143,30,0,0,0,0,7,1,0,183,No
-Kaiser Foundation Hospital Santa Clara,CA,Santa Clara,2017,11,0,359,67,8,3,50,1,110,21,1,631,No
-Kaiser Foundation Hospital Santa Rosa,CA,Sonoma,2017,5,0,146,30,0,1,0,0,2,3,1,188,No
-Kaiser Foundation Hospital South Bay,CA,Los Angeles,2017,2,0,295,48,2,4,0,8,2,18,8,387,No
-Kaiser Foundation Hospital South Sacramento,CA,Sacramento,2017,41,0,247,52,9,1,77,0,235,24,2,688,No
-Kaiser Foundation Hospital South San Francisco,CA,San Mateo,2017,2,0,144,33,2,0,0,0,0,13,36,230,No
-Kaiser Foundation Hospital Sunset,CA,Los Angeles,2017,29,73,278,57,8,89,46,19,77,43,21,740,No
-Kaiser Foundation Hospital Vacaville,CA,Solano,2017,4,17,0,17,0,1,0,0,1,0,0,40,No
-Kaiser Foundation Hospital Walnut Creek,CA,Contra Costa,2017,9,0,317,69,0,3,0,0,9,29,0,436,No
-Kaiser Foundation Hospital West Los Angeles,CA,Los Angeles,2017,7,0,265,39,3,9,34,12,236,29,4,638,No
-Kaiser Foundation Hospital Woodland Hills,CA,Los Angeles,2017,3,0,300,40,0,3,0,0,8,21,3,378,No
-Kaweah Delta Medical Center,CA,Tulare,2017,0,0,124,37,0,2,3,2,23,16,8,215,No
-Keck Hospital of University of Southern California,CA,Los Angeles,2017,162,67,105,57,26,95,29,48,341,75,11,1016,No
-Kern Medical Center,CA,Kern,2017,1,5,43,5,2,4,2,1,12,5,1,81,No
-La Palma Intercommunity Hospital,CA,Orange,2017,0,0,1,7,0,0,0,0,0,0,1,9,No
-Lakewood Regional Medical Center,CA,Los Angeles,2017,0,4,20,19,2,1,7,2,5,9,8,77,No
-Lancaster General,PA,Lancaster,2018,40,18,411,103,1,0,42,0,111,34,2,762,No
-Lankenau MC,PA,Montgomery,2018,4,13,253,65,8,15,33,9,13,48,12,473,No
-Lansdale,PA,Montgomery,2018,1,0,67,11,0,0,0,0,0,0,0,79,No
-Lehigh Valley Allentown,PA,Lehigh,2018,27,43,203,118,12,32,56,34,58,29,13,625,No
-Lehigh Valley Hazleton,PA,Luzerne,2018,1,0,16,15,1,0,1,1,0,3,0,38,No
-Lehigh Valley Pocono,PA,Monroe,2018,0,0,2,24,0,0,18,0,5,1,3,53,No
-Lehigh Valley Schuylkill,PA,Schuylkill,2018,0,0,5,2,0,0,0,0,1,0,0,8,No
-Lock Haven,PA,Clinton,2018,0,0,0,0,0,0,0,0,2,0,0,2,No
-Lodi Memorial Hospital,CA,San Joaquin,2017,2,0,18,14,0,0,0,0,27,3,0,64,No
-Loma Linda University Medical Center,CA,San Bernardino,2017,24,70,187,51,6,42,31,19,119,42,10,601,No
-Loma Linda University Medical Center ñ Murrieta,CA,Riverside,2017,0,8,78,36,0,0,3,0,5,5,1,136,No
-Lompoc Valley Medical Center,CA,Santa Barbara,2017,0,0,11,11,0,1,0,0,0,3,0,26,No
-Long Beach Memorial Medical Center,CA,Los Angeles,2017,0,31,227,65,2,7,41,0,19,44,7,443,No
-Los Alamitos Medical Center,CA,Orange,2017,1,10,162,24,0,2,5,0,52,5,1,262,No
-Los Angeles Community Hospital,CA,Los Angeles,2017,0,0,1,4,0,0,0,0,6,4,0,15,No
-Los Angeles County/Harbor UCLA Medical Center,CA,Los Angeles,2017,0,14,107,37,0,6,3,4,13,18,8,210,No
-Los Angeles County/Olive View UCLA Medical Center,CA,Los Angeles,2017,4,0,96,15,3,4,4,1,5,17,7,156,No
-Los Angeles County/Rancho Los Amigos National Rehabilitation Center,CA,Los Angeles,2016,0,1,0,0,0,0,0,0,0,0,0,1,No
-Los Angeles County/University of Southern California Medical Center,CA,Los Angeles,2017,5,39,119,40,2,9,9,12,29,27,13,304,No
-Los Robles Hospital and Medical Center,CA,Ventura,2017,2,17,140,40,0,8,19,6,48,16,1,297,No
-Lower Bucks,PA,Bucks,2018,1,0,2,1,0,0,0,0,0,0,0,4,No
-Mad River Community Hospital,CA,Humboldt,2017,0,0,3,1,1,0,0,0,0,1,0,6,No
-Madera Community Hospital,CA,Madera,2017,0,0,14,15,0,4,0,0,0,3,1,37,No
-Magee Womens UPMC,PA,Allegheny,2018,1,0,819,4,0,0,0,0,0,1,3,828,Yes
-Mammoth Hospital,CA,Mono,2015,0,0,0,0,0,0,0,0,3,0,0,3,No
-Marian Regional Medical Center,CA,Santa Barbara,2017,0,7,190,24,0,0,3,0,40,3,3,270,No
-Marian Regional Medical Center ñ Arroyo Grande,CA,San Luis Obispo,2017,0,0,6,9,1,0,2,3,0,3,1,25,No
-Marin General Hospital,CA,Marin,2017,5,13,142,9,0,0,5,1,26,1,1,203,No
-Marina Del Rey Hospital,CA,Los Angeles,2017,0,0,21,5,0,0,1,0,0,2,0,29,No
-Mark Twain Medical Center,CA,Calaveras,2017,0,0,4,2,0,0,0,0,0,0,0,6,No
-Marshall Medical Center,CA,El Dorado,2017,1,0,55,7,0,1,5,1,13,5,0,88,No
-Meadville,PA,Crawford,2018,1,0,18,3,0,0,0,0,0,1,0,23,No
-Memorial Hospital Los Banos,CA,Merced,2017,0,0,1,4,0,0,0,0,0,0,0,5,No
-Memorial Hospital Medical Center Modesto,CA,Stanislaus,2017,1,13,150,42,1,2,9,6,4,17,2,247,No
-Memorial Hospital of Gardena,CA,Los Angeles,2017,1,0,9,8,0,0,0,0,0,0,0,18,No
-Mendocino Coast District Hospital,CA,Mendocino,2017,0,0,7,5,0,0,0,0,0,0,0,12,No
-Menifee Valley Medical Center,CA,Riverside,2017,0,0,27,6,0,1,0,0,0,1,3,38,No
-Menlo Park Surgical Hospital,CA,San Mateo,2017,0,0,122,0,0,0,0,0,0,0,0,122,No
-Mercy Fitzgerald,PA,Delaware,2018,1,1,12,20,1,0,9,1,1,1,1,48,No
-Mercy General Hospital,CA,Sacramento,2017,0,10,71,51,0,1,0,1,2,30,4,170,No
-Mercy Hospital Bakersfield,CA,Kern,2017,1,6,63,18,0,1,0,1,12,6,1,109,No
-Mercy Hospital Folsom,CA,Sacramento,2014,2,0,40,14,0,0,0,0,51,2,0,109,No
-Mercy Hospital of Folsom,CA,Sacramento,2017,5,0,45,11,0,0,0,0,27,4,0,92,No
-Mercy Medical Center Merced,CA,Merced,2017,0,0,27,23,0,1,0,0,1,8,1,61,No
-Mercy Medical Center Mt. Shasta,CA,Siskiyou,2017,0,0,3,4,0,0,0,0,0,0,0,7,No
-Mercy Medical Center Redding,CA,Shasta,2017,0,26,27,27,0,2,22,2,26,5,0,137,No
-Mercy Philadelphia,PA,Philadelphia,2018,2,0,18,10,1,0,4,0,1,0,3,39,No
-Mercy San Juan Hospital,CA,Sacramento,2017,0,30,108,41,6,2,50,1,53,33,0,324,No
-Methodist Division/TJUH,PA,Philadelphia,2018,1,0,21,18,0,0,0,0,6,8,2,56,No
-Methodist Hospital of Sacramento,CA,Sacramento,2017,1,0,102,12,0,0,0,1,0,4,3,123,No
-Methodist Hospital of Southern California,CA,Los Angeles,2017,1,7,80,33,3,4,1,2,0,19,3,153,No
-Millcreek Community,PA,Erie,2018,1,0,2,8,0,0,0,0,0,1,0,12,No
-Milton S Hershey,PA,Dauphin,2018,32,48,248,71,12,5,36,18,83,34,14,601,No
-Mission Community Hospital ñ Panorama Campus,CA,Los Angeles,2017,0,0,18,5,0,0,0,0,2,0,0,25,No
-Mission Hospital Laguna Beach,CA,Orange,2017,0,0,7,6,0,0,0,0,0,1,1,15,No
-Mission Hospital Regional Medical Center,CA,Orange,2017,2,30,65,41,6,1,45,2,25,12,3,232,No
-Monongahela Valley,PA,Washington,2018,4,0,55,11,0,0,3,0,2,3,2,80,No
-Monrovia Medical Center,CA,Los Angeles,2016,0,0,0,1,0,0,0,0,0,0,0,1,No
-Montclair Hospital Medical Center,CA,San Bernardino,2017,0,0,2,1,0,0,0,0,0,2,0,5,No
-Monterey Park Hospital,CA,Los Angeles,2017,0,0,25,11,0,2,3,0,0,3,1,45,No
-Moses Taylor,PA,Lackawanna,2018,1,0,70,12,0,0,0,0,2,3,0,88,No
-Mount Nittany,PA,Centre,2018,7,0,74,26,1,0,39,0,28,3,1,179,No
-Natividad Medical Center,CA,Monterey,2017,0,0,10,11,0,0,0,0,1,1,0,23,No
-Nazareth,PA,Philadelphia,2018,2,0,21,7,0,0,0,0,0,2,0,32,No
-North Bay Medical Center,CA,Solano,2017,0,10,50,20,0,0,4,1,1,1,0,87,No
-Northern Inyo Hospital,CA,Inyo,2017,0,0,9,4,0,0,0,0,0,0,0,13,No
-Northridge Hospital Medical Center,CA,Los Angeles,2017,0,8,29,16,0,4,10,1,0,2,2,72,No
-Norwalk Community Hospital,CA,Los Angeles,2017,0,0,2,0,0,1,1,0,1,5,1,11,No
-Novato Community Hospital,CA,Marin,2017,0,0,14,3,0,0,0,0,0,1,0,18,No
-Oak Valley District Hospital,CA,Stanislaus,2017,0,0,4,3,0,0,0,0,0,1,0,8,No
-Ohio Valley,PA,Allegheny,2018,2,0,17,5,0,0,0,0,0,2,0,26,No
-OíConnor Hospital,CA,Santa Clara,2017,0,4,34,23,0,3,18,4,1,11,3,101,No
-Ojai Valley Community Hospital,CA,Ventura,2017,0,0,0,2,0,0,0,0,0,0,0,2,No
-Olympia Medical Center,CA,Los Angeles,2017,2,0,21,5,0,0,2,0,11,2,1,44,No
-Orange Coast Memorial Medical Center,CA,Orange,2017,3,9,150,45,1,38,16,12,21,19,8,322,No
-Orange County Global Medical Center,CA,Orange,2017,0,6,21,5,0,1,1,0,0,3,2,39,No
-Oroville Hospital,CA,Butte,2017,1,0,26,17,0,0,0,0,51,7,1,103,No
-Pacific Alliance Medical Center,CA,Los Angeles,2017,0,0,8,7,0,1,0,0,0,0,1,17,No
-Pacifica Hospital of the Valley,CA,Los Angeles,2017,0,0,6,1,0,0,0,0,0,0,0,7,No
-Palm Drive Hospital,CA,Sonoma,2016,0,0,0,1,0,0,0,0,0,0,0,1,No
-Palmdale Regional Medical Center,CA,Los Angeles,2017,0,4,19,31,0,1,2,0,11,8,0,76,No
-Palo Verde Hospital,CA,Riverside,2017,0,0,1,1,0,0,0,0,0,1,0,3,No
-Palomar Health Downtown Campus,CA,San Diego,2017,23,22,152,49,2,2,10,1,163,6,6,436,No
-Paoli,PA,Chester,2018,7,2,155,33,0,0,25,0,55,2,0,279,No
-Paradise Valley Hospital,CA,San Diego,2017,0,1,2,3,0,0,0,0,1,1,0,8,No
-Parkview Community Hospital Medical Center,CA,Riverside,2017,0,0,45,14,0,1,0,1,2,2,0,65,No
-Patientsí Hospital of Redding,CA,Shasta,2017,0,0,79,0,0,0,0,0,0,0,0,79,No
-Peninsula Medical Center,CA,San Mateo,2017,4,3,271,34,8,4,17,10,11,19,4,385,No
-Penn Highlands Brookville,PA,Jefferson,2018,0,0,1,1,0,0,0,0,0,0,0,2,No
-Penn Highlands Clearfield,PA,Clearfield,2018,0,0,8,3,0,0,0,0,0,0,0,11,No
-Penn Highlands DuBois,PA,Clearfield,2018,2,0,99,32,1,2,40,0,9,3,1,189,No
-Penn Highlands Elk,PA,Elk,2018,0,0,3,1,0,0,0,0,1,0,0,5,No
-Penn Presbyterian,PA,Philadelphia,2018,2,8,0,36,3,1,100,0,313,9,8,480,No
-Pennsylvania,PA,Philadelphia,2018,2,37,448,51,6,6,0,6,16,20,7,599,No
-Petaluma Valley Hospital,CA,Sonoma,2017,0,0,4,2,0,0,0,0,0,5,1,12,No
-Phoenixville,PA,Chester,2018,2,1,112,19,0,0,11,0,32,1,1,179,No
-PIH Hospital Downey,CA,Los Angeles,2017,1,2,48,13,0,0,4,0,1,3,5,77,No
-Pioneers Memorial Healthcare District,CA,Imperial,2017,0,5,21,11,0,0,0,0,0,0,0,37,No
-Placentia Linda Hospital,CA,Orange,2017,0,0,45,8,0,0,1,1,5,7,1,68,No
-Plumas District Hospital,CA,Plumas,2017,0,0,2,2,0,0,0,0,0,0,0,4,No
-Pomerado Hospital,CA,San Diego,2017,0,0,46,10,0,0,0,0,1,4,0,61,No
-Pomona Valley Hospital Medical Center,CA,Los Angeles,2017,0,11,162,37,0,2,3,4,12,10,4,245,No
-Pottstown,PA,Montgomery,2018,4,2,4,8,0,0,0,0,0,0,0,18,No
-Presbyterian Intercommunity Hospital,CA,Los Angeles,2017,5,8,155,46,1,4,27,1,11,21,8,287,No
-Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,CA,San Francisco,2017,6,7,53,23,0,1,4,1,1,11,5,112,No
-Promise Hospital of East Los Angeles East Los Angeles Campus,CA,Los Angeles,2017,0,0,1,2,0,0,0,0,0,0,0,3,No
-Providence Holy Cross Medical Center,CA,Los Angeles,2017,1,19,83,47,2,16,18,5,36,19,7,253,No
-Providence Little Company of Mary Medical Center San Pedro,CA,Los Angeles,2017,0,0,26,11,0,2,0,0,1,2,0,42,No
-Providence Little Company of Mary Medical Center Torrance,CA,Los Angeles,2017,1,12,181,43,0,5,10,3,35,18,3,311,No
-Providence Saint Johnís Health Center,CA,Los Angeles,2017,3,79,162,34,4,11,122,7,113,21,8,564,No
-Providence Saint Joseph Medical Center,CA,Los Angeles,2017,5,10,180,50,1,2,29,4,53,17,8,359,No
-Providence Tarzana Medical Center,CA,Los Angeles,2017,1,5,138,40,1,0,12,1,42,21,5,266,No
-Punxsutawney Area,PA,Jefferson,2018,0,0,6,5,0,0,0,0,1,1,0,13,No
-Queen of the Valley Medical Center,CA,Napa,2017,0,1,45,12,0,1,9,0,12,2,2,84,No
-Reading,PA,Berks,2018,29,13,192,69,2,0,36,7,56,7,4,415,No
-Redlands Community Hospital,CA,San Bernardino,2017,1,4,79,26,0,3,1,0,12,8,5,139,No
-Redwood Memorial Hospital,CA,Humboldt,2017,0,0,15,9,0,0,0,0,0,2,0,26,No
-Regional Medical of San Jose,CA,Santa Clara,2017,0,6,26,20,0,2,9,0,3,13,6,85,No
-Regional Scranton,PA,Lackawanna,2018,15,0,31,12,0,0,30,0,41,2,0,131,No
-Riddle Memorial,PA,Delaware,2018,8,0,90,28,0,0,0,0,2,5,0,133,No
-Rideout Memorial Hospital,CA,Yuba,2017,1,2,25,17,0,4,16,0,8,8,1,82,No
-Ridgecrest Regional Hospital,CA,Kern,2017,0,0,8,2,0,0,0,0,0,1,0,11,No
-Riverside Community Hospital,CA,Riverside,2017,1,13,180,69,7,8,15,19,32,23,7,374,No
-Riverside County Regional Medical Center,CA,Riverside,2015,3,8,32,14,0,2,5,1,8,5,0,78,No
-Riverside University Health System ñ Medical Center,CA,Riverside,2017,4,11,40,17,1,1,5,0,8,12,4,103,No
-Robert Packer,PA,Bradford,2018,4,4,124,46,7,3,44,5,44,15,5,301,No
-Ronald Reagan UCLA Medical Center,CA,Los Angeles,2017,28,121,332,71,20,39,86,62,125,43,18,945,Yes
-Roxborough Memorial,PA,Philadelphia,2018,2,0,1,1,0,0,1,0,0,0,0,5,No
-Saddleback Memorial Medical Center,CA,Orange,2017,3,23,165,33,0,0,21,0,41,6,2,294,No
-Saint Agnes Medical Center,CA,Fresno,2017,1,3,155,40,3,2,16,3,56,17,4,300,No
-Saint Bernardine Medical Center,CA,San Bernardino,2017,7,11,83,26,0,3,7,1,125,9,3,275,No
-Saint Elizabeth Community Hospital,CA,Tehama,2017,0,0,6,7,0,1,0,0,0,0,0,14,No
-Saint Francis Medical Center,CA,Los Angeles,2017,2,4,47,21,0,0,3,1,5,4,0,87,No
-Saint Francis Memorial Hospital,CA,San Francisco,2017,0,2,5,7,0,0,0,0,1,2,1,18,No
-Saint Helena Hospital,CA,Napa,2017,0,0,12,12,3,3,16,0,0,9,1,56,No
-Saint Helena Hospital ñ Clearlake,CA,Lake,2017,0,0,2,2,0,0,0,0,0,0,0,4,No
-Saint Johnís Health Center,CA,Los Angeles,2014,3,63,160,54,2,18,24,9,16,9,10,368,No
-Saint Johnís Pleasant Valley Hospital,CA,Ventura,2017,0,0,41,13,0,0,0,1,0,2,0,57,No
-Saint Johnís Regional Medical Center,CA,Ventura,2017,2,5,84,29,0,1,22,0,14,15,1,173,No
-Saint Joseph Hospital Eureka,CA,Humboldt,2017,3,0,73,24,0,3,10,4,11,9,2,139,No
-Saint Joseph Hospital Orange,CA,Orange,2017,0,26,273,46,1,8,52,17,53,26,9,511,No
-Saint Josephís Medical Center of Stockton,CA,San Joaquin,2017,8,0,86,39,4,5,22,1,7,23,8,203,No
-Saint Jude Medical Center,CA,Orange,2017,0,35,230,47,0,6,9,3,54,19,1,404,No
-Saint Louise Regional Hospital,CA,Santa Clara,2017,0,0,27,8,0,0,0,0,2,7,1,45,No
-Saint Mary Medical Center Apple Valley,CA,San Bernardino,2017,2,0,49,25,0,1,4,0,16,9,2,108,No
-Saint Mary Medical Center Long Beach,CA,Los Angeles,2017,2,4,19,7,0,0,1,2,3,4,2,44,No
-"Saint Maryís Medical Center, San Francisco",CA,San Francisco,2017,1,0,78,6,0,1,4,0,1,4,2,97,No
-Saint Rose Hospital,CA,Alameda,2017,0,0,13,7,0,1,0,0,1,6,3,31,No
-Saint Vincent,PA,Erie,2018,11,6,93,49,0,2,24,1,26,16,3,231,No
-Saint Vincent Medical Center,CA,Los Angeles,2017,3,7,98,25,2,10,10,3,12,10,8,188,No
-Salinas Valley Memorial Hospital,CA,Monterey,2017,0,9,58,32,0,3,7,3,0,10,11,133,No
-San Antonio Regional Hospital,CA,San Bernardino,2017,0,14,122,55,0,2,17,0,21,17,6,254,No
-San Dimas Community Hospital,CA,Los Angeles,2017,0,0,30,10,0,0,0,0,1,2,1,44,No
-San Francisco General Hospital,CA,San Francisco,2015,0,6,44,20,0,0,5,2,0,2,1,80,No
-San Gabriel Valley Medical Center,CA,Los Angeles,2016,0,2,54,12,0,1,2,0,0,9,3,83,No
-San Gorgonio Memorial Hospital,CA,Riverside,2017,0,0,10,5,0,0,0,0,0,1,0,16,No
-San Joaquin Community Hospital,CA,Kern,2017,0,12,160,42,0,1,7,1,25,11,3,262,No
-San Joaquin General Hospital,CA,San Joaquin,2017,0,2,22,13,0,1,0,2,2,7,0,49,No
-San Leandro Hospital,CA,Alameda,2017,0,0,12,4,0,1,0,0,0,3,0,20,No
-San Mateo Medical Center,CA,San Mateo,2017,0,1,51,9,0,1,1,1,0,2,3,69,No
-San Ramon Regional Medical Center,CA,Contra Costa,2017,0,0,95,24,0,0,3,0,5,4,0,131,No
-Santa Barbara Cottage Hospital,CA,Santa Barbara,2017,2,33,62,39,0,4,26,5,37,17,3,228,No
-Santa Clara Valley Medical Center,CA,Santa Clara,2017,9,17,126,46,2,5,10,4,23,18,7,267,No
-Santa Monica UCLA Medical Center and Orthopedic Hospital,CA,Los Angeles,2017,19,11,338,22,0,0,7,0,52,13,4,466,No
-Santa Rosa Memorial Hospital Montgomery,CA,Sonoma,2017,0,18,144,11,0,0,3,0,14,2,0,192,No
-Scripps Green Hospital,CA,San Diego,2017,5,14,151,47,4,21,0,14,48,25,4,333,No
-Scripps Memorial Hospital Encinitas,CA,San Diego,2017,0,7,62,26,0,4,15,1,3,16,2,136,No
-Scripps Memorial Hospital La Jolla,CA,San Diego,2017,0,28,296,42,0,2,31,1,9,22,2,433,No
-Scripps Mercy Hospital,CA,San Diego,2017,17,14,138,87,1,6,18,5,135,35,6,462,No
-Seneca Healthcare District,CA,Plumas,2014,0,0,1,0,0,0,0,0,0,0,0,1,No
-Sequoia Hospital,CA,San Mateo,2017,0,5,17,31,0,2,3,0,26,8,0,92,No
-Seton Medical Center,CA,San Mateo,2017,0,0,19,12,0,0,2,0,1,4,6,44,No
-Sharon Regional,PA,Mercer,2018,2,0,12,20,0,0,1,0,0,0,2,37,No
-Sharp Chula Vista Medical Center,CA,San Diego,2017,0,11,170,45,3,3,7,3,2,27,11,282,No
-Sharp Coronado Hospital and Healthcare Center,CA,San Diego,2017,0,0,3,6,0,0,1,0,0,7,0,17,No
-Sharp Memorial Hospital,CA,San Diego,2017,8,31,506,99,4,18,27,8,71,32,4,808,No
-Shasta Regional Medical Center,CA,Shasta,2017,0,0,0,10,0,1,9,1,0,2,1,24,No
-Sherman Oaks Hospital,CA,Los Angeles,2017,0,0,0,6,0,0,0,0,0,1,0,7,No
-Sierra Nevada Memorial Hospital,CA,Nevada,2017,0,0,56,15,0,1,1,0,1,7,0,81,No
-Sierra View Medical Center,CA,Tulare,2017,0,0,42,10,0,0,0,0,0,2,0,54,No
-Sierra Vista Regional Medical Center,CA,San Luis Obispo,2017,0,22,30,19,0,1,9,3,27,4,0,115,No
-Silver Lake Medical Center Downtown Campus,CA,Los Angeles,2017,0,0,2,1,0,0,0,0,1,0,0,4,No
-Simi Valley Hospital and Healthcare Services Sycamore,CA,Ventura,2017,0,3,6,14,0,1,0,1,0,3,0,28,No
-Soldiers & Sailors,PA,Tioga,2018,0,0,5,7,0,0,0,0,0,0,0,12,No
-Somerset,PA,Somerset,2018,0,0,8,9,0,0,0,0,0,3,0,20,No
-Sonoma Valley Hospital,CA,Sonoma,2017,0,0,0,5,0,0,0,0,0,1,0,6,No
-Sonora Regional Medical Center Greenley,CA,Tuolumne,2017,0,0,69,6,0,0,0,0,0,2,0,77,No
-Soon-Shiong MC Windber,PA,Somerset,2018,0,0,55,17,0,0,0,0,0,0,0,72,No
-South Coast Global Medical Center,CA,Orange,2017,0,0,27,3,0,0,0,0,6,1,0,37,No
-Southern California Hospital at Culver City,CA,Los Angeles,2017,0,0,26,7,0,0,3,1,6,5,4,52,No
-Southern California Hospital at Hollywood,CA,Los Angeles,2017,0,0,0,4,0,0,0,0,4,4,0,12,No
-Southwest Healthcare System Murrieta,CA,Riverside,2017,2,25,82,32,1,1,0,0,48,14,1,206,No
-St Clair,PA,Allegheny,2018,14,0,203,48,4,0,52,0,81,13,1,416,No
-St Joseph Reading,PA,Berks,2018,1,2,58,24,0,0,9,0,0,3,2,99,No
-St Luke's Anderson,PA,Northampton,2018,8,0,217,5,0,0,0,0,0,0,0,230,No
-St Luke's Bethlehem,PA,Lehigh,2018,19,28,114,96,12,7,73,21,113,26,11,520,No
-St Luke's Miners,PA,Schuylkill,2018,2,0,6,1,0,0,0,0,0,0,0,9,No
-St Luke's Monroe,PA,Monroe,2018,1,0,1,6,0,0,0,0,1,0,0,9,No
-St Luke's Quakertown,PA,Bucks,2018,1,0,8,6,0,0,0,0,1,0,0,16,No
-St Luke's Sacred Heart,PA,Lehigh,2018,0,0,18,3,0,0,1,0,0,0,0,22,No
-St Mary MC,PA,Bucks,2018,13,6,168,42,0,0,19,0,53,9,0,310,No
-Stanford Health Care,CA,Santa Clara,2017,74,101,561,99,48,137,131,73,215,103,45,1587,Yes
-Stanislaus Surgical Hospital,CA,Stanislaus,2017,0,0,6,0,0,0,0,0,0,0,0,6,No
-Suburban Community,PA,Montgomery,2018,4,0,0,10,0,0,1,0,9,1,0,25,No
-Sunbury Community,PA,Northumberland,2018,1,0,0,4,0,0,0,0,1,0,0,6,No
-Surgical Inst Reading,PA,Berks,2018,0,0,15,1,0,0,0,0,0,0,0,16,No
-Surgical Spec Coordinated,PA,Lehigh,2018,0,0,24,0,0,0,0,0,0,0,0,24,No
-Sutter Amador Hospital,CA,Amador,2017,0,0,2,11,0,0,0,0,0,0,0,13,No
-Sutter Auburn Faith Hospital,CA,Placer,2017,1,0,52,10,0,2,1,0,0,2,1,69,No
-Sutter Coast Hospital,CA,Del Norte,2017,0,0,13,6,0,0,0,0,0,0,0,19,No
-Sutter Davis Hospital,CA,Yolo,2017,0,0,16,2,0,0,0,0,2,1,0,21,No
-Sutter Delta Medical Center,CA,Contra Costa,2017,0,0,28,7,0,0,0,0,2,1,0,38,No
-Sutter Lakeside Hospital,CA,Lake,2017,0,0,0,4,0,0,1,0,0,2,0,7,No
-Sutter Medical Center of Santa Rosa,CA,Sonoma,2014,1,0,72,19,0,0,7,0,0,0,1,100,No
-"Sutter Medical Center, Sacramento",CA,Sacramento,2017,3,38,296,47,10,8,31,7,137,22,6,605,No
-Sutter Memorial Hospital,CA,Sacramento,2015,0,11,0,2,0,0,2,0,0,0,0,15,No
-Sutter Roseville Medical Center,CA,Placer,2017,1,19,163,46,0,2,50,2,72,17,1,373,No
-Sutter Santa Rosa Regional Hospital,CA,Sonoma,2017,0,0,76,19,3,0,3,0,0,11,1,113,No
-Sutter Solano Medical Center,CA,Solano,2017,0,0,52,21,0,0,1,0,2,12,1,89,No
-Sutter Surgical Hospital North Valley,CA,Sutter,2017,0,0,82,6,0,0,0,0,0,2,0,90,No
-Sutter Tracy Community Hospital,CA,San Joaquin,2017,0,0,20,11,0,0,0,0,0,3,0,34,No
-Tahoe Forest Hospital,CA,Nevada,2017,0,0,26,8,0,0,0,0,3,0,1,38,No
-Taylor Crozer,PA,Delaware,2018,2,0,1,8,0,0,0,0,1,0,0,12,No
-Temecula Valley Hospital,CA,Riverside,2017,0,0,62,13,0,2,7,0,1,6,4,95,No
-Temple Community Hospital,CA,Los Angeles,2014,0,0,2,2,0,0,0,0,0,0,0,4,No
-Temple University,PA,Philadelphia,2018,14,28,107,36,6,13,61,4,128,16,8,421,No
-Thomas Jefferson Univ,PA,Philadelphia,2018,39,141,251,66,28,25,92,114,94,17,24,891,Yes
-Titusville Area,PA,Crawford,2018,0,0,0,7,0,0,0,0,0,0,0,7,No
-Torrance Memorial Medical Center,CA,Los Angeles,2017,4,13,347,96,5,7,47,8,68,38,6,639,No
-Tri-City Medical Center ñ Oceanside,CA,San Diego,2017,1,5,89,34,0,0,9,1,34,17,0,190,No
-Trinity Hospital,CA,Trinity,2016,0,0,1,0,0,0,0,0,0,0,0,1,No
-Troy Community,PA,Bradford,2018,0,0,0,2,0,0,0,0,0,0,0,2,No
-Tulare Regional Medical Center,CA,Tulare,2017,0,0,2,1,0,0,0,0,0,0,0,3,No
-Twin Cities Community Hospital,CA,San Luis Obispo,2017,0,0,35,11,0,1,0,0,6,4,0,57,No
-Tyler Memorial,PA,Wyoming,2018,0,0,3,2,0,0,0,0,0,0,0,5,No
-Tyrone Regional Health,PA,Blair,2018,0,0,24,1,0,0,0,0,0,0,0,25,No
-UC Davis Medical Center,CA,Sacramento,2017,37,59,205,37,7,16,54,27,62,31,3,538,Yes
-UC Irvine Medical Center,CA,Orange,2017,21,108,144,57,6,19,32,42,59,58,21,567,Yes
-UC San Diego Health System Hillcrest Medical Center,CA,San Diego,2017,34,69,381,108,19,62,74,38,151,47,23,1006,Yes
-UC San Francisco Medical Center,CA,San Francisco,2017,61,354,459,108,28,152,97,57,313,100,31,1760,Yes
-Ukiah Valley Medical Center,CA,Mendocino,2017,0,0,102,19,0,0,3,0,0,1,0,125,No
-Uniontown,PA,Fayette,2018,1,0,75,26,1,0,3,0,2,4,0,112,No
-University of Southern California Verdugo Hills Hospital,CA,Los Angeles,2017,3,0,52,7,0,0,0,1,117,4,0,184,No
-UPMC Altoona,PA,Blair,2018,5,2,68,39,0,0,17,0,21,5,2,159,No
-UPMC Bedford,PA,Bedford,2018,2,0,9,4,0,0,0,0,2,0,0,17,No
-UPMC Cole,PA,Potter,2018,0,0,6,3,0,0,0,0,0,0,0,9,No
-UPMC East,PA,Allegheny,2018,11,0,2,24,0,0,10,0,2,0,1,50,No
-UPMC Hamot,PA,Erie,2018,7,14,152,40,0,1,31,0,43,10,1,299,No
-UPMC Horizon,PA,Mercer,2018,3,0,69,6,0,0,0,0,2,0,0,80,No
-UPMC Jameson,PA,Lawrence,2018,3,0,35,21,0,0,3,0,4,0,0,66,No
-UPMC Kane,PA,McKean,2018,0,0,2,0,0,0,0,0,0,0,0,2,No
-UPMC McKeesport,PA,Allegheny,2018,2,0,6,14,0,0,0,0,1,0,0,23,Yes
-UPMC Mercy,PA,Allegheny,2018,35,14,3,22,7,1,35,0,55,5,0,177,No
-UPMC Northwest,PA,Venango,2018,6,0,27,13,0,0,0,0,1,0,0,47,No
-UPMC Passavant,PA,Allegheny,2018,3,0,211,115,18,37,71,0,27,62,4,548,Yes
-UPMC Pinnacle Carlisle,PA,Cumberland,2018,3,0,11,10,0,0,0,0,4,0,0,28,No
-UPMC Pinnacle Hanover,PA,York,2018,1,0,66,20,0,0,0,0,0,2,0,89,No
-UPMC Pinnacle Hospitals,PA,Dauphin,2018,27,0,331,115,2,2,34,3,78,20,1,613,No
-UPMC Pinnacle Lancaster,PA,Lancaster,2018,5,2,6,7,1,0,10,4,18,4,3,60,No
-UPMC Pinnacle Lititz,PA,Lancaster,2018,2,0,54,5,0,0,0,0,0,0,0,61,No
-UPMC Pinnacle Memorial,PA,York,2018,0,0,18,14,0,0,0,0,0,2,0,34,No
-UPMC Presby Shadyside,PA,Allegheny,2018,104,168,80,181,54,130,170,85,342,39,38,1391,Yes
-UPMC St Margaret,PA,Allegheny,2018,8,0,46,40,0,1,48,0,1,5,4,153,No
-Valley Presbyterian Hospital,CA,Los Angeles,2017,2,2,154,21,0,6,2,3,2,11,7,210,No
-Valleycare Medical Center,CA,Alameda,2017,0,0,85,21,0,0,6,1,0,4,1,118,No
-Ventura County Medical Center,CA,Ventura,2017,0,4,59,12,2,8,0,4,14,10,3,116,No
-Vibra Hospital of San Diego,CA,San Diego,2017,0,0,0,0,0,0,0,0,0,1,0,1,No
-Victor Valley Global Medical Center,CA,San Bernardino,2017,0,0,33,11,0,0,0,0,0,5,0,49,No
-Warren General,PA,Warren,2018,0,0,21,5,0,0,0,0,0,0,0,26,No
-Washington,PA,Washington,2018,2,0,57,36,2,0,27,0,30,2,1,157,No
-Washington Hospital ñ Fremont,CA,Alameda,2017,0,9,25,37,3,1,8,0,3,5,0,91,No
-Watsonville Community Hospital,CA,Santa Cruz,2017,0,0,23,9,0,0,0,0,1,1,1,35,No
-Wayne Memorial,PA,Wayne,2018,0,0,23,10,0,0,0,0,0,1,0,34,No
-Waynesboro,PA,Franklin,2018,0,0,49,4,0,0,0,0,0,1,0,54,No
-WellSpan Gettysburg,PA,Adams,2018,1,0,57,27,0,0,0,0,1,1,0,87,No
-WellSpan Good Samaritan,PA,Lebanon,2018,1,0,72,12,0,0,4,0,2,2,0,93,No
-West Anaheim Medical Center,CA,Orange,2017,0,0,2,4,0,0,1,0,0,0,0,7,No
-West Hills Hospital and Medical Center,CA,Los Angeles,2017,0,14,47,19,0,0,6,0,2,4,0,92,No
-West Penn,PA,Allegheny,2018,2,5,64,6,15,2,0,1,7,4,4,110,No
-Western Medical Center Anaheim,CA,Orange,2014,0,0,3,5,0,0,0,0,0,1,0,9,No
-Western Medical Center ñ Santa Ana,CA,Orange,2014,0,7,31,11,0,0,1,0,1,0,1,52,No
-White Memorial Medical Center,CA,Los Angeles,2017,1,12,96,22,0,2,1,1,4,23,6,168,No
-Whittier Hospital Medical Center,CA,Los Angeles,2017,0,0,18,12,0,0,3,0,0,6,4,43,No
-Wilkes-Barre General,PA,Luzerne,2018,9,3,71,50,0,1,19,0,27,14,3,197,No
-Williamsport Regional,PA,Lycoming,2018,12,7,82,20,0,0,12,0,26,4,0,163,No
-Woodland Memorial Hospital,CA,Yolo,2017,0,0,42,6,0,0,0,0,0,6,0,54,No
-York,PA,York,2018,5,19,104,79,15,5,91,12,4,20,6,360,No
+﻿,Hospital.Name,State,County,Year,Bladder,Brain,Breast,Colon,Esophagus,Liver,Lung,Pancreas,Prostate,Rectum,Stomach,Total.Surgeries.for.All.Cancer.Types,National.Cancer.Institute.Designation.
+1,Abington Memorial,PA,Montgomery,2018,6,19,146,82,6,3,49,8,47,24,6,396,No
+2,ACMH,PA,Armstrong,2018,2,0,21,11,0,0,5,0,0,2,0,41,No
+3,Adventist Medical Center,CA,Kings,2017,0,0,40,14,1,0,1,0,1,9,1,67,No
+4,AHMC Anaheim Regional Medical Center,CA,Orange,2017,1,3,97,35,0,0,11,0,8,1,1,157,No
+5,Alameda Hospital,CA,Alameda,2017,0,0,2,1,0,0,0,0,0,2,0,5,No
+6,Albert Einstein,PA,Philadelphia,2018,8,10,168,36,2,5,16,5,33,4,2,289,No
+7,Alhambra Hospital Medical Center,CA,Los Angeles,2017,0,0,17,31,0,1,9,0,1,13,10,82,No
+9,Allegheny General,PA,Allegheny,2018,29,104,184,79,18,33,113,49,97,27,13,746,No
+10,Allegheny Valley,PA,Allegheny,2018,0,0,35,10,0,0,0,0,0,0,0,45,No
+11,Alta Bates Summit Medical Center,CA,Alameda,2017,0,0,303,69,6,7,23,6,25,28,15,482,No
+12,Alta Bates Summit Medical Center Alta Bates Campus,CA,Alameda,2017,0,7,75,9,0,2,0,2,3,1,3,102,No
+13,Alta Bates Summit Medical Center Summit Campus Hawthorne,CA,Alameda,2014,0,0,311,60,0,7,15,6,24,13,9,445,No
+14,Alvarado Hospital,CA,San Diego,2017,0,1,12,6,1,0,3,0,1,1,0,25,No
+15,Anaheim General Hospital,CA,Orange,2013,0,0,2,0,0,0,0,0,0,0,0,2,No
+16,Anaheim Global Medical Center,CA,Orange,2017,0,0,1,1,0,1,2,0,0,1,0,6,No
+17,Antelope Valley Hospital,CA,Los Angeles,2017,0,22,118,29,0,3,7,5,32,10,5,231,No
+18,Arrowhead Regional Medical Center,CA,San Bernardino,2017,2,28,30,15,0,2,4,2,7,11,4,105,No
+19,Bakersfield Heart Hospital,CA,Kern,2017,0,0,4,5,0,0,0,0,0,0,1,10,No
+20,Bakersfield Memorial Hospital,CA,Kern,2017,2,20,73,35,0,1,15,1,11,13,2,173,No
+21,Banner Lassen Medical Center,CA,Lassen,2016,0,0,0,1,0,0,0,0,0,0,0,1,No
+22,Barnes-Kasson County,PA,Susquehanna,2018,0,0,0,1,0,0,0,0,0,0,0,1,No
+23,Barstow Community Hospital,CA,San Bernardino,2017,0,0,5,1,0,0,0,0,0,0,0,6,No
+24,Barton Memorial Hospital,CA,El Dorado,2017,1,0,12,4,0,0,0,0,8,3,0,28,No
+25,Bellflower Medical Center,CA,Los Angeles,2013,0,0,4,2,0,0,0,0,0,0,0,6,No
+26,Berwick,PA,Columbia,2018,1,0,8,1,0,0,0,0,0,0,0,10,No
+27,Beverly Hospital,CA,Los Angeles,2017,1,0,38,5,0,0,1,0,5,5,3,58,No
+28,Biggs Gridley Memorial Hospital,CA,Butte,2014,0,0,1,2,0,0,0,0,0,0,0,3,No
+29,Blue Mountain,PA,Carbon,2018,0,0,9,6,1,0,0,0,0,0,0,16,No
+30,Bradford Regional,PA,McKean,2018,0,0,21,5,0,0,0,0,0,0,1,27,No
+31,Brandywine,PA,Chester,2018,3,0,21,10,0,0,2,0,3,3,0,42,No
+32,Bryn Mawr,PA,Montgomery,2018,22,3,155,32,0,1,25,0,115,10,3,366,No
+33,Butler Memorial,PA,Butler,2018,7,2,59,31,0,0,26,0,31,0,0,156,No
+34,California Hospital Medical Center Los Angeles,CA,Los Angeles,2017,1,7,66,19,1,3,1,3,1,8,5,115,No
+35,California Pacific Medical Center Davies Campus,CA,San Francisco,2017,0,23,55,0,0,0,0,0,0,0,0,78,No
+36,California Pacific Medical Center Pacific Campus,CA,San Francisco,2017,1,23,429,85,5,65,20,43,10,34,13,728,No
+37,California Pacific Medical Center St. Lukeís Campus,CA,San Francisco,2017,0,0,9,7,0,0,0,0,1,2,0,19,No
+38,Canonsburg,PA,Washington,2018,5,0,4,6,0,0,0,0,4,0,0,19,No
+39,Casa Colina Hospital,CA,Los Angeles,2017,0,2,18,3,0,0,0,0,2,2,0,27,No
+40,Cedars Sinai Medical Center,CA,Los Angeles,2017,22,168,755,129,14,64,86,49,158,74,28,1547,No
+41,Centinela Hospital Medical Center,CA,Los Angeles,2017,0,4,6,13,0,1,2,0,0,1,2,29,No
+42,Chambersburg,PA,Franklin,2018,2,0,51,30,0,0,3,0,19,5,0,110,No
+43,Chapman Global Medical Center,CA,Orange,2017,0,0,0,0,0,0,0,0,0,1,0,1,No
+44,Chapman Medical Center,CA,Orange,2014,0,0,1,1,0,0,0,0,0,2,0,4,No
+45,Chester County,PA,Chester,2018,14,0,253,38,0,1,1,0,37,1,0,345,No
+46,Chestnut Hill,PA,Philadelphia,2018,3,0,52,8,0,0,0,0,6,3,0,72,No
+47,Chinese Hospital,CA,San Francisco,2017,0,0,0,15,0,0,0,0,1,2,4,22,No
+48,Chino Valley Medical Center,CA,San Bernardino,2017,0,0,16,6,0,0,0,0,0,3,2,27,No
+49,Citrus Valley Medical Center Inter Community Campus,CA,Los Angeles,2017,0,2,11,20,0,0,1,1,1,1,3,40,No
+50,Citrus Valley Medical Center Queen of the Valley Campus,CA,Los Angeles,2017,5,8,37,26,0,1,4,2,96,4,1,184,No
+51,City of Hope Helford Clinical Research Hospital,CA,Los Angeles,2017,50,77,473,71,10,90,60,30,218,52,26,1157,Yes
+52,Clarion,PA,Clarion,2018,1,0,11,13,0,0,0,0,0,1,0,26,No
+53,Clovis Community Medical Center,CA,Fresno,2017,0,0,336,65,4,0,3,2,32,20,4,466,No
+54,Coast Plaza Hospital,CA,Los Angeles,2017,0,0,4,5,0,0,0,0,0,2,0,11,No
+55,Coastal Communities Hospital,CA,Orange,2014,0,0,26,3,0,0,0,0,1,1,0,31,No
+56,College Medical Center,CA,Los Angeles,2017,1,0,0,5,0,0,0,0,1,1,0,8,No
+57,Colorado River Medical Center,CA,San Bernardino,2016,0,0,1,0,0,0,0,0,0,1,0,2,No
+58,Colusa Regional Medical Center,CA,Colusa,2013,0,0,0,1,0,0,0,0,0,0,0,1,No
+59,Community and Mission Hospital of Huntington Park Slauson,CA,Los Angeles,2017,0,0,2,1,0,0,0,0,0,1,0,4,No
+60,Community Hospital Long Beach,CA,Los Angeles,2017,0,0,1,2,0,1,0,0,0,1,0,5,No
+61,Community Hospital of San Bernardino,CA,San Bernardino,2017,0,0,15,5,0,1,0,0,0,3,1,25,No
+62,Community Hospital of The Monterey Peninsula,CA,Monterey,2017,1,19,55,47,2,3,13,4,6,24,5,179,No
+63,Community Memorial Hospital San Buenaventura,CA,Ventura,2017,4,9,160,41,0,1,18,2,69,17,1,322,No
+64,Community Regional Medical Center  Fresno,CA,Fresno,2017,0,71,70,49,3,8,46,6,29,22,7,311,No
+65,Conemaugh Memorial,PA,Cambria,2018,17,11,81,41,0,2,22,1,26,15,1,217,No
+66,Conemaugh Nason MC,PA,Blair,2018,0,0,10,6,0,0,0,0,0,0,0,16,No
+67,Contra Costa Regional Medical Center,CA,Contra Costa,2017,0,0,46,21,0,2,0,1,1,4,3,78,No
+68,Coordinated Health Ortho,PA,Northampton,2018,1,0,1,0,0,0,0,0,5,0,0,7,No
+69,Corona Regional Medical Center Main,CA,Riverside,2017,0,0,67,20,0,2,0,0,0,7,1,97,No
+70,Crozer-Chester,PA,Delaware,2018,4,8,107,29,0,2,6,5,20,9,0,190,No
+71,Dameron Hospital,CA,San Joaquin,2017,0,0,1,7,0,1,0,2,0,5,0,16,No
+72,Delano Regional Medical Center,CA,Kern,2017,0,0,10,5,0,0,0,0,1,0,0,16,No
+73,Delaware County Memorial,PA,Delaware,2018,1,0,58,6,0,0,4,0,0,4,1,74,No
+74,Desert Regional Medical Center,CA,Riverside,2017,0,30,178,35,3,3,21,0,11,17,2,300,No
+75,Desert Valley Hospital,CA,San Bernardino,2017,4,0,4,3,0,0,3,0,40,3,0,57,No
+76,Doctors Hospital of Manteca,CA,San Joaquin,2017,0,0,34,9,0,0,0,0,0,0,0,43,No
+77,Doctors Medical Center,CA,Stanislaus,2017,2,14,163,42,0,4,14,6,35,22,4,306,No
+78,Doctors Medical Center San Pablo,CA,Contra Costa,2015,0,0,1,0,0,0,0,0,0,1,0,2,No
+79,Dominican Hospital,CA,Santa Cruz,2017,6,16,41,19,0,2,17,0,21,6,1,129,No
+80,Doylestown,PA,Bucks,2018,33,0,89,25,0,0,9,0,32,7,3,198,No
+81,East Los Angeles Doctors Hospital,CA,Los Angeles,2017,0,0,0,2,0,0,0,0,0,4,0,6,No
+82,Eastern Regional,PA,Philadelphia,2018,4,0,94,6,2,3,27,1,18,10,2,167,No
+83,Easton,PA,Northampton,2018,4,0,31,17,1,0,5,1,0,4,3,66,No
+84,Eden Medical Center,CA,Alameda,2017,3,36,67,22,0,2,3,1,2,10,2,148,No
+85,Einstein MC Montgomery,PA,Montgomery,2018,5,0,89,17,0,0,10,0,18,0,0,139,No
+86,Eisenhower Medical Center,CA,Riverside,2017,5,12,161,84,0,3,45,1,74,32,5,422,No
+87,El Camino Hospital,CA,Santa Clara,2017,6,9,131,66,0,7,37,7,101,13,5,382,No
+88,El Centro Regional Medical Center,CA,Imperial,2017,0,0,14,6,0,0,0,0,6,3,1,30,No
+89,Ellwood City,PA,Lawrence,2018,0,0,3,0,0,0,0,0,0,0,0,3,No
+90,Emanuel Medical Center,CA,Stanislaus,2017,0,0,46,26,0,3,0,1,1,17,1,95,No
+91,Encino Hospital Medical Center,CA,Los Angeles,2017,0,0,1,0,0,0,0,0,0,0,1,2,No
+92,Enloe Medical Center  Esplanade,CA,Butte,2017,1,10,170,45,0,1,7,0,13,24,3,274,No
+93,Ephrata Community,PA,Lancaster,2018,3,0,54,15,0,0,11,0,1,0,0,84,No
+94,Evangelical Community,PA,Union,2018,0,0,76,14,0,0,0,0,0,1,0,91,No
+95,Excela Health Latrobe,PA,Westmoreland,2018,3,0,76,27,0,0,2,0,18,1,1,128,No
+96,Excela Hlth Westmoreland,PA,Westmoreland,2018,1,2,65,21,5,0,50,0,11,3,0,158,No
+97,Fairchild Medical Center,CA,Siskiyou,2017,0,0,13,5,0,0,0,0,0,0,0,18,No
+98,Fallbrook Hospital District,CA,San Diego,2014,0,0,10,1,0,0,0,0,0,0,0,11,No
+99,Feather River Hospital,CA,Butte,2017,1,0,63,13,0,1,7,1,0,5,0,91,No
+100,Foothill Presbyterian Hospital Johnston Memorial,CA,Los Angeles,2017,1,3,28,20,0,3,1,0,39,6,0,101,No
+101,Foothill Regional Medical Center,CA,Orange,2017,0,0,0,6,0,0,0,0,0,2,0,8,No
+102,Forbes,PA,Allegheny,2018,18,6,112,54,2,0,31,0,8,7,0,238,No
+103,Fountain Valley Regional Hospital and Medical Center  Euclid,CA,Orange,2017,0,6,84,47,2,19,31,13,1,28,11,242,No
+104,Frank R. Howard Memorial Hospital,CA,Mendocino,2015,0,0,0,5,0,0,0,0,0,0,0,5,No
+105,French Hospital Medical Center,CA,San Luis Obispo,2017,0,0,10,10,1,0,3,0,7,1,0,32,No
+106,Fresno Heart and Surgical Hospital,CA,Fresno,2015,0,0,0,16,0,0,23,1,0,5,1,46,No
+107,Fresno Surgical Hospital,CA,Fresno,2017,0,0,75,0,0,0,0,0,4,0,0,79,No
+108,Frick,PA,Westmoreland,2018,1,0,8,4,0,0,0,0,1,0,0,14,No
+109,Garden Grove Hospital and Medical Center,CA,Orange,2017,0,0,4,6,0,0,0,0,1,3,1,15,No
+110,Gardens Regional Hospital and Medical Center,CA,Los Angeles,2016,0,0,1,3,0,0,0,0,0,4,0,8,No
+111,Garfield Medical Center,CA,Los Angeles,2017,0,16,102,35,3,1,33,5,30,15,15,255,No
+112,Geisinger Bloomsburg,PA,Columbia,2018,0,0,24,4,0,0,0,0,0,0,0,28,No
+113,Geisinger Community,PA,Lackawanna,2018,2,12,102,28,0,0,30,0,2,19,0,195,No
+114,Geisinger Danville,PA,Montour,2018,23,43,166,80,12,5,47,24,42,46,4,492,No
+115,Geisinger Jersey Shore,PA,Lycoming,2018,0,0,0,3,0,0,0,0,0,0,0,3,No
+116,Geisinger Lewistown,PA,Mifflin,2018,0,0,34,14,0,0,0,0,0,0,0,48,No
+117,Geisinger Wyoming Valley,PA,Luzerne,2018,6,29,99,41,13,13,27,8,32,9,6,283,No
+118,George L. Mee Memorial Hospital,CA,Monterey,2013,0,0,0,1,0,0,0,0,0,0,0,1,No
+119,Glendale Adventist Medical Center,CA,Los Angeles,2017,1,23,119,42,1,9,8,4,17,16,5,245,No
+120,Glendale Memorial Hospital and Medical Center,CA,Los Angeles,2017,1,3,35,28,0,0,21,0,4,18,1,111,No
+121,Glendora Community Hospital,CA,Los Angeles,2017,0,0,1,1,0,0,0,0,0,0,1,3,No
+122,Goleta Valley Cottage Hospital,CA,Santa Barbara,2017,0,0,12,0,0,0,0,0,0,0,0,12,No
+123,Good Samaritan Hospital Bakersfield,CA,Kern,2017,0,0,1,0,0,0,0,0,3,0,0,4,No
+124,Good Samaritan Hospital Los Angeles,CA,Los Angeles,2017,0,7,26,16,0,8,6,6,2,5,11,87,No
+125,Good Samaritan Hospital San Jose,CA,Santa Clara,2017,0,17,179,61,0,5,25,9,30,16,3,345,No
+126,Grand View,PA,Bucks,2018,0,0,103,19,3,1,15,1,0,1,0,143,No
+127,Greater El Monte Community Hospital,CA,Los Angeles,2017,0,0,2,1,0,0,0,0,1,0,0,4,No
+128,Grossmont Hospital,CA,San Diego,2017,2,19,105,53,3,2,16,13,9,10,2,234,No
+129,Grove City,PA,Mercer,2018,0,0,0,7,0,0,0,0,0,0,0,7,No
+130,Hahnemann University,PA,Philadelphia,2018,5,7,55,21,5,12,8,5,17,3,4,142,No
+131,Hazel Hawkins Memorial Hospital,CA,San Benito,2017,0,0,13,1,0,0,0,0,1,0,0,15,No
+132,Healdsburg District Hospital,CA,Sonoma,2015,0,0,0,2,0,0,0,0,0,0,0,2,No
+133,Hemet Valley Medical Center,CA,Riverside,2017,1,0,26,16,0,3,0,2,14,7,0,69,No
+134,Henry Mayo Newhall Hospital,CA,Los Angeles,2017,1,13,26,13,1,1,8,0,11,4,2,80,No
+135,Heritage Valley Beaver,PA,Beaver,2018,5,0,96,32,0,0,5,0,4,8,2,152,No
+136,Heritage Valley Sewickley,PA,Allegheny,2018,6,0,40,17,1,0,1,0,5,1,0,71,No
+137,Hi-Desert Medical Center,CA,San Bernardino,2017,0,0,0,1,0,0,0,0,0,0,0,1,No
+138,Highland Hospital,CA,Alameda,2017,1,0,38,12,2,0,7,2,20,8,2,92,No
+139,Highlands,PA,Fayette,2018,0,0,0,2,0,0,0,0,0,0,0,2,No
+140,Hoag Memorial Hospital Presbyterian,CA,Orange,2017,11,91,625,111,13,24,91,28,186,46,8,1234,No
+141,Hollywood Presbyterian Medical Center,CA,Los Angeles,2017,0,2,45,34,0,2,2,1,2,6,15,109,No
+142,Holy Redeemer,PA,Montgomery,2018,3,0,188,22,0,0,4,0,1,2,0,220,No
+143,Holy Spirit,PA,Cumberland,2018,4,5,162,19,1,0,6,0,17,0,2,216,No
+144,Hospital Fox Chase Cancer,PA,Philadelphia,2018,128,0,511,55,23,65,144,17,258,31,11,1243,Yes
+145,Hospital University PA,PA,Philadelphia,2018,65,246,601,117,43,100,233,69,215,61,47,1797,Yes
+146,Huntington Beach Hospital,CA,Orange,2017,0,0,0,2,0,0,0,0,0,0,0,2,No
+147,Huntington Memorial Hospital,CA,Los Angeles,2017,21,23,124,81,6,24,39,17,167,35,18,555,No
+148,Indiana Regional,PA,Indiana,2018,4,0,45,17,0,0,0,0,0,4,0,70,No
+149,JC Blair Memorial,PA,Huntingdon,2018,0,0,9,10,0,0,0,0,0,0,0,19,No
+150,Jeanes,PA,Philadelphia,2018,2,25,9,16,0,0,0,0,0,3,0,55,No
+151,Jefferson,PA,Allegheny,2018,10,0,109,54,0,0,20,0,17,7,4,221,No
+152,Jefferson Health NE,PA,Philadelphia,2018,14,6,153,48,0,2,7,0,30,15,1,276,No
+153,Jennersville,PA,Chester,2018,0,0,15,8,0,0,0,0,0,0,1,24,No
+154,John F. Kennedy Memorial Hospital,CA,Riverside,2017,0,0,21,7,0,0,0,0,0,1,0,29,No
+155,John Muir Medical Center Concord Campus,CA,Contra Costa,2017,4,0,33,43,12,0,26,0,64,33,3,218,No
+156,John Muir Medical Center Walnut Creek Campus,CA,Contra Costa,2017,3,33,105,37,0,6,24,0,4,6,4,222,No
+157,Kaiser Foundation Hospital Antioch,CA,Contra Costa,2017,4,0,110,21,0,4,0,2,6,7,1,155,No
+158,Kaiser Foundation Hospital Baldwin Park,CA,Los Angeles,2017,6,0,319,48,0,1,0,2,2,21,5,404,No
+159,Kaiser Foundation Hospital Downey,CA,Los Angeles,2017,2,0,335,45,5,0,23,20,289,12,9,740,No
+160,Kaiser Foundation Hospital Fontana,CA,San Bernardino,2017,13,39,506,94,12,4,44,2,174,50,8,946,No
+161,Kaiser Foundation Hospital Fremont,CA,Alameda,2017,0,0,86,38,0,0,0,1,0,8,0,133,No
+162,Kaiser Foundation Hospital Fresno,CA,Fresno,2017,0,5,132,24,0,0,0,0,1,1,3,166,No
+163,Kaiser Foundation Hospital Hayward,CA,Alameda,2014,4,0,101,26,0,4,7,1,2,6,5,156,No
+164,Kaiser Foundation Hospital Manteca,CA,San Joaquin,2017,6,0,229,66,7,1,36,2,4,26,2,379,No
+165,Kaiser Foundation Hospital Moreno Valley,CA,Riverside,2017,0,0,43,16,0,0,0,0,0,3,1,63,No
+166,Kaiser Foundation Hospital Oakland Campus,CA,Alameda,2014,13,0,159,35,10,10,20,11,15,13,10,296,No
+167,Kaiser Foundation Hospital Oakland/Richmond,CA,Alameda,2017,22,0,290,67,28,51,97,43,34,28,6,666,No
+168,Kaiser Foundation Hospital Orange County ñ Anaheim,CA,Orange,2017,17,22,535,90,6,10,36,11,3,37,3,770,No
+169,Kaiser Foundation Hospital Panorama City,CA,Los Angeles,2017,0,0,210,46,3,7,58,6,1,6,3,340,No
+170,Kaiser Foundation Hospital Redwood City,CA,San Mateo,2017,3,140,93,27,0,0,0,0,0,0,0,263,No
+171,Kaiser Foundation Hospital Rehabilitation Center Vallejo,CA,Solano,2017,3,0,272,41,3,0,18,0,1,20,0,358,No
+172,Kaiser Foundation Hospital Riverside,CA,Riverside,2017,5,0,244,64,7,7,21,9,2,26,4,389,No
+173,Kaiser Foundation Hospital Roseville,CA,Placer,2017,7,0,456,69,0,1,0,1,2,29,0,565,No
+174,Kaiser Foundation Hospital Sacramento,CA,Sacramento,2017,1,72,249,57,0,29,0,26,0,17,17,468,No
+175,Kaiser Foundation Hospital San Diego,CA,San Diego,2017,7,29,501,88,6,15,68,9,44,33,5,805,No
+176,Kaiser Foundation Hospital San Francisco,CA,San Francisco,2017,6,0,198,40,0,27,0,26,59,47,0,403,No
+177,Kaiser Foundation Hospital San Jose,CA,Santa Clara,2017,4,0,185,60,0,12,0,10,1,12,0,284,No
+178,Kaiser Foundation Hospital San Leandro,CA,Alameda,2017,0,0,107,27,0,1,0,0,0,7,0,142,No
+179,Kaiser Foundation Hospital San Rafael,CA,Marin,2017,2,0,143,30,0,0,0,0,7,1,0,183,No
+180,Kaiser Foundation Hospital Santa Clara,CA,Santa Clara,2017,11,0,359,67,8,3,50,1,110,21,1,631,No
+181,Kaiser Foundation Hospital Santa Rosa,CA,Sonoma,2017,5,0,146,30,0,1,0,0,2,3,1,188,No
+182,Kaiser Foundation Hospital South Bay,CA,Los Angeles,2017,2,0,295,48,2,4,0,8,2,18,8,387,No
+183,Kaiser Foundation Hospital South Sacramento,CA,Sacramento,2017,41,0,247,52,9,1,77,0,235,24,2,688,No
+184,Kaiser Foundation Hospital South San Francisco,CA,San Mateo,2017,2,0,144,33,2,0,0,0,0,13,36,230,No
+185,Kaiser Foundation Hospital Sunset,CA,Los Angeles,2017,29,73,278,57,8,89,46,19,77,43,21,740,No
+186,Kaiser Foundation Hospital Vacaville,CA,Solano,2017,4,17,0,17,0,1,0,0,1,0,0,40,No
+187,Kaiser Foundation Hospital Walnut Creek,CA,Contra Costa,2017,9,0,317,69,0,3,0,0,9,29,0,436,No
+188,Kaiser Foundation Hospital West Los Angeles,CA,Los Angeles,2017,7,0,265,39,3,9,34,12,236,29,4,638,No
+189,Kaiser Foundation Hospital Woodland Hills,CA,Los Angeles,2017,3,0,300,40,0,3,0,0,8,21,3,378,No
+190,Kaweah Delta Medical Center,CA,Tulare,2017,0,0,124,37,0,2,3,2,23,16,8,215,No
+191,Keck Hospital of University of Southern California,CA,Los Angeles,2017,162,67,105,57,26,95,29,48,341,75,11,1016,No
+192,Kern Medical Center,CA,Kern,2017,1,5,43,5,2,4,2,1,12,5,1,81,No
+193,La Palma Intercommunity Hospital,CA,Orange,2017,0,0,1,7,0,0,0,0,0,0,1,9,No
+194,Lakewood Regional Medical Center,CA,Los Angeles,2017,0,4,20,19,2,1,7,2,5,9,8,77,No
+195,Lancaster General,PA,Lancaster,2018,40,18,411,103,1,0,42,0,111,34,2,762,No
+196,Lankenau MC,PA,Montgomery,2018,4,13,253,65,8,15,33,9,13,48,12,473,No
+197,Lansdale,PA,Montgomery,2018,1,0,67,11,0,0,0,0,0,0,0,79,No
+198,Lehigh Valley Allentown,PA,Lehigh,2018,27,43,203,118,12,32,56,34,58,29,13,625,No
+199,Lehigh Valley Hazleton,PA,Luzerne,2018,1,0,16,15,1,0,1,1,0,3,0,38,No
+200,Lehigh Valley Pocono,PA,Monroe,2018,0,0,2,24,0,0,18,0,5,1,3,53,No
+201,Lehigh Valley Schuylkill,PA,Schuylkill,2018,0,0,5,2,0,0,0,0,1,0,0,8,No
+202,Lock Haven,PA,Clinton,2018,0,0,0,0,0,0,0,0,2,0,0,2,No
+203,Lodi Memorial Hospital,CA,San Joaquin,2017,2,0,18,14,0,0,0,0,27,3,0,64,No
+204,Loma Linda University Medical Center,CA,San Bernardino,2017,24,70,187,51,6,42,31,19,119,42,10,601,No
+205,Loma Linda University Medical Center ñ Murrieta,CA,Riverside,2017,0,8,78,36,0,0,3,0,5,5,1,136,No
+206,Lompoc Valley Medical Center,CA,Santa Barbara,2017,0,0,11,11,0,1,0,0,0,3,0,26,No
+207,Long Beach Memorial Medical Center,CA,Los Angeles,2017,0,31,227,65,2,7,41,0,19,44,7,443,No
+208,Los Alamitos Medical Center,CA,Orange,2017,1,10,162,24,0,2,5,0,52,5,1,262,No
+209,Los Angeles Community Hospital,CA,Los Angeles,2017,0,0,1,4,0,0,0,0,6,4,0,15,No
+210,Los Angeles County/Harbor UCLA Medical Center,CA,Los Angeles,2017,0,14,107,37,0,6,3,4,13,18,8,210,No
+211,Los Angeles County/Olive View UCLA Medical Center,CA,Los Angeles,2017,4,0,96,15,3,4,4,1,5,17,7,156,No
+212,Los Angeles County/Rancho Los Amigos National Rehabilitation Center,CA,Los Angeles,2016,0,1,0,0,0,0,0,0,0,0,0,1,No
+213,Los Angeles County/University of Southern California Medical Center,CA,Los Angeles,2017,5,39,119,40,2,9,9,12,29,27,13,304,No
+214,Los Robles Hospital and Medical Center,CA,Ventura,2017,2,17,140,40,0,8,19,6,48,16,1,297,No
+215,Lower Bucks,PA,Bucks,2018,1,0,2,1,0,0,0,0,0,0,0,4,No
+216,Mad River Community Hospital,CA,Humboldt,2017,0,0,3,1,1,0,0,0,0,1,0,6,No
+217,Madera Community Hospital,CA,Madera,2017,0,0,14,15,0,4,0,0,0,3,1,37,No
+218,Magee Womens UPMC,PA,Allegheny,2018,1,0,819,4,0,0,0,0,0,1,3,828,Yes
+219,Mammoth Hospital,CA,Mono,2015,0,0,0,0,0,0,0,0,3,0,0,3,No
+220,Marian Regional Medical Center,CA,Santa Barbara,2017,0,7,190,24,0,0,3,0,40,3,3,270,No
+221,Marian Regional Medical Center ñ Arroyo Grande,CA,San Luis Obispo,2017,0,0,6,9,1,0,2,3,0,3,1,25,No
+222,Marin General Hospital,CA,Marin,2017,5,13,142,9,0,0,5,1,26,1,1,203,No
+223,Marina Del Rey Hospital,CA,Los Angeles,2017,0,0,21,5,0,0,1,0,0,2,0,29,No
+224,Mark Twain Medical Center,CA,Calaveras,2017,0,0,4,2,0,0,0,0,0,0,0,6,No
+225,Marshall Medical Center,CA,El Dorado,2017,1,0,55,7,0,1,5,1,13,5,0,88,No
+226,Meadville,PA,Crawford,2018,1,0,18,3,0,0,0,0,0,1,0,23,No
+227,Memorial Hospital Los Banos,CA,Merced,2017,0,0,1,4,0,0,0,0,0,0,0,5,No
+228,Memorial Hospital Medical Center Modesto,CA,Stanislaus,2017,1,13,150,42,1,2,9,6,4,17,2,247,No
+229,Memorial Hospital of Gardena,CA,Los Angeles,2017,1,0,9,8,0,0,0,0,0,0,0,18,No
+230,Mendocino Coast District Hospital,CA,Mendocino,2017,0,0,7,5,0,0,0,0,0,0,0,12,No
+231,Menifee Valley Medical Center,CA,Riverside,2017,0,0,27,6,0,1,0,0,0,1,3,38,No
+232,Menlo Park Surgical Hospital,CA,San Mateo,2017,0,0,122,0,0,0,0,0,0,0,0,122,No
+233,Mercy Fitzgerald,PA,Delaware,2018,1,1,12,20,1,0,9,1,1,1,1,48,No
+234,Mercy General Hospital,CA,Sacramento,2017,0,10,71,51,0,1,0,1,2,30,4,170,No
+235,Mercy Hospital Bakersfield,CA,Kern,2017,1,6,63,18,0,1,0,1,12,6,1,109,No
+236,Mercy Hospital Folsom,CA,Sacramento,2014,2,0,40,14,0,0,0,0,51,2,0,109,No
+237,Mercy Hospital of Folsom,CA,Sacramento,2017,5,0,45,11,0,0,0,0,27,4,0,92,No
+238,Mercy Medical Center Merced,CA,Merced,2017,0,0,27,23,0,1,0,0,1,8,1,61,No
+240,Mercy Medical Center Mt. Shasta,CA,Siskiyou,2017,0,0,3,4,0,0,0,0,0,0,0,7,No
+239,Mercy Medical Center Redding,CA,Shasta,2017,0,26,27,27,0,2,22,2,26,5,0,137,No
+241,Mercy Philadelphia,PA,Philadelphia,2018,2,0,18,10,1,0,4,0,1,0,3,39,No
+242,Mercy San Juan Hospital,CA,Sacramento,2017,0,30,108,41,6,2,50,1,53,33,0,324,No
+243,Methodist Division/TJUH,PA,Philadelphia,2018,1,0,21,18,0,0,0,0,6,8,2,56,No
+244,Methodist Hospital of Sacramento,CA,Sacramento,2017,1,0,102,12,0,0,0,1,0,4,3,123,No
+245,Methodist Hospital of Southern California,CA,Los Angeles,2017,1,7,80,33,3,4,1,2,0,19,3,153,No
+246,Millcreek Community,PA,Erie,2018,1,0,2,8,0,0,0,0,0,1,0,12,No
+247,Milton S Hershey,PA,Dauphin,2018,32,48,248,71,12,5,36,18,83,34,14,601,No
+248,Mission Community Hospital ñ Panorama Campus,CA,Los Angeles,2017,0,0,18,5,0,0,0,0,2,0,0,25,No
+249,Mission Hospital Laguna Beach,CA,Orange,2017,0,0,7,6,0,0,0,0,0,1,1,15,No
+250,Mission Hospital Regional Medical Center,CA,Orange,2017,2,30,65,41,6,1,45,2,25,12,3,232,No
+251,Monongahela Valley,PA,Washington,2018,4,0,55,11,0,0,3,0,2,3,2,80,No
+252,Monrovia Medical Center,CA,Los Angeles,2016,0,0,0,1,0,0,0,0,0,0,0,1,No
+253,Montclair Hospital Medical Center,CA,San Bernardino,2017,0,0,2,1,0,0,0,0,0,2,0,5,No
+254,Monterey Park Hospital,CA,Los Angeles,2017,0,0,25,11,0,2,3,0,0,3,1,45,No
+255,Moses Taylor,PA,Lackawanna,2018,1,0,70,12,0,0,0,0,2,3,0,88,No
+256,Mount Nittany,PA,Centre,2018,7,0,74,26,1,0,39,0,28,3,1,179,No
+257,Natividad Medical Center,CA,Monterey,2017,0,0,10,11,0,0,0,0,1,1,0,23,No
+258,Nazareth,PA,Philadelphia,2018,2,0,21,7,0,0,0,0,0,2,0,32,No
+259,North Bay Medical Center,CA,Solano,2017,0,10,50,20,0,0,4,1,1,1,0,87,No
+260,Northern Inyo Hospital,CA,Inyo,2017,0,0,9,4,0,0,0,0,0,0,0,13,No
+261,Northridge Hospital Medical Center,CA,Los Angeles,2017,0,8,29,16,0,4,10,1,0,2,2,72,No
+262,Norwalk Community Hospital,CA,Los Angeles,2017,0,0,2,0,0,1,1,0,1,5,1,11,No
+263,Novato Community Hospital,CA,Marin,2017,0,0,14,3,0,0,0,0,0,1,0,18,No
+265,Oak Valley District Hospital,CA,Stanislaus,2017,0,0,4,3,0,0,0,0,0,1,0,8,No
+266,Ohio Valley,PA,Allegheny,2018,2,0,17,5,0,0,0,0,0,2,0,26,No
+264,OíConnor Hospital,CA,Santa Clara,2017,0,4,34,23,0,3,18,4,1,11,3,101,No
+267,Ojai Valley Community Hospital,CA,Ventura,2017,0,0,0,2,0,0,0,0,0,0,0,2,No
+268,Olympia Medical Center,CA,Los Angeles,2017,2,0,21,5,0,0,2,0,11,2,1,44,No
+269,Orange Coast Memorial Medical Center,CA,Orange,2017,3,9,150,45,1,38,16,12,21,19,8,322,No
+270,Orange County Global Medical Center,CA,Orange,2017,0,6,21,5,0,1,1,0,0,3,2,39,No
+271,Oroville Hospital,CA,Butte,2017,1,0,26,17,0,0,0,0,51,7,1,103,No
+272,Pacific Alliance Medical Center,CA,Los Angeles,2017,0,0,8,7,0,1,0,0,0,0,1,17,No
+273,Pacifica Hospital of the Valley,CA,Los Angeles,2017,0,0,6,1,0,0,0,0,0,0,0,7,No
+274,Palm Drive Hospital,CA,Sonoma,2016,0,0,0,1,0,0,0,0,0,0,0,1,No
+275,Palmdale Regional Medical Center,CA,Los Angeles,2017,0,4,19,31,0,1,2,0,11,8,0,76,No
+276,Palo Verde Hospital,CA,Riverside,2017,0,0,1,1,0,0,0,0,0,1,0,3,No
+277,Palomar Health Downtown Campus,CA,San Diego,2017,23,22,152,49,2,2,10,1,163,6,6,436,No
+278,Paoli,PA,Chester,2018,7,2,155,33,0,0,25,0,55,2,0,279,No
+279,Paradise Valley Hospital,CA,San Diego,2017,0,1,2,3,0,0,0,0,1,1,0,8,No
+280,Parkview Community Hospital Medical Center,CA,Riverside,2017,0,0,45,14,0,1,0,1,2,2,0,65,No
+281,Patientsí Hospital of Redding,CA,Shasta,2017,0,0,79,0,0,0,0,0,0,0,0,79,No
+282,Peninsula Medical Center,CA,San Mateo,2017,4,3,271,34,8,4,17,10,11,19,4,385,No
+283,Penn Highlands Brookville,PA,Jefferson,2018,0,0,1,1,0,0,0,0,0,0,0,2,No
+284,Penn Highlands Clearfield,PA,Clearfield,2018,0,0,8,3,0,0,0,0,0,0,0,11,No
+285,Penn Highlands DuBois,PA,Clearfield,2018,2,0,99,32,1,2,40,0,9,3,1,189,No
+286,Penn Highlands Elk,PA,Elk,2018,0,0,3,1,0,0,0,0,1,0,0,5,No
+287,Penn Presbyterian,PA,Philadelphia,2018,2,8,0,36,3,1,100,0,313,9,8,480,No
+288,Pennsylvania,PA,Philadelphia,2018,2,37,448,51,6,6,0,6,16,20,7,599,No
+289,Petaluma Valley Hospital,CA,Sonoma,2017,0,0,4,2,0,0,0,0,0,5,1,12,No
+290,Phoenixville,PA,Chester,2018,2,1,112,19,0,0,11,0,32,1,1,179,No
+291,PIH Hospital Downey,CA,Los Angeles,2017,1,2,48,13,0,0,4,0,1,3,5,77,No
+292,Pioneers Memorial Healthcare District,CA,Imperial,2017,0,5,21,11,0,0,0,0,0,0,0,37,No
+293,Placentia Linda Hospital,CA,Orange,2017,0,0,45,8,0,0,1,1,5,7,1,68,No
+294,Plumas District Hospital,CA,Plumas,2017,0,0,2,2,0,0,0,0,0,0,0,4,No
+295,Pomerado Hospital,CA,San Diego,2017,0,0,46,10,0,0,0,0,1,4,0,61,No
+296,Pomona Valley Hospital Medical Center,CA,Los Angeles,2017,0,11,162,37,0,2,3,4,12,10,4,245,No
+297,Pottstown,PA,Montgomery,2018,4,2,4,8,0,0,0,0,0,0,0,18,No
+298,Presbyterian Intercommunity Hospital,CA,Los Angeles,2017,5,8,155,46,1,4,27,1,11,21,8,287,No
+299,Priscilla Chan & Mark Zuckerberg San Francisco General Hospital & Trauma Center,CA,San Francisco,2017,6,7,53,23,0,1,4,1,1,11,5,112,No
+300,Promise Hospital of East Los Angeles East Los Angeles Campus,CA,Los Angeles,2017,0,0,1,2,0,0,0,0,0,0,0,3,No
+301,Providence Holy Cross Medical Center,CA,Los Angeles,2017,1,19,83,47,2,16,18,5,36,19,7,253,No
+302,Providence Little Company of Mary Medical Center San Pedro,CA,Los Angeles,2017,0,0,26,11,0,2,0,0,1,2,0,42,No
+303,Providence Little Company of Mary Medical Center Torrance,CA,Los Angeles,2017,1,12,181,43,0,5,10,3,35,18,3,311,No
+304,Providence Saint Johnís Health Center,CA,Los Angeles,2017,3,79,162,34,4,11,122,7,113,21,8,564,No
+305,Providence Saint Joseph Medical Center,CA,Los Angeles,2017,5,10,180,50,1,2,29,4,53,17,8,359,No
+306,Providence Tarzana Medical Center,CA,Los Angeles,2017,1,5,138,40,1,0,12,1,42,21,5,266,No
+307,Punxsutawney Area,PA,Jefferson,2018,0,0,6,5,0,0,0,0,1,1,0,13,No
+309,Queen of the Valley Medical Center,CA,Napa,2017,0,1,45,12,0,1,9,0,12,2,2,84,No
+310,Reading,PA,Berks,2018,29,13,192,69,2,0,36,7,56,7,4,415,No
+311,Redlands Community Hospital,CA,San Bernardino,2017,1,4,79,26,0,3,1,0,12,8,5,139,No
+312,Redwood Memorial Hospital,CA,Humboldt,2017,0,0,15,9,0,0,0,0,0,2,0,26,No
+313,Regional Medical of San Jose,CA,Santa Clara,2017,0,6,26,20,0,2,9,0,3,13,6,85,No
+314,Regional Scranton,PA,Lackawanna,2018,15,0,31,12,0,0,30,0,41,2,0,131,No
+315,Riddle Memorial,PA,Delaware,2018,8,0,90,28,0,0,0,0,2,5,0,133,No
+316,Rideout Memorial Hospital,CA,Yuba,2017,1,2,25,17,0,4,16,0,8,8,1,82,No
+317,Ridgecrest Regional Hospital,CA,Kern,2017,0,0,8,2,0,0,0,0,0,1,0,11,No
+318,Riverside Community Hospital,CA,Riverside,2017,1,13,180,69,7,8,15,19,32,23,7,374,No
+319,Riverside County Regional Medical Center,CA,Riverside,2015,3,8,32,14,0,2,5,1,8,5,0,78,No
+320,Riverside University Health System ñ Medical Center,CA,Riverside,2017,4,11,40,17,1,1,5,0,8,12,4,103,No
+321,Robert Packer,PA,Bradford,2018,4,4,124,46,7,3,44,5,44,15,5,301,No
+322,Ronald Reagan UCLA Medical Center,CA,Los Angeles,2017,28,121,332,71,20,39,86,62,125,43,18,945,Yes
+323,Roxborough Memorial,PA,Philadelphia,2018,2,0,1,1,0,0,1,0,0,0,0,5,No
+324,Saddleback Memorial Medical Center,CA,Orange,2017,3,23,165,33,0,0,21,0,41,6,2,294,No
+325,Saint Agnes Medical Center,CA,Fresno,2017,1,3,155,40,3,2,16,3,56,17,4,300,No
+326,Saint Bernardine Medical Center,CA,San Bernardino,2017,7,11,83,26,0,3,7,1,125,9,3,275,No
+327,Saint Elizabeth Community Hospital,CA,Tehama,2017,0,0,6,7,0,1,0,0,0,0,0,14,No
+328,Saint Francis Medical Center,CA,Los Angeles,2017,2,4,47,21,0,0,3,1,5,4,0,87,No
+329,Saint Francis Memorial Hospital,CA,San Francisco,2017,0,2,5,7,0,0,0,0,1,2,1,18,No
+330,Saint Helena Hospital,CA,Napa,2017,0,0,12,12,3,3,16,0,0,9,1,56,No
+331,Saint Helena Hospital ñ Clearlake,CA,Lake,2017,0,0,2,2,0,0,0,0,0,0,0,4,No
+332,Saint Johnís Health Center,CA,Los Angeles,2014,3,63,160,54,2,18,24,9,16,9,10,368,No
+333,Saint Johnís Pleasant Valley Hospital,CA,Ventura,2017,0,0,41,13,0,0,0,1,0,2,0,57,No
+334,Saint Johnís Regional Medical Center,CA,Ventura,2017,2,5,84,29,0,1,22,0,14,15,1,173,No
+335,Saint Joseph Hospital Eureka,CA,Humboldt,2017,3,0,73,24,0,3,10,4,11,9,2,139,No
+336,Saint Joseph Hospital Orange,CA,Orange,2017,0,26,273,46,1,8,52,17,53,26,9,511,No
+337,Saint Josephís Medical Center of Stockton,CA,San Joaquin,2017,8,0,86,39,4,5,22,1,7,23,8,203,No
+338,Saint Jude Medical Center,CA,Orange,2017,0,35,230,47,0,6,9,3,54,19,1,404,No
+339,Saint Louise Regional Hospital,CA,Santa Clara,2017,0,0,27,8,0,0,0,0,2,7,1,45,No
+340,Saint Mary Medical Center Apple Valley,CA,San Bernardino,2017,2,0,49,25,0,1,4,0,16,9,2,108,No
+341,Saint Mary Medical Center Long Beach,CA,Los Angeles,2017,2,4,19,7,0,0,1,2,3,4,2,44,No
+342,"Saint Maryís Medical Center, San Francisco",CA,San Francisco,2017,1,0,78,6,0,1,4,0,1,4,2,97,No
+343,Saint Rose Hospital,CA,Alameda,2017,0,0,13,7,0,1,0,0,1,6,3,31,No
+344,Saint Vincent,PA,Erie,2018,11,6,93,49,0,2,24,1,26,16,3,231,No
+345,Saint Vincent Medical Center,CA,Los Angeles,2017,3,7,98,25,2,10,10,3,12,10,8,188,No
+346,Salinas Valley Memorial Hospital,CA,Monterey,2017,0,9,58,32,0,3,7,3,0,10,11,133,No
+348,San Antonio Regional Hospital,CA,San Bernardino,2017,0,14,122,55,0,2,17,0,21,17,6,254,No
+349,San Dimas Community Hospital,CA,Los Angeles,2017,0,0,30,10,0,0,0,0,1,2,1,44,No
+350,San Francisco General Hospital,CA,San Francisco,2015,0,6,44,20,0,0,5,2,0,2,1,80,No
+351,San Gabriel Valley Medical Center,CA,Los Angeles,2016,0,2,54,12,0,1,2,0,0,9,3,83,No
+352,San Gorgonio Memorial Hospital,CA,Riverside,2017,0,0,10,5,0,0,0,0,0,1,0,16,No
+353,San Joaquin Community Hospital,CA,Kern,2017,0,12,160,42,0,1,7,1,25,11,3,262,No
+354,San Joaquin General Hospital,CA,San Joaquin,2017,0,2,22,13,0,1,0,2,2,7,0,49,No
+355,San Leandro Hospital,CA,Alameda,2017,0,0,12,4,0,1,0,0,0,3,0,20,No
+356,San Mateo Medical Center,CA,San Mateo,2017,0,1,51,9,0,1,1,1,0,2,3,69,No
+357,San Ramon Regional Medical Center,CA,Contra Costa,2017,0,0,95,24,0,0,3,0,5,4,0,131,No
+358,Santa Barbara Cottage Hospital,CA,Santa Barbara,2017,2,33,62,39,0,4,26,5,37,17,3,228,No
+359,Santa Clara Valley Medical Center,CA,Santa Clara,2017,9,17,126,46,2,5,10,4,23,18,7,267,No
+360,Santa Monica UCLA Medical Center and Orthopedic Hospital,CA,Los Angeles,2017,19,11,338,22,0,0,7,0,52,13,4,466,No
+361,Santa Rosa Memorial Hospital Montgomery,CA,Sonoma,2017,0,18,144,11,0,0,3,0,14,2,0,192,No
+362,Scripps Green Hospital,CA,San Diego,2017,5,14,151,47,4,21,0,14,48,25,4,333,No
+363,Scripps Memorial Hospital Encinitas,CA,San Diego,2017,0,7,62,26,0,4,15,1,3,16,2,136,No
+364,Scripps Memorial Hospital La Jolla,CA,San Diego,2017,0,28,296,42,0,2,31,1,9,22,2,433,No
+365,Scripps Mercy Hospital,CA,San Diego,2017,17,14,138,87,1,6,18,5,135,35,6,462,No
+366,Seneca Healthcare District,CA,Plumas,2014,0,0,1,0,0,0,0,0,0,0,0,1,No
+367,Sequoia Hospital,CA,San Mateo,2017,0,5,17,31,0,2,3,0,26,8,0,92,No
+368,Seton Medical Center,CA,San Mateo,2017,0,0,19,12,0,0,2,0,1,4,6,44,No
+369,Sharon Regional,PA,Mercer,2018,2,0,12,20,0,0,1,0,0,0,2,37,No
+370,Sharp Chula Vista Medical Center,CA,San Diego,2017,0,11,170,45,3,3,7,3,2,27,11,282,No
+371,Sharp Coronado Hospital and Healthcare Center,CA,San Diego,2017,0,0,3,6,0,0,1,0,0,7,0,17,No
+372,Sharp Memorial Hospital,CA,San Diego,2017,8,31,506,99,4,18,27,8,71,32,4,808,No
+373,Shasta Regional Medical Center,CA,Shasta,2017,0,0,0,10,0,1,9,1,0,2,1,24,No
+374,Sherman Oaks Hospital,CA,Los Angeles,2017,0,0,0,6,0,0,0,0,0,1,0,7,No
+375,Sierra Nevada Memorial Hospital,CA,Nevada,2017,0,0,56,15,0,1,1,0,1,7,0,81,No
+376,Sierra View Medical Center,CA,Tulare,2017,0,0,42,10,0,0,0,0,0,2,0,54,No
+377,Sierra Vista Regional Medical Center,CA,San Luis Obispo,2017,0,22,30,19,0,1,9,3,27,4,0,115,No
+378,Silver Lake Medical Center Downtown Campus,CA,Los Angeles,2017,0,0,2,1,0,0,0,0,1,0,0,4,No
+379,Simi Valley Hospital and Healthcare Services Sycamore,CA,Ventura,2017,0,3,6,14,0,1,0,1,0,3,0,28,No
+380,Soldiers & Sailors,PA,Tioga,2018,0,0,5,7,0,0,0,0,0,0,0,12,No
+381,Somerset,PA,Somerset,2018,0,0,8,9,0,0,0,0,0,3,0,20,No
+382,Sonoma Valley Hospital,CA,Sonoma,2017,0,0,0,5,0,0,0,0,0,1,0,6,No
+383,Sonora Regional Medical Center Greenley,CA,Tuolumne,2017,0,0,69,6,0,0,0,0,0,2,0,77,No
+384,Soon-Shiong MC Windber,PA,Somerset,2018,0,0,55,17,0,0,0,0,0,0,0,72,No
+385,South Coast Global Medical Center,CA,Orange,2017,0,0,27,3,0,0,0,0,6,1,0,37,No
+386,Southern California Hospital at Culver City,CA,Los Angeles,2017,0,0,26,7,0,0,3,1,6,5,4,52,No
+388,Southern California Hospital at Hollywood,CA,Los Angeles,2017,0,0,0,4,0,0,0,0,4,4,0,12,No
+389,Southwest Healthcare System Murrieta,CA,Riverside,2017,2,25,82,32,1,1,0,0,48,14,1,206,No
+390,St Clair,PA,Allegheny,2018,14,0,203,48,4,0,52,0,81,13,1,416,No
+391,St Joseph Reading,PA,Berks,2018,1,2,58,24,0,0,9,0,0,3,2,99,No
+392,St Luke's Anderson,PA,Northampton,2018,8,0,217,5,0,0,0,0,0,0,0,230,No
+393,St Luke's Bethlehem,PA,Lehigh,2018,19,28,114,96,12,7,73,21,113,26,11,520,No
+394,St Luke's Miners,PA,Schuylkill,2018,2,0,6,1,0,0,0,0,0,0,0,9,No
+395,St Luke's Monroe,PA,Monroe,2018,1,0,1,6,0,0,0,0,1,0,0,9,No
+396,St Luke's Quakertown,PA,Bucks,2018,1,0,8,6,0,0,0,0,1,0,0,16,No
+397,St Luke's Sacred Heart,PA,Lehigh,2018,0,0,18,3,0,0,1,0,0,0,0,22,No
+398,St Mary MC,PA,Bucks,2018,13,6,168,42,0,0,19,0,53,9,0,310,No
+399,Stanford Health Care,CA,Santa Clara,2017,74,101,561,99,48,137,131,73,215,103,45,1587,Yes
+401,Stanislaus Surgical Hospital,CA,Stanislaus,2017,0,0,6,0,0,0,0,0,0,0,0,6,No
+402,Suburban Community,PA,Montgomery,2018,4,0,0,10,0,0,1,0,9,1,0,25,No
+403,Sunbury Community,PA,Northumberland,2018,1,0,0,4,0,0,0,0,1,0,0,6,No
+404,Surgical Inst Reading,PA,Berks,2018,0,0,15,1,0,0,0,0,0,0,0,16,No
+405,Surgical Spec Coordinated,PA,Lehigh,2018,0,0,24,0,0,0,0,0,0,0,0,24,No
+406,Sutter Amador Hospital,CA,Amador,2017,0,0,2,11,0,0,0,0,0,0,0,13,No
+407,Sutter Auburn Faith Hospital,CA,Placer,2017,1,0,52,10,0,2,1,0,0,2,1,69,No
+408,Sutter Coast Hospital,CA,Del Norte,2017,0,0,13,6,0,0,0,0,0,0,0,19,No
+409,Sutter Davis Hospital,CA,Yolo,2017,0,0,16,2,0,0,0,0,2,1,0,21,No
+410,Sutter Delta Medical Center,CA,Contra Costa,2017,0,0,28,7,0,0,0,0,2,1,0,38,No
+412,Sutter Lakeside Hospital,CA,Lake,2017,0,0,0,4,0,0,1,0,0,2,0,7,No
+413,Sutter Medical Center of Santa Rosa,CA,Sonoma,2014,1,0,72,19,0,0,7,0,0,0,1,100,No
+414,"Sutter Medical Center, Sacramento",CA,Sacramento,2017,3,38,296,47,10,8,31,7,137,22,6,605,No
+415,Sutter Memorial Hospital,CA,Sacramento,2015,0,11,0,2,0,0,2,0,0,0,0,15,No
+416,Sutter Roseville Medical Center,CA,Placer,2017,1,19,163,46,0,2,50,2,72,17,1,373,No
+417,Sutter Santa Rosa Regional Hospital,CA,Sonoma,2017,0,0,76,19,3,0,3,0,0,11,1,113,No
+418,Sutter Solano Medical Center,CA,Solano,2017,0,0,52,21,0,0,1,0,2,12,1,89,No
+419,Sutter Surgical Hospital North Valley,CA,Sutter,2017,0,0,82,6,0,0,0,0,0,2,0,90,No
+420,Sutter Tracy Community Hospital,CA,San Joaquin,2017,0,0,20,11,0,0,0,0,0,3,0,34,No
+421,Tahoe Forest Hospital,CA,Nevada,2017,0,0,26,8,0,0,0,0,3,0,1,38,No
+422,Taylor Crozer,PA,Delaware,2018,2,0,1,8,0,0,0,0,1,0,0,12,No
+423,Temecula Valley Hospital,CA,Riverside,2017,0,0,62,13,0,2,7,0,1,6,4,95,No
+424,Temple Community Hospital,CA,Los Angeles,2014,0,0,2,2,0,0,0,0,0,0,0,4,No
+425,Temple University,PA,Philadelphia,2018,14,28,107,36,6,13,61,4,128,16,8,421,No
+426,Thomas Jefferson Univ,PA,Philadelphia,2018,39,141,251,66,28,25,92,114,94,17,24,891,Yes
+427,Titusville Area,PA,Crawford,2018,0,0,0,7,0,0,0,0,0,0,0,7,No
+428,Torrance Memorial Medical Center,CA,Los Angeles,2017,4,13,347,96,5,7,47,8,68,38,6,639,No
+429,Tri-City Medical Center ñ Oceanside,CA,San Diego,2017,1,5,89,34,0,0,9,1,34,17,0,190,No
+430,Trinity Hospital,CA,Trinity,2016,0,0,1,0,0,0,0,0,0,0,0,1,No
+431,Troy Community,PA,Bradford,2018,0,0,0,2,0,0,0,0,0,0,0,2,No
+432,Tulare Regional Medical Center,CA,Tulare,2017,0,0,2,1,0,0,0,0,0,0,0,3,No
+433,Twin Cities Community Hospital,CA,San Luis Obispo,2017,0,0,35,11,0,1,0,0,6,4,0,57,No
+434,Tyler Memorial,PA,Wyoming,2018,0,0,3,2,0,0,0,0,0,0,0,5,No
+435,Tyrone Regional Health,PA,Blair,2018,0,0,24,1,0,0,0,0,0,0,0,25,No
+436,UC Davis Medical Center,CA,Sacramento,2017,37,59,205,37,7,16,54,27,62,31,3,538,Yes
+437,UC Irvine Medical Center,CA,Orange,2017,21,108,144,57,6,19,32,42,59,58,21,567,Yes
+438,UC San Diego Health System Hillcrest Medical Center,CA,San Diego,2017,34,69,381,108,19,62,74,38,151,47,23,1006,Yes
+439,UC San Francisco Medical Center,CA,San Francisco,2017,61,354,459,108,28,152,97,57,313,100,31,1760,Yes
+440,Ukiah Valley Medical Center,CA,Mendocino,2017,0,0,102,19,0,0,3,0,0,1,0,125,No
+441,Uniontown,PA,Fayette,2018,1,0,75,26,1,0,3,0,2,4,0,112,No
+442,University of Southern California Verdugo Hills Hospital,CA,Los Angeles,2017,3,0,52,7,0,0,0,1,117,4,0,184,No
+443,UPMC Altoona,PA,Blair,2018,5,2,68,39,0,0,17,0,21,5,2,159,No
+444,UPMC Bedford,PA,Bedford,2018,2,0,9,4,0,0,0,0,2,0,0,17,No
+445,UPMC Cole,PA,Potter,2018,0,0,6,3,0,0,0,0,0,0,0,9,No
+446,UPMC East,PA,Allegheny,2018,11,0,2,24,0,0,10,0,2,0,1,50,No
+447,UPMC Hamot,PA,Erie,2018,7,14,152,40,0,1,31,0,43,10,1,299,No
+448,UPMC Horizon,PA,Mercer,2018,3,0,69,6,0,0,0,0,2,0,0,80,No
+449,UPMC Jameson,PA,Lawrence,2018,3,0,35,21,0,0,3,0,4,0,0,66,No
+450,UPMC Kane,PA,McKean,2018,0,0,2,0,0,0,0,0,0,0,0,2,No
+451,UPMC McKeesport,PA,Allegheny,2018,2,0,6,14,0,0,0,0,1,0,0,23,Yes
+452,UPMC Mercy,PA,Allegheny,2018,35,14,3,22,7,1,35,0,55,5,0,177,No
+453,UPMC Northwest,PA,Venango,2018,6,0,27,13,0,0,0,0,1,0,0,47,No
+454,UPMC Passavant,PA,Allegheny,2018,3,0,211,115,18,37,71,0,27,62,4,548,Yes
+455,UPMC Pinnacle Carlisle,PA,Cumberland,2018,3,0,11,10,0,0,0,0,4,0,0,28,No
+456,UPMC Pinnacle Hanover,PA,York,2018,1,0,66,20,0,0,0,0,0,2,0,89,No
+457,UPMC Pinnacle Hospitals,PA,Dauphin,2018,27,0,331,115,2,2,34,3,78,20,1,613,No
+458,UPMC Pinnacle Lancaster,PA,Lancaster,2018,5,2,6,7,1,0,10,4,18,4,3,60,No
+459,UPMC Pinnacle Lititz,PA,Lancaster,2018,2,0,54,5,0,0,0,0,0,0,0,61,No
+460,UPMC Pinnacle Memorial,PA,York,2018,0,0,18,14,0,0,0,0,0,2,0,34,No
+461,UPMC Presby Shadyside,PA,Allegheny,2018,104,168,80,181,54,130,170,85,342,39,38,1391,Yes
+462,UPMC St Margaret,PA,Allegheny,2018,8,0,46,40,0,1,48,0,1,5,4,153,No
+463,Valley Presbyterian Hospital,CA,Los Angeles,2017,2,2,154,21,0,6,2,3,2,11,7,210,No
+464,Valleycare Medical Center,CA,Alameda,2017,0,0,85,21,0,0,6,1,0,4,1,118,No
+465,Ventura County Medical Center,CA,Ventura,2017,0,4,59,12,2,8,0,4,14,10,3,116,No
+466,Vibra Hospital of San Diego,CA,San Diego,2017,0,0,0,0,0,0,0,0,0,1,0,1,No
+467,Victor Valley Global Medical Center,CA,San Bernardino,2017,0,0,33,11,0,0,0,0,0,5,0,49,No
+468,Warren General,PA,Warren,2018,0,0,21,5,0,0,0,0,0,0,0,26,No
+469,Washington,PA,Washington,2018,2,0,57,36,2,0,27,0,30,2,1,157,No
+470,Washington Hospital ñ Fremont,CA,Alameda,2017,0,9,25,37,3,1,8,0,3,5,0,91,No
+471,Watsonville Community Hospital,CA,Santa Cruz,2017,0,0,23,9,0,0,0,0,1,1,1,35,No
+472,Wayne Memorial,PA,Wayne,2018,0,0,23,10,0,0,0,0,0,1,0,34,No
+473,Waynesboro,PA,Franklin,2018,0,0,49,4,0,0,0,0,0,1,0,54,No
+474,WellSpan Gettysburg,PA,Adams,2018,1,0,57,27,0,0,0,0,1,1,0,87,No
+475,WellSpan Good Samaritan,PA,Lebanon,2018,1,0,72,12,0,0,4,0,2,2,0,93,No
+476,West Anaheim Medical Center,CA,Orange,2017,0,0,2,4,0,0,1,0,0,0,0,7,No
+477,West Hills Hospital and Medical Center,CA,Los Angeles,2017,0,14,47,19,0,0,6,0,2,4,0,92,No
+478,West Penn,PA,Allegheny,2018,2,5,64,6,15,2,0,1,7,4,4,110,No
+480,Western Medical Center Anaheim,CA,Orange,2014,0,0,3,5,0,0,0,0,0,1,0,9,No
+479,Western Medical Center ñ Santa Ana,CA,Orange,2014,0,7,31,11,0,0,1,0,1,0,1,52,No
+481,White Memorial Medical Center,CA,Los Angeles,2017,1,12,96,22,0,2,1,1,4,23,6,168,No
+482,Whittier Hospital Medical Center,CA,Los Angeles,2017,0,0,18,12,0,0,3,0,0,6,4,43,No
+483,Wilkes-Barre General,PA,Luzerne,2018,9,3,71,50,0,1,19,0,27,14,3,197,No
+484,Williamsport Regional,PA,Lycoming,2018,12,7,82,20,0,0,12,0,26,4,0,163,No
+485,Woodland Memorial Hospital,CA,Yolo,2017,0,0,42,6,0,0,0,0,0,6,0,54,No
+486,York,PA,York,2018,5,19,104,79,15,5,91,12,4,20,6,360,No
